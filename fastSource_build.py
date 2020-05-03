@@ -77,17 +77,17 @@ def runRepeats(output, levels, benchmarks, repeats, pretrained, multi_label, com
             with open(res, 'r') as fin :
                 res = json.loads(fin.read())
             precision, sensitivity, f1_score, pL = getAccuracies(res, levels, combinations, multi_label)
-            logger.info('Unit {1} - Precision:\t{0}'.format('\t'.join( \
+            logger.info('Test {1} - Precision:\t{0}'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], precision)]), ite))
-            logger.info('Unit {1} - Sensitivity:\t{0}'.format('\t'.join( \
+            logger.info('Test {1} - Sensitivity:\t{0}'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], sensitivity)]), ite))
-            logger.info('Unit {1} - F1_score:\t{0}'.format('\t'.join( \
+            logger.info('Test {1} - F1_score:\t{0}'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], f1_score)]), ite))
-            fout.write('Unit {1} - Precision:\t{0}\n'.format('\t'.join( \
+            fout.write('Test {1} - Precision:\t{0}\n'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], precision)]), ite))
-            fout.write('Unit {1} - Sensitivity:\t{0}\n'.format('\t'.join( \
+            fout.write('Test {1} - Sensitivity:\t{0}\n'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], sensitivity)]), ite))
-            fout.write('Unit {1} - F1_score:\t{0}\n'.format('\t'.join( \
+            fout.write('Test {1} - F1_score:\t{0}\n'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], f1_score)]), ite))
 
         precisions.append(precision)
@@ -209,7 +209,7 @@ def generateModel(output, levels, benchmark, pretrained, multi_label, conversion
     for id, model_file in pool.imap_unordered(ite_gModel, [ [id, level, output, train_set, pretrained, multi_label] for id, (level, _) in enumerate(levels) ]) :
         configuration['models'][id] = os.path.basename(model_file)
     json.dump(configuration, open(output+'/model.conf', 'w'))
-    logger.info('Model constructed. Use fastSource {0} to start a web API with the model'.format(os.path.abspath(output)))
+    logger.info('Model constructed. Use fastSource -m {0} to start a web API with the model'.format(os.path.abspath(output)))
 
 
 def getPretrained() :
@@ -281,7 +281,7 @@ def prepare_data(def_file, data_file, multi_label) :
 @click.command(context_settings=dict(help_option_names=['-h', '--help']))
 @click.option('-d', '--definition', required=True, help='[REQUIRED] A definition file for the scheme')
 @click.option('-s', '--samples', required=True, help='[REQUIRED] A set of manually curated entries for the training of the model.')
-@click.option('-o', '--output', required=True, help='[DEFAULT: fastSource] the prefix for the generated models.')
+@click.option('-o', '--output', required=True, help='[REQUIRED] the folder name for the generated models.')
 @click.option('--test_p', default=20, help='[DEFAULT: 20] Percentage of samples in the test set. The others are used for the training. Set to 0 to disable the evaluation stage.')
 @click.option('--repeat', default=10, help='[DEFAULT: 10] Number of independent evaluations. Use <test_p>*<repeat> >= 100 to test throught the all dataset.')
 @click.option('--pretrained', default='', help='file pointer to a pre-trained vector. will run without a pre-trained vector is not flagged Use "wiki-2016" to download and use a vector based on wiki 2016.')
