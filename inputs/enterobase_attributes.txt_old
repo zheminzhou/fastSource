@@ -1,0 +1,61 @@
+Niche	Type	RAW
+Human	Human	patient,infant,outbreak,Human
+Aquatic Animal	Marine Mammal	whale,seal,dolphin
+Aquatic Animal	Shellfish	shrimp,mussel,oyster,crab,Shellfish
+Aquatic Animal	Fish	shark,salmon,gill,Fish
+Wild Animal	Invertebrate	insect,spider,worm,snail,arthropods,Invertebrate
+Wild Animal	Amphibian	frog,salamander,Amphibian
+Wild Animal	Reptile	snake,turtle,crocodile,Reptile
+Wild Animal	Avian	bird,eagle,ostrich,falcons
+Wild Animal	Marsupial	Koala,kangaroo,marsupial
+Wild Animal	Rabbit/Hare	Leporidae,hare,rabbit
+Wild Animal	Rodent	mouse,squirrels,Prairie dog,Marmot,rodent,hedgehogs,shrew,mole
+Wild Animal	Primate	monkey,ape,Gorilla,primate
+Wild Animal	Bat	Chiroptera,megabats,bat
+Wild Animal	Bovine/Antelope	bison,antelope
+Wild Animal	Swine	boar,hog,swine
+Wild Animal	Camelid	guanaco,wild Bactrian camel,vicuna,camel,Llama,Alpaca,camelid
+Wild Animal	Deer (Cervidae)	elk,moose,deer,Cervidae
+Wild Animal	Ovine/Goat (Caprinae)	Bighorn sheep,serow
+Wild Animal	Equine	zebra,Kiang
+Wild Animal	Feline	tiger,lion,cheetah,jaguar
+Wild Animal	Canine	fox,Wolf,Raccoon dog
+Wild Animal	Weasel/Badger (Mustelid)	otter,Marten,weasel,badger,Mustelid,mink,tayra
+Wild Animal		Animal,feces,elephant,raccoon,bear,hyena
+Livestock	Bovine	cattle,beef,buffalo,calf
+Livestock	Ovine/Goat (Caprinae)	sheep,goat
+Livestock	Equine	horse,donkey,mule
+Livestock	Swine	pig,swine,pork
+Livestock		livestock,mixed raw bones
+Poultry	Poultry	turkey,chicken,hen,chicken egg
+Companion Animal	Feline	cat,kitten
+Companion Animal	Canine	dog,Chihuahua
+Companion Animal		goldfish,pets
+Animal Feed	Unspecified Meat	dog chew,blood meal,bone meal
+Animal Feed	Swine	pig ear treat
+Animal Feed	Bovine	beef formula patties,bullystick
+Animal Feed	Ovine/Goat (Caprinae)	dog treat lamb crumble
+Animal Feed	Avian	feather meal
+Animal Feed	Fish	fish meal
+Animal Feed	Plant	soybean meal
+Animal Feed		pet treat,feed supplement
+Animal Feed	Dairy	dairy feed
+Food	Plant	Rice,Bread,chili,cereal,Falafel
+Food	Dairy	milk,cheese,yogurt,cream
+Food	Avian	fried wings,chicken cajun,pasteurized yolk
+Food	Unspecified Meat	meat,jerky,hot dog
+Food	Swine	ham,salami
+Food	Bovine	corned beef,pastrami,beef jerky
+Food	Ovine/Goat (Caprinae)	mutton,roast lamb
+Food	Fish	cooked tuna,RTE salmon
+Food	Invertebrate	cooked snail
+Food	Shellfish	steamed mussel
+Food	Reptile	turtle soup
+Food		pizza,Candy bar,chocolate,soft drink
+Environment	Plant	tree,glass,vegetable,algae,phytoplankton,seaweed
+Environment	Soil/Dust	swab,soil,dust
+Environment	Water/River	wastewater,sewage
+Environment	Animal-related	manure,cage,pethouse
+Environment		environment,environ,env
+Laboratory	Laboratory	type strain,NCTC,ATCC,serial passage
+ND		unknown,unspecified

@@ -1,0 +1,61 @@
+Niche	Type
+Human	Human
+Aquatic Animal	Marine Mammal
+Aquatic Animal	Shellfish
+Aquatic Animal	Fish
+Wild Animal	Invertebrate
+Wild Animal	Amphibian
+Wild Animal	Reptile
+Wild Animal	Avian
+Wild Animal	Marsupial
+Wild Animal	Rabbit/Hare
+Wild Animal	Rodent
+Wild Animal	Primate
+Wild Animal	Bat
+Wild Animal	Bovine/Antelope
+Wild Animal	Swine
+Wild Animal	Camelid
+Wild Animal	Deer (Cervidae)
+Wild Animal	Ovine/Goat (Caprinae)
+Wild Animal	Equine
+Wild Animal	Feline
+Wild Animal	Canine
+Wild Animal	Weasel/Badger (Mustelid)
+Wild Animal	
+Livestock	Bovine
+Livestock	Ovine/Goat (Caprinae)
+Livestock	Equine
+Livestock	Swine
+Livestock	
+Poultry	Poultry
+Companion Animal	Feline
+Companion Animal	Canine
+Companion Animal	
+Animal Feed	Unspecified Meat
+Animal Feed	Swine
+Animal Feed	Bovine
+Animal Feed	Ovine/Goat (Caprinae)
+Animal Feed	Poultry
+Animal Feed	Fish
+Animal Feed	Plant
+Animal Feed	
+Animal Feed	Dairy
+Food	Plant
+Food	Dairy
+Food	Poultry
+Food	Unspecified Meat
+Food	Swine
+Food	Bovine
+Food	Ovine/Goat (Caprinae)
+Food	Fish
+Food	Invertebrate
+Food	Shellfish
+Food	Reptile
+Food	
+Environment	Plant
+Environment	Soil/Dust
+Environment	Water/River
+Environment	Animal-related
+Environment	
+Laboratory	Laboratory
+ND	

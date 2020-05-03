@@ -1,0 +1,354 @@
+Category 1	Category 2	Category 3
+Climate	Cold	Alpine
+Climate	Cold	Polar
+Climate	Cold	Subarctic
+Climate	Cold	Tundra
+Climate	Cold	
+Climate	Hot	Arid
+Climate	Hot	Semiarid
+Climate	Hot	Tropical
+Climate	Hot	
+Climate	Temperate	Boreal
+Climate	Temperate	Subtropical
+Climate	Temperate	
+Condition	Acidic	
+Condition	Alkaline	
+Condition	Anoxic (anaerobic)	
+Condition	Psychrophilic (<10°C)	
+Condition	Saline	
+Condition	Sulfuric	
+Condition	Thermophilic (>45°C)	
+Condition		
+Engineered	Agriculture	Field
+Engineered	Agriculture	Garden
+Engineered	Agriculture	Greenhouse
+Engineered	Agriculture	Grove (Orchard)
+Engineered	Agriculture	Livestock
+Engineered	Agriculture	Meadow
+Engineered	Agriculture	Plantation
+Engineered	Agriculture	Vineyard
+Engineered	Agriculture	
+Engineered	Biodegradation	Anaerobic digestor
+Engineered	Biodegradation	Composting
+Engineered	Biodegradation	Decomposing animal
+Engineered	Biodegradation	Decomposing plant
+Engineered	Biodegradation	
+Engineered	Bioreactor	
+Engineered	Bioremediation	Biofilter
+Engineered	Bioremediation	In situ
+Engineered	Bioremediation	
+Engineered	Built environment	Air conditioner
+Engineered	Built environment	Clean room
+Engineered	Built environment	Container (Reservoir)
+Engineered	Built environment	House
+Engineered	Built environment	Indoor
+Engineered	Built environment	Surface swab
+Engineered	Built environment	Water reservoir (Aquarium/pool)
+Engineered	Built environment	
+Engineered	Contamination	Heavy metal
+Engineered	Contamination	Oil (Fuel)
+Engineered	Contamination	
+Engineered	Food production	Aquaculture
+Engineered	Food production	Beverage
+Engineered	Food production	Bottled_canned_packed food
+Engineered	Food production	Dairy product
+Engineered	Food production	Egg
+Engineered	Food production	Fermented beverage
+Engineered	Food production	Fermented seafood
+Engineered	Food production	Fermented vegetable
+Engineered	Food production	Food
+Engineered	Food production	Meat
+Engineered	Food production	Oil (Food)
+Engineered	Food production	Starter culture
+Engineered	Food production	Sugary food
+Engineered	Food production	
+Engineered	Industrial	Cooling tower
+Engineered	Industrial	Engineered product
+Engineered	Industrial	Industrial production
+Engineered	Industrial	Industrial wastewater
+Engineered	Industrial	Machines and devices
+Engineered	Industrial	Oil reservoir
+Engineered	Industrial	Plant (Factory)
+Engineered	Industrial	
+Engineered	Laboratory	Contaminant
+Engineered	Laboratory	Defined media
+Engineered	Laboratory	Lab enrichment
+Engineered	Laboratory	Simulated communities
+Engineered	Laboratory	
+Engineered	Other	Currency
+Engineered	Other	Mine
+Engineered	Other	Painting
+Engineered	Other	
+Engineered	Waste	Activated sludge
+Engineered	Waste	Coalbed water
+Engineered	Waste	Domestic waste
+Engineered	Waste	Dust (Ash)
+Engineered	Waste	Industrial waste
+Engineered	Waste	Industrial wastewater
+Engineered	Waste	Landfill
+Engineered	Waste	Sewage sludge
+Engineered	Waste	Solid animal waste
+Engineered	Waste	Solid plant waste
+Engineered	Waste	Solid waste
+Engineered	Waste	Waste gas
+Engineered	Waste	Wastewater
+Engineered	Waste	Water treatment plant
+Engineered	Waste	
+Engineered		
+Environmental	Air	Indoor Air
+Environmental	Air	Outdoor Air
+Environmental	Air	
+Environmental	Aquatic	Brackish
+Environmental	Aquatic	Cave water
+Environmental	Aquatic	Coast
+Environmental	Aquatic	Coral reef
+Environmental	Aquatic	Estuary
+Environmental	Aquatic	Foam
+Environmental	Aquatic	Freshwater
+Environmental	Aquatic	Geologic
+Environmental	Aquatic	Glacier
+Environmental	Aquatic	Groundwater
+Environmental	Aquatic	Hydrothermal vent
+Environmental	Aquatic	Ice
+Environmental	Aquatic	Lake (large)
+Environmental	Aquatic	Mangrove
+Environmental	Aquatic	Marine
+Environmental	Aquatic	Mud (Sludge)
+Environmental	Aquatic	Non-marine Saline and Alkaline
+Environmental	Aquatic	Pond (small)
+Environmental	Aquatic	River (Creek)
+Environmental	Aquatic	Salt marsh
+Environmental	Aquatic	Sediment
+Environmental	Aquatic	Spring
+Environmental	Aquatic	Surface water
+Environmental	Aquatic	Thermal spring
+Environmental	Aquatic	Tidal flat
+Environmental	Aquatic	Wetland (Swamp)
+Environmental	Aquatic	
+Environmental	Biofilm	Iron mat
+Environmental	Biofilm	
+Environmental	Microbial community	Co-culture
+Environmental	Microbial community	Decomposing algae
+Environmental	Microbial community	Decomposing animal
+Environmental	Microbial community	Decomposing plant
+Environmental	Microbial community	Microbial mat
+Environmental	Microbial community	
+Environmental	Terrestrial	Coast
+Environmental	Terrestrial	Core sample
+Environmental	Terrestrial	Desert
+Environmental	Terrestrial	Dust
+Environmental	Terrestrial	Forest
+Environmental	Terrestrial	Geologic
+Environmental	Terrestrial	Glacier
+Environmental	Terrestrial	Grassland
+Environmental	Terrestrial	Mud (Sludge)
+Environmental	Terrestrial	Permafrost
+Environmental	Terrestrial	Salt marsh
+Environmental	Terrestrial	Sandy
+Environmental	Terrestrial	Sediment
+Environmental	Terrestrial	Soil
+Environmental	Terrestrial	Tidal flat
+Environmental	Terrestrial	Tundra
+Environmental	Terrestrial	Volcanic
+Environmental	Terrestrial	Wetland (Swamp)
+Environmental	Terrestrial	
+Environmental		
+Host	Algae	Brown Algae
+Host	Algae	Green algae
+Host	Algae	Red algae
+Host	Algae	
+Host	Amphibia	
+Host	Arthropoda	Crustacea
+Host	Arthropoda	Insecta
+Host	Arthropoda	Tick
+Host	Arthropoda	
+Host	Birds	Chicken
+Host	Birds	
+Host	Fishes	Salmonidae
+Host	Fishes	Zebrafish
+Host	Fishes	
+Host	Fungi	Mushroom
+Host	Fungi	Mycorrhiza
+Host	Fungi	
+Host	Human	Child
+Host	Human	Female
+Host	Human	Male
+Host	Human	
+Host	Invertebrates (Other)	Annelida
+Host	Invertebrates (Other)	Cnidaria (Corals)
+Host	Invertebrates (Other)	Echinodermata
+Host	Invertebrates (Other)	Mollusca
+Host	Invertebrates (Other)	Nematoda
+Host	Invertebrates (Other)	Porifera (Sponges)
+Host	Invertebrates (Other)	Tunicata
+Host	Invertebrates (Other)	
+Host	Mammals	Aquatic mammal
+Host	Mammals	Bovinae (Cow_Cattle)
+Host	Mammals	Canidae (Dog)
+Host	Mammals	Caprinae (Sheep/Goat)
+Host	Mammals	Equidae (Horse)
+Host	Mammals	Felidae (Cat)
+Host	Mammals	Leporidae (Rabbit/Hare)
+Host	Mammals	Muridae (Mouse/Rat)
+Host	Mammals	Primates
+Host	Mammals	Rodentia (Other)
+Host	Mammals	Suidae (Pig_Swine)
+Host	Mammals	
+Host	Microbial	Bacteria
+Host	Microbial	Viriome
+Host	Microbial	
+Host	Other	Decomposing animal
+Host	Other	Endosymbiont
+Host	Other	Epibiont
+Host	Other	Extracellular
+Host	Other	Intracellular
+Host	Other	Zooplankton
+Host	Other	
+Host	Plants	Aquatic plant
+Host	Plants	Decomposing plant
+Host	Plants	Herbaceous plants (Grass_Crops)
+Host	Plants	Lichen
+Host	Plants	Moss
+Host	Plants	Peat moss
+Host	Plants	Shrub (Scrub)
+Host	Plants	Tree
+Host	Plants	Xerophytic
+Host	Plants	
+Host	Protozoa	Dinoflagellate
+Host	Protozoa	Protist
+Host	Protozoa	
+Host	Reptilia	
+Host	Yeast	
+Host		
+Host Body Product	Fluids	Aspirate
+Host Body Product	Fluids	Blood
+Host Body Product	Fluids	Cerebrospinal fluid
+Host Body Product	Fluids	Milk
+Host Body Product	Fluids	Rumen fluid
+Host Body Product	Fluids	Sputum
+Host Body Product	Fluids	Synovial fluid
+Host Body Product	Fluids	Urine
+Host Body Product	Fluids	Wound fluid
+Host Body Product	Fluids	
+Host Body Product	Gastrointestinal tract	Caecal content
+Host Body Product	Gastrointestinal tract	Feces (Stool)
+Host Body Product	Gastrointestinal tract	Vomit
+Host Body Product	Gastrointestinal tract	
+Host Body Product	Oral cavity and airways	Bronchial wash
+Host Body Product	Oral cavity and airways	Dental plaque
+Host Body Product	Oral cavity and airways	Mucus
+Host Body Product	Oral cavity and airways	Phlegm
+Host Body Product	Oral cavity and airways	Pleural fluid
+Host Body Product	Oral cavity and airways	Saliva
+Host Body Product	Oral cavity and airways	Sputum
+Host Body Product	Oral cavity and airways	Tracheal aspirate
+Host Body Product	Oral cavity and airways	
+Host Body Product	Other	Animal produced food (natural)
+Host Body Product	Plant	Digestive fluid
+Host Body Product	Plant	Juice (natural)
+Host Body Product	Plant	Nectar
+Host Body Product	Plant	Plant exudate
+Host Body Product	Plant	Plant sap (Flux)
+Host Body Product	Plant	Timber
+Host Body Product	Plant	
+Host Body Product	Urogenital tract	Abort
+Host Body Product	Urogenital tract	Amniotic fluid
+Host Body Product	Urogenital tract	Bladder stone
+Host Body Product	Urogenital tract	Egg
+Host Body Product	Urogenital tract	Semen
+Host Body Product	Urogenital tract	Vaginal secretion
+Host Body Product	Urogenital tract	
+Host Body Product		
+Host Body-Site	Gastrointestinal tract	Large intestine
+Host Body-Site	Gastrointestinal tract	Rectum
+Host Body-Site	Gastrointestinal tract	Small intestine
+Host Body-Site	Gastrointestinal tract	Stomach
+Host Body-Site	Gastrointestinal tract	
+Host Body-Site	Limb	Ankle
+Host Body-Site	Limb	Arm
+Host Body-Site	Limb	Foot
+Host Body-Site	Limb	Hand
+Host Body-Site	Limb	Joint
+Host Body-Site	Limb	Leg
+Host Body-Site	Limb	
+Host Body-Site	Oral cavity and airways	Airways
+Host Body-Site	Oral cavity and airways	Gingiva
+Host Body-Site	Oral cavity and airways	Lung
+Host Body-Site	Oral cavity and airways	Mouth
+Host Body-Site	Oral cavity and airways	Periodontal pocket
+Host Body-Site	Oral cavity and airways	Plaque
+Host Body-Site	Oral cavity and airways	Root (Tooth)
+Host Body-Site	Oral cavity and airways	Subgingival plaque
+Host Body-Site	Oral cavity and airways	Throat
+Host Body-Site	Oral cavity and airways	Tooth
+Host Body-Site	Oral cavity and airways	Trachea
+Host Body-Site	Oral cavity and airways	
+Host Body-Site	Organ	Brain
+Host Body-Site	Organ	Ear
+Host Body-Site	Organ	Eye
+Host Body-Site	Organ	Heart
+Host Body-Site	Organ	Kidney
+Host Body-Site	Organ	Liver
+Host Body-Site	Organ	Lung
+Host Body-Site	Organ	Lymph node
+Host Body-Site	Organ	Mammary gland
+Host Body-Site	Organ	Nose
+Host Body-Site	Organ	Rumen
+Host Body-Site	Organ	Skin_Nail_Hair
+Host Body-Site	Organ	Spinal Cord
+Host Body-Site	Organ	Spleen
+Host Body-Site	Organ	Vascular system
+Host Body-Site	Organ	
+Host Body-Site	Other	Abdomen
+Host Body-Site	Other	Abscess
+Host Body-Site	Other	Bone
+Host Body-Site	Other	Thoracic segment
+Host Body-Site	Other	Wound
+Host Body-Site	Other	
+Host Body-Site	Plant	Bark
+Host Body-Site	Plant	Endosphere
+Host Body-Site	Plant	Flower
+Host Body-Site	Plant	Fruit (Seed)
+Host Body-Site	Plant	Gall
+Host Body-Site	Plant	Leaf (Phyllosphere)
+Host Body-Site	Plant	Phylloplane
+Host Body-Site	Plant	Rhizoplane
+Host Body-Site	Plant	Rhizosphere
+Host Body-Site	Plant	Root (Rhizome)
+Host Body-Site	Plant	Root nodule
+Host Body-Site	Plant	Stem (Branch)
+Host Body-Site	Plant	Sterilized plant part
+Host Body-Site	Plant	
+Host Body-Site	Urogenital tract	Bladder
+Host Body-Site	Urogenital tract	Kidney
+Host Body-Site	Urogenital tract	Nephridium
+Host Body-Site	Urogenital tract	Ovary
+Host Body-Site	Urogenital tract	Urethra
+Host Body-Site	Urogenital tract	Vagina
+Host Body-Site	Urogenital tract	
+Host Body-Site		
+Medical	Infection	Cystic fibrosis
+Medical	Infection	Meningitis
+Medical	Infection	Mycosis
+Medical	Infection	Outbreak
+Medical	Infection	Tuberculosis
+Medical	Infection	
+Medical	Inflammation	
+Medical	Medical device	Catheter
+Medical	Medical device	Heart valve
+Medical	Medical device	
+Medical	Medical environment	Clinic
+Medical	Medical environment	Medical practice
+Medical	Medical environment	
+Medical	Medical product	
+Medical	Patient	Antibiotic treatment
+Medical	Patient	Aspirate
+Medical	Patient	Biopsy
+Medical	Patient	Blood culture
+Medical	Patient	Child
+Medical	Patient	Female
+Medical	Patient	Male
+Medical	Patient	Specimen
+Medical	Patient	Swab
+Medical	Patient	
+Medical		
