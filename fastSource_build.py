@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import os, sys, numpy as np, pandas as pd, re, subprocess
+import os, sys, numpy as np, pandas as pd, re, subprocess, shutil
 import ujson as json
 from collections import defaultdict
 import fasttext
@@ -90,17 +90,17 @@ def runRepeats(output, levels, benchmarks, repeats, pretrained, multi_label, com
             fout.write('Test {1} - F1_score:\t{0}\n'.format('\t'.join( \
                 ['{0}: {1:.3f}'.format(lvl, v) for (lvl, _), v in zip(levels + [['Overall', 0]], f1_score)]), ite))
 
-        precisions.append(precision)
-        sensitivities.append(sensitivity)
-        f1_scores.append(f1_score)
-        for k, v in pL.items() :
-            perLabel[k] += v
-        for r, r0 in zip(res, result) :
-            if len(r[0]) > 0 :
-                r0[0] += 1
-                for rr0, rr in zip(r0[1:], r[1:]) :
-                    for k, v in rr.items() :
-                        rr0[k] += v
+            precisions.append(precision)
+            sensitivities.append(sensitivity)
+            f1_scores.append(f1_score)
+            for k, v in pL.items() :
+                perLabel[k] += v
+            for r, r0 in zip(res, result) :
+                if len(r[0]) > 0 :
+                    r0[0] += 1
+                    for rr0, rr in zip(r0[1:], r[1:]) :
+                        for k, v in rr.items() :
+                            rr0[k] += v
     with open('{0}/summary_stats.txt'.format(output), 'w') as fout :
         for tag, stat in zip(['Precision', 'Sensitivity', 'F1_score'], [precisions, sensitivities, f1_scores]) :
             stat = np.array(stat)
@@ -145,6 +145,7 @@ def getPrediction(res, combinations, multi_label) :
     else :
         paths = [[geomean([rr.get(c, 0.) if c != '' else .5 for c, rr in zip(comb, res)]), comb] for comb in
                  combinations]
+        paths = [path for path in paths if path[0] > 0]
         pred = [set([p]) for p in np.array(max(paths)[1])]
     return pred
 
@@ -196,10 +197,15 @@ def ite_gModel(data) :
     model.save_model('{0}/model.{1}.bin'.format(output, level.replace(' ', '_')))
     return id, '{0}/model.{1}.bin'.format(output, level.replace(' ', '_'))
 
-def generateModel(output, levels, benchmark, pretrained, multi_label, conversion, combined_category) :
+def generateModel(title, icon, link, output, levels, benchmark, pretrained, multi_label, conversion, combined_category) :
+    if os.path.isfile(icon) :
+        new_icon = os.path.join(output, os.path.basename(icon))
+        shutil.copy(icon, new_icon)
+        icon = new_icon
     train_set = benchmark
     back_conv = {v:k for k, v in conversion.items()}
     configuration = dict(
+        scheme = dict(title=title, icon=icon, link=link),
         levels = [ l for l, _ in levels ],
         conversion = back_conv,
         combined_category = list(combined_category),
@@ -208,8 +214,8 @@ def generateModel(output, levels, benchmark, pretrained, multi_label, conversion
     )
     for id, model_file in pool.imap_unordered(ite_gModel, [ [id, level, output, train_set, pretrained, multi_label] for id, (level, _) in enumerate(levels) ]) :
         configuration['models'][id] = os.path.basename(model_file)
-    json.dump(configuration, open(output+'/model.conf', 'w'))
-    logger.info('Model constructed. Use fastSource -m {0} to start a web API with the model'.format(os.path.abspath(output)))
+    json.dump(configuration, open(output+'/model.conf', 'w'), indent=2, sort_keys=True, )
+    logger.info('Model constructed. Use fastSource {0} to start a web API with the model'.format(os.path.abspath(output)))
 
 
 def getPretrained() :
@@ -238,13 +244,13 @@ def getBenchmark(data_file, conversion, levels, combined_category, multi_label) 
         comb = []
         for level, id in level2 :
             if d[id] == '' and not multi_label :
-                d[id] = '__'.join([c.replace('__label__', '') for c in comb]) + '__(ND/Others)'
+                d[id] = 'ND/Others'#'__'.join([c.replace('__label__', '') for c in comb]) + '__(ND/Others)'
             comb.append(' '.join([ conversion[dd] for dd in d[id].split(',')]))
         comb = tuple(comb)
         if not multi_label and comb not in combined_category :
             raise ValueError('Combination of {0} is not present in the definition file'.format(str(comb)))
         raw = ' '.join(tokenize(d[raw_level]))
-        if raw in benchmark:
+        if raw in benchmark :
             if benchmark[raw][1] != comb :
                 logger.warning('Conflicting assignments between two similar or identical records:\n{0}\n{1}\n\n'.format(
                     '{0}\t|\t{1}'.format(benchmark[raw][0], '\t|\t'.join([ ','.join(back_conv[f] for f in fld.split(' ')) for fld in benchmark[raw][1]  ])),
@@ -268,7 +274,7 @@ def prepare_data(def_file, data_file, multi_label) :
         comb = []
         for level, id in levels:
             if d[id] == '' and not multi_label:
-                d[id] = '__'.join([c.replace('__label__', '') for c in comb]) + '__(ND/Others)'
+                d[id] = 'ND/Others' #'__'.join([c.replace('__label__', '') for c in comb]) + '__(ND/Others)'
             if d[id] not in conversion:
                 conversion[d[id]] = '__label__{0}'.format(d[id].replace(' ', '_')) if d[id] else ''
             comb.append(conversion[d[id]])
@@ -284,10 +290,14 @@ def prepare_data(def_file, data_file, multi_label) :
 @click.option('-o', '--output', required=True, help='[REQUIRED] the folder name for the generated models.')
 @click.option('--test_p', default=20, help='[DEFAULT: 20] Percentage of samples in the test set. The others are used for the training. Set to 0 to disable the evaluation stage.')
 @click.option('--repeat', default=10, help='[DEFAULT: 10] Number of independent evaluations. Use <test_p>*<repeat> >= 100 to test throught the all dataset.')
-@click.option('--pretrained', default='', help='file pointer to a pre-trained vector. will run without a pre-trained vector is not flagged Use "wiki-2016" to download and use a vector based on wiki 2016.')
+@click.option('--pretrained', default='', help='file pointer to a pre-trained vector. will run without a pre-trained vector if not flagged. Use "wiki-2016" to download and use a vector based on wiki 2016.')
 @click.option('--multi_label', default=False, is_flag=True, help='[DEFAULT: False] Flag this to allow multiple labels.')
+@click.option('--title', default='', help='A human readable name of the classification scheme. e.g., EnteroBase or BacDive. ')
+@click.option('--icon', default='', help='A graphic icon of the scheme. Point to either a local file or a URL link')
+@click.option('--link', default='', help='URL to the classification scheme. ')
+
 @click.option('-n', '--n_proc', default=10, help='[DEFAULT: 10] Number of processors to be used.')
-def main(output, definition, samples, test_p, repeat, pretrained, multi_label, n_proc) :
+def main(output, definition, samples, test_p, repeat, pretrained, multi_label, n_proc, title, icon, link) :
     global pool
     pool = Pool(n_proc)
     if pretrained.lower() == 'wiki-2016' :
@@ -302,7 +312,7 @@ def main(output, definition, samples, test_p, repeat, pretrained, multi_label, n
     if test_p > 0 :
         repeats = separate_data(benchmark, test_p, repeat)
         runRepeats(output, levels, benchmark, repeats, pretrained, multi_label, combined_category, conversion)
-    generateModel(output, levels, benchmark, pretrained, multi_label, conversion, combined_category)
+    generateModel(title, icon, link, output, levels, benchmark, pretrained, multi_label, conversion, combined_category)
 
 
 pool = None

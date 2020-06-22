@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 #from PEPPA import __VERSION__
 __VERSION__ = '0.1'
 
-with open('README.rst', encoding='utf-8') as f:
+with open('README.rst') as f:
     long_description = f.read()
 
 setup(

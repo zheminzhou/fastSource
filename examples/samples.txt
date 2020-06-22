@@ -1,0 +1,3474 @@
+RAW	Niche	Type
+amphibian from an irrigation pond scaphiopus holbrookii	Wild Animal	Amphibian
+kidneys of leopard frog rana pipiens	Wild Animal	Amphibian
+xenopus laevis adult female toad	Wild Animal	Amphibian
+abattoir floor swabs	Environment	Animal-related
+air of duck stable	Environment	Animal-related
+anaerobic batch digester treating animal manure and rice straw	Environment	Animal-related
+avian environmental incubator	Environment	Animal-related
+bovine environmental	Environment	Animal-related
+bulk milk tank of dairy farm	Environment	Animal-related
+cattle waste corn fermentation	Environment	Animal-related
+chicken house front outside	Environment	Animal-related
+chicken yard soil	Environment	Animal-related
+coquina food supplement used in duck fattening farm	Environment	Animal-related
+cowshed primiparous	Environment	Animal-related
+digester fluid without plant residue or other solid material from methanogenic reactor treating waste from cattle farms	Environment	Animal-related
+egg farm left belt	Environment	Animal-related
+environmental floor swab of cattle facility bovine	Environment	Animal-related
+equus hall missing	Environment	Animal-related
+farm soil containing chicken manure	Environment	Animal-related
+floor drain raw meat area	Environment	Animal-related
+horse manure and sewage sludge of piggery	Environment	Animal-related
+manure pile near chicken houses	Environment	Animal-related
+meleagris gallopavo environemtnal swab	Environment	Animal-related
+methanogenic reactor treating waste from cattle farms samples of small pieces of decomposed rice straw	Environment	Animal-related
+mud crab larvae aquaculture tank	Environment	Animal-related
+oyster farm hatchery larvae	Environment	Animal-related
+poultry house fly trap inside front	Environment	Animal-related
+rice straw residue from methanogenic reactor treating cattle waste	Environment	Animal-related
+rumen contents of holstein friesian bull from uk dairy farm	Environment	Animal-related
+saturated soil near livestock pen	Environment	Animal-related
+shrimp pond sediment	Environment	Animal-related
+soil from cattle grazing pasture	Environment	Animal-related
+soil with plant residues and faeces of cow	Environment	Animal-related
+swab floor drain near meat slicer	Environment	Animal-related
+thermophilic cattle dung digester	Environment	Animal-related
+water from hippopotamus basin	Environment	Animal-related
+animal feed raw chicken meat at retail store	Animal Feed	Poultry
+chicken feed developer pullet	Animal Feed	Poultry
+egg maker feed	Animal Feed	Poultry
+pet treat chick bbq munchy stk	Animal Feed	Poultry
+raw cat food duck	Animal Feed	Poultry
+broiler modified atmosphere packaged non marinated	Food	Poultry
+coocked quail eggs	Food	Poultry
+duck egg yolks cooked frozen	Food	Poultry
+food lbs of chicken liver collceted at and	Food	Poultry
+from retail chicken meat	Food	Poultry
+liquid unpasteurized whole egg	Food	Poultry
+pasteurized spray dried egg products blend whole eggs corn syrup and salt	Food	Poultry
+rte deli meats low sodium turkey	Food	Poultry
+salted egg yolk	Food	Poultry
+turkey ham swiss pita in finished package	Food	Poultry
+anas boschas domestica duck	Poultry	Poultry
+animal layer flock feces gallus	Poultry	Poultry
+bone marrow broiler	Poultry	Poultry
+brain of duck duck	Poultry	Poultry
+broiler chicken gallus gallus	Poultry	Poultry
+broiler parent feces	Poultry	Poultry
+cecal young turkey	Poultry	Poultry
+chick yolk of one day old chicken with clinical signs of omphalitis	Poultry	Poultry
+chicken breast gallus gallus	Poultry	Poultry
+chicken central veterinary lab weybridge host	Poultry	Poultry
+chicken dung channel	Poultry	Poultry
+chicken heart of broiler carcass	Poultry	Poultry
+chicken meat collected between	Poultry	Poultry
+chicken thighs	Poultry	Poultry
+cloacal swab live duck	Poultry	Poultry
+duck duck	Poultry	Poultry
+duck manure	Poultry	Poultry
+duck with tremor	Poultry	Poultry
+feces columba livia domestica	Poultry	Poultry
+finished ground chicken	Poultry	Poultry
+gallus domesticus intensive breeding of laying hens host	Poultry	Poultry
+gallus gallus day old chick	Poultry	Poultry
+gallus gallus domesticus healthy broiler chicken at farm	Poultry	Poultry
+gallus gallus liver avian biome host	Poultry	Poultry
+gelatinous edema on the head and periorbital tissues of laying hen with swollen head syndrome	Poultry	Poultry
+ground turkey lean	Poultry	Poultry
+hearts and livers of week old chickens mus musculus balb strain university of arizona tucson arizona eeuu	Poultry	Poultry
+legs and breast from supermarket chicken	Poultry	Poultry
+meat turkey schnitzel	Poultry	Poultry
+meleagris gallopavo fattening turkey	Poultry	Poultry
+organ gallus gallus layers	Poultry	Poultry
+packaged whole turkey	Poultry	Poultry
+poultry animal variety unknown	Poultry	Poultry
+poultry chicken bone	Poultry	Poultry
+poultry house fly trap outside back	Poultry	Poultry
+poultry meal blend	Poultry	Poultry
+poultry tissue gallus gallus	Poultry	Poultry
+product raw otherwise processed chicken	Poultry	Poultry
+raw intact chicken	Poultry	Poultry
+rosat duckling	Poultry	Poultry
+sunburst turkey swiss on wheat	Poultry	Poultry
+turkey burger	Poultry	Poultry
+turkey ham swiss pita	Poultry	Poultry
+turkey steak wafers	Poultry	Poultry
+white peking duck	Poultry	Poultry
+broiler airsac	Poultry	Poultry
+broiler heart	Poultry	Poultry
+caecal content of week old broiler chicken	Poultry	Poultry
+chick intestine of young animal	Poultry	Poultry
+chicken caeca	Poultry	Poultry
+chicken dung	Poultry	Poultry
+chicken manure	Poultry	Poultry
+chicken sinus	Poultry	Poultry
+chicken intestine	Poultry	Poultry
+chicken laying hen	Poultry	Poultry
+chickens respiratory tract	Poultry	Poultry
+faeces of chicken	Poultry	Poultry
+hen egg	Poultry	Poultry
+liver of chicken with spotty liver disease	Poultry	Poultry
+poultry caecum	Poultry	Poultry
+poultry litter	Poultry	Poultry
+sample of poultry faeces obtained from poultry farm	Poultry	Poultry
+the caecum of chicken	Poultry	Poultry
+turkey joint	Poultry	Poultry
+turkey sinus purulent sinusitis	Poultry	Poultry
+accipitridae pericardial sac	Wild Animal	Avian
+albatross feces grey headed diomedea chrysostoma	Wild Animal	Avian
+anas platyrhynchos duck pintail	Wild Animal	Avian
+ardeidae	Wild Animal	Avian
+avian barn	Wild Animal	Avian
+avian clocae	Wild Animal	Avian
+avian kidney	Wild Animal	Avian
+avian pathology internal organs	Wild Animal	Avian
+bird bird of the species erlenzeisig	Wild Animal	Avian
+bird feces in calf shed	Wild Animal	Avian
+bird rinse	Wild Animal	Avian
+brain pigeon	Wild Animal	Avian
+canary lung	Wild Animal	Avian
+choana polysticta stelleri	Wild Animal	Avian
+cloacae of healthy wild penguins	Wild Animal	Avian
+cloacal swab porphyrio hochstetteri	Wild Animal	Avian
+conjunctivitis in white pekin duck	Wild Animal	Avian
+duck	Wild Animal	Avian
+duck liver fowl cholera	Wild Animal	Avian
+enviromental avian faeces in farm	Wild Animal	Avian
+faeces rectal swab from wild vulture gypaetus barbatus	Wild Animal	Avian
+faeces of penguin pyoscelis papua living in zoological garden	Wild Animal	Avian
+feces cockatoo cacatua sp	Wild Animal	Avian
+feces psittacidae sp conure	Wild Animal	Avian
+gamebird	Wild Animal	Avian
+goose faeces	Wild Animal	Avian
+guano of magellanic penguin	Wild Animal	Avian
+gymnorhina tibicen act australia	Wild Animal	Avian
+hungarian partridge	Wild Animal	Avian
+kelp gull larus dominicanus	Wild Animal	Avian
+leucophaeus pipixcan franklin gull	Wild Animal	Avian
+lung of dead parakeet melopsittacus undulatus kept in captivity in petshop	Wild Animal	Avian
+nonviable eggs of greater white fronted geese anser albifrons	Wild Animal	Avian
+ostriches hepatitis outbreak related	Wild Animal	Avian
+parakeet lung	Wild Animal	Avian
+parrot liver	Wild Animal	Avian
+penguin feces gentoo penguin snepingvin	Wild Animal	Avian
+phalacrocorax melanoleucos	Wild Animal	Avian
+pigeon faeces	Wild Animal	Avian
+pigeon spleen	Wild Animal	Avian
+porphyrio hochstetteri takahe	Wild Animal	Avian
+rattite avian	Wild Animal	Avian
+rectal swab from black headed gulls larus ridibundus	Wild Animal	Avian
+sea gull	Wild Animal	Avian
+spheniscus magellanicus foot pad lesion host	Wild Animal	Avian
+tern faeces	Wild Animal	Avian
+trachea of white stork ciconia ciconia	Wild Animal	Avian
+unspecified avian host unspecied host	Wild Animal	Avian
+white pekin duck salpingitis	Wild Animal	Avian
+wild bird wild bird stool	Wild Animal	Avian
+wood pigeon liver and spleen columba palumbus	Wild Animal	Avian
+lesser long eared bat feces	Wild Animal	Bat
+rectal swab from greater mouse eared bat myotis myotis	Wild Animal	Bat
+wing membrane skin from bechstein bat myotis bechsteinii	Wild Animal	Bat
+dog treat beef square	Animal Feed	Bovine
+pet food bully spring	Animal Feed	Bovine
+pet treat beef pizzle dog chew	Animal Feed	Bovine
+pet treat jr bully steer	Animal Feed	Bovine
+bbq beans beef	Food	Bovine
+beef hot dog	Food	Bovine
+bos food minced meat beef	Food	Bovine
+deli roast beef	Food	Bovine
+raw processed beef with spices and butter	Food	Bovine
+rte dried fermented sausage labanon balogna	Food	Bovine
+vacuum packaged refrigerated beef	Food	Bovine
+aborted foetus of cattle	Livestock	Bovine
+age year old gender female isolated from year cow from lesions suggestive of bovine tuberculosis found during slaughter spoligotype sb bovine retropharyngeal hepatic and mesenteric lymph nodes	Livestock	Bovine
+animal cattle beef cow	Livestock	Bovine
+animal clinical bovine feces	Livestock	Bovine
+beef bologna	Livestock	Bovine
+beef for fajita	Livestock	Bovine
+beef sandwhich	Livestock	Bovine
+beef trim bos	Livestock	Bovine
+blood sample of healthy cow	Livestock	Bovine
+bos primigenius	Livestock	Bovine
+bos taurus bovine colon	Livestock	Bovine
+bos taurus calves host	Livestock	Bovine
+bos taurus fecal beef calf	Livestock	Bovine
+bos taurus large intestine	Livestock	Bovine
+bos taurus planktonic	Livestock	Bovine
+bos taurus small intestine small intestine content of cow at french slaughterhouse inra	Livestock	Bovine
+bovine	Livestock	Bovine
+bovine actinomycosis	Livestock	Bovine
+bovine blackleg	Livestock	Bovine
+bovine brain diseased animal	Livestock	Bovine
+bovine carcass	Livestock	Bovine
+bovine dairy cow adult	Livestock	Bovine
+bovine digital dermatitis lesions in holstein friesian cows	Livestock	Bovine
+bovine fecal composite	Livestock	Bovine
+bovine feces diarrheic beef calf	Livestock	Bovine
+bovine foetal stomach	Livestock	Bovine
+bovine hide bovine	Livestock	Bovine
+bovine joint lesion	Livestock	Bovine
+bovine lesion	Livestock	Bovine
+bovine lung bos taurus	Livestock	Bovine
+bovine lung pneumonia	Livestock	Bovine
+bovine mammary gland	Livestock	Bovine
+bovine minced beef	Livestock	Bovine
+bovine nasal cavity	Livestock	Bovine
+bovine necropsy lung medistinal lypmth node	Livestock	Bovine
+bovine placenta abortion	Livestock	Bovine
+bovine post intervention carcass bovine	Livestock	Bovine
+bovine products	Livestock	Bovine
+bovine rumen from cannulated moth old hanwoo steer korean cow	Livestock	Bovine
+bovine swab bos taurus	Livestock	Bovine
+bovine tonsil calf	Livestock	Bovine
+bovine urine pyelonephritis	Livestock	Bovine
+bovine vaginal mucus	Livestock	Bovine
+bovine fourth stomach	Livestock	Bovine
+brain of cow	Livestock	Bovine
+bull semen healthy animal	Livestock	Bovine
+calf feces weeks old hemorrhagic colitis	Livestock	Bovine
+calf lung respiratory tract problem and diarrhea	Livestock	Bovine
+calf rumen	Livestock	Bovine
+caprine feces	Livestock	Bovine
+cattle dung digester	Livestock	Bovine
+cattle groin	Livestock	Bovine
+cattle lung pneumonia	Livestock	Bovine
+cattle polled tissue	Livestock	Bovine
+cattle sp cattle stomach sample	Livestock	Bovine
+cattle granulomatus lesions	Livestock	Bovine
+cattle dental plaque of dairy cattle	Livestock	Bovine
+cattle supragingival plaque of dairy cattle	Livestock	Bovine
+corn beef brisket	Livestock	Bovine
+cow bovine	Livestock	Bovine
+cow faeces	Livestock	Bovine
+cow intestine cow enteritis	Livestock	Bovine
+cow milk	Food	Dairy
+cow paddock straw bedding bovine dairy	Livestock	Bovine
+cow stools	Livestock	Bovine
+cow jaw lesion in adult animal	Livestock	Bovine
+dairy cow individual cow fecal	Livestock	Bovine
+drinking trough for cows	Livestock	Bovine
+equus ferus caballus submandibular abscess	Livestock	Bovine
+faeces of cow	Livestock	Bovine
+feces bovine bovine	Livestock	Bovine
+feces of cow with naturally aquired paratuberculosis	Livestock	Bovine
+grain mix for cows	Livestock	Bovine
+hanwoo bos tauruscoreanea	Livestock	Bovine
+iberian ibex tonsill sample	Livestock	Bovine
+lumpy jaw in cows	Livestock	Bovine
+mammal udder of cow with mastitis	Livestock	Bovine
+mesenteric lymph node extracted at necropsy from year old guernsey cow with year history of johne disease	Livestock	Bovine
+placenta of cow	Livestock	Bovine
+presumably from case of bovine farcy	Livestock	Bovine
+rag for prepping cows	Livestock	Bovine
+rawhide beef basted sticks	Livestock	Bovine
+retail raw cow cream	Livestock	Bovine
+rumen of red spotted cow male	Livestock	Bovine
+rumen of korean native cattle	Livestock	Bovine
+salted buffalo hide	Livestock	Bovine
+sheep brain	Livestock	Ovine/Goat (Caprinae)
+sheep lung acute fibrinopurulent pleuropneumonia	Livestock	Ovine/Goat (Caprinae)
+sheep mandibular abscess	Livestock	Ovine/Goat (Caprinae)
+spoiled umcooked beef	Livestock	Bovine
+teat apex of belgian dairy heifer	Livestock	Bovine
+vache blood of sick cow	Livestock	Bovine
+yak rumen	Livestock	Bovine
+antelope oryx	Wild Animal	Bovine/Antelope
+bison bonasus	Wild Animal	Bovine/Antelope
+bos gaurus feces gaur	Wild Animal	Bovine/Antelope
+cephalophus sylvicultor faeces	Wild Animal	Bovine/Antelope
+faeces of antelope	Wild Animal	Bovine/Antelope
+feces antelope eland tragelaphus oryx	Wild Animal	Bovine/Antelope
+fresh faeces of tibetan antelope pantholops hodgsonii	Wild Animal	Bovine/Antelope
+qinghai tibet plateau tibetan antelope	Wild Animal	Bovine/Antelope
+tragelaphus spekii feces	Wild Animal	Bovine/Antelope
+brain camelus dromedarius	Wild Animal	Camelid
+camel spleen camelus sp	Wild Animal	Camelid
+fallow deer dama dama deceased lung abscess	Wild Animal	Camelid
+llama spiral colon lama glama	Wild Animal	Camelid
+anterior nares canis lupus familiaris	Companion Animal	Canine
+canine ascites fluid	Companion Animal	Canine
+canine dermatitis	Companion Animal	Canine
+canine eye conjunctivitis	Companion Animal	Canine
+canine feces pudel month old male	Companion Animal	Canine
+canine heart valve	Companion Animal	Canine
+canine lung coughing isolated in pure culture	Companion Animal	Canine
+canine pin tract	Companion Animal	Canine
+canine skin	Companion Animal	Canine
+canine urine canius lupus	Companion Animal	Canine
+canis familiaris body site ear canal ear swab from dog	Companion Animal	Canine
+canis lupus familiaris breed parson russell terrier and chihuahua mix gumline	Companion Animal	Canine
+colon canis lupus familiaris	Companion Animal	Canine
+dog bite wound	Human	Human
+dog ear infection bilateral otitis	Companion Animal	Canine
+dog faeces	Companion Animal	Canine
+dog foreskin	Companion Animal	Canine
+dog nose swab	Companion Animal	Canine
+dog paws	Companion Animal	Canine
+dog salive keeshond	Companion Animal	Canine
+dog tonsil healthy animal	Companion Animal	Canine
+dog vagina with persistent discharge	Companion Animal	Canine
+dog prepuce	Companion Animal	Canine
+dog deceased puppy liver or spleen brain lung	Companion Animal	Canine
+dog male labrador	Companion Animal	Canine
+dog vagina health control	Companion Animal	Canine
+external auditory meatus of dog with external ear otitis	Companion Animal	Canine
+feces of healthy dog dachshund female years old	Companion Animal	Canine
+healthy dog throat	Companion Animal	Canine
+mouth of dog	Companion Animal	Canine
+oral mucosa of dog	Companion Animal	Canine
+racoon dog	Companion Animal	Canine
+swab of abdominal crusts canis lupus familiaris	Companion Animal	Canine
+vagina of cocker spaniel dog	Companion Animal	Canine
+caecal contents red fox vulpes vulpes	Wild Animal	Canine
+canis lupus belly cave	Wild Animal	Canine
+faeces of jackal canis mesomelas	Wild Animal	Canine
+skin canis	Wild Animal	Canine
+household water kefir fermentation process carried out in	Food	Dairy
+anaerobic fixed bed reactor digesting sour whey	Food	Dairy
+blue cheese in wax	Food	Dairy
+bovine mastitic milk	Food	Dairy
+bovine milk acute painful mastitis	Food	Dairy
+bovine raw milk	Food	Dairy
+bulk milk milk	Food	Dairy
+butter with skunk like odor	Food	Dairy
+camel milk	Food	Dairy
+camelus dromedarius arid camelid milk raw milk old	Food	Dairy
+caprine milk	Food	Dairy
+cheddar cheese ball	Food	Dairy
+cheese crackers with peanut butter	Food	Dairy
+cheese made from raw goat milk	Food	Dairy
+cheese halloumi	Food	Dairy
+cheese fourme bresse bleu	Food	Dairy
+cheese harzerk se	Food	Dairy
+cheese pont eveque	Food	Dairy
+cold room floor under cheese rack	Food	Dairy
+cow milk of dairy cows associated with an outbreak of mastitis	Food	Dairy
+cow milk	Food	Dairy
+creamery waste	Food	Dairy
+dairy industry	Food	Dairy
+danish cheese	Food	Dairy
+egg cheese veg taco	Food	Dairy
+evaporated milk	Food	Dairy
+food hard cheese	Food	Dairy
+food raw milk	Food	Dairy
+four cheese risotto	Food	Dairy
+goat raw milk	Food	Dairy
+ground beef or milk	Food	Dairy
+havarti cheese made from raw milk	Food	Dairy
+jalapeno cheese spread	Food	Dairy
+kentucky bleu cheese wheel	Food	Dairy
+mesophilic anaerobic whey digester	Food	Dairy
+milk depleted of lactose	Food	Dairy
+milk from cow with mastitis	Food	Dairy
+milk of sheep with subclinical mastitis	Food	Dairy
+milk raw	Food	Dairy
+milk with malty flavour	Food	Dairy
+milk not pasteurised	Food	Dairy
+milkpowder industry	Food	Dairy
+mozarella cheese	Food	Dairy
+ossau iraty cheese	Food	Dairy
+pasteurized milk queso fresco cheese wheels oz in vac packed plastic	Food	Dairy
+quesillo soft cheese	Food	Dairy
+raw cow milk from the bulk tank of dairy farm	Food	Dairy
+raw ingredients for powdered infant formula	Food	Dairy
+raw milk cheese monterey jack	Food	Dairy
+raw retail goat milk	Food	Dairy
+refrigerated raw farm milk	Food	Dairy
+robiola pineta cheese	Food	Dairy
+secret du couvent cheese	Food	Dairy
+shelf stavble grated parmesan and romano cheese blend in glass jar with metal lid	Food	Dairy
+soft cheese	Food	Dairy
+solid food food dairy products heat processed pasterized ripened cheese made from pasteurized milk soft ripened brie camembert pasteurized	Food	Dairy
+sticky surface of semi hard raclette type cheese	Food	Dairy
+surface of mature german red smear soft cheese	Food	Dairy
+swiss cheese	Food	Dairy
+turkish cheese	Food	Dairy
+yoghourt	Food	Dairy
+anthropogenic terrestrial biome biotic mesoscopic physical object meat food product sika deer	Wild Animal	Deer (Cervidae)
+cervine intestine cervidae	Wild Animal	Deer (Cervidae)
+deer lung spleen liver	Wild Animal	Deer (Cervidae)
+elk moose guts	Wild Animal	Deer (Cervidae)
+faeces of hare or dear	Wild Animal	Deer (Cervidae)
+fallow deer animal	Wild Animal	Deer (Cervidae)
+forest musk deer lung	Wild Animal	Deer (Cervidae)
+mule deer	Wild Animal	Deer (Cervidae)
+rectum bactrian wapiti	Wild Animal	Deer (Cervidae)
+reindeer reindeer	Wild Animal	Deer (Cervidae)
+white tail deer	Wild Animal	Deer (Cervidae)
+bodily fluid equus ferus caballus	Livestock	Equine
+chondroid horse	Livestock	Equine
+contains an artificial insertion of tn between pcra and seq horse	Livestock	Equine
+equine abscess	Livestock	Equine
+equine blood foal	Livestock	Equine
+equine cervix fertility investigation	Livestock	Equine
+equine equine abcess	Livestock	Equine
+equine feces healthy thoroughbred	Livestock	Equine
+equine infectious endometritis mare	Livestock	Equine
+equine lung abscess adult male fatal infection	Livestock	Equine
+equine nasal discharge adult horse	Livestock	Equine
+equine nose swab yr old horse resp tract infec	Livestock	Equine
+equine respiratory tract infection	Livestock	Equine
+equine stomach	Livestock	Equine
+equine tooth caries lesion pulpitsymptoms	Livestock	Equine
+equine trachea pneumonia young animal	Livestock	Equine
+equine wound	Livestock	Equine
+equine adult horse	Livestock	Equine
+equine foal autopsy embolic focused nephritis	Livestock	Equine
+equus caballus equine feces	Livestock	Equine
+eye equine	Livestock	Equine
+faeces of horse	Livestock	Equine
+foal trachea pneumonia clinically significant	Livestock	Equine
+genital tract of mare	Livestock	Equine
+horse abscess	Livestock	Equine
+horse caecum	Livestock	Equine
+horse faeces	Livestock	Equine
+horse intestine	Livestock	Equine
+horse manure	Livestock	Equine
+horse nose	Livestock	Equine
+horse right guttural pouch	Livestock	Equine
+horse teeth caries free	Livestock	Equine
+horse trachea	Livestock	Equine
+horse vaginal discharge	Livestock	Equine
+horse aged gelding with sheath infection	Livestock	Equine
+horse urine	Livestock	Equine
+lymph node equine	Livestock	Equine
+submaxillary abscess of foal with strangles	Livestock	Equine
+veterinary clinical isolate probably equine	Livestock	Equine
+cat ear chronic otitis externa	Companion Animal	Feline
+cat faeces samples	Companion Animal	Feline
+cat lung	Companion Animal	Feline
+cat nose breeding animal	Companion Animal	Feline
+cat thorax	Companion Animal	Feline
+cat from bronchus	Companion Animal	Feline
+felien	Companion Animal	Feline
+feline eye	Companion Animal	Feline
+feline feces yr old male	Companion Animal	Feline
+feline wound	Companion Animal	Feline
+felis catus mandible of year old cat	Companion Animal	Feline
+felis silvestris domesticus ear temperate town	Companion Animal	Feline
+gastric mucosa of the stomach of cat	Companion Animal	Feline
+mass on the auricle in cat	Companion Animal	Feline
+taxid animal associated habitat envo blood envo domestic cat terrestrial biome envo	Companion Animal	Feline
+faeces of clouded leopard neofelis nebulosa	Wild Animal	Feline
+feline snow leopard necropsy brain	Wild Animal	Feline
+snowleopard lung panthera uncia	Wild Animal	Feline
+raw cat food tuna	Animal Feed	Fish
+adult chinook salmon kidney	Aquatic Animal	Fish
+aquaculture turbot	Aquatic Animal	Fish
+atlantic salmon	Aquatic Animal	Fish
+bacha fish species eutropiichthys vacha	Aquatic Animal	Fish
+batashi pseudotorpius atherinodes	Aquatic Animal	Fish
+blueback salmon	Aquatic Animal	Fish
+brains of dead or moribund striped mullet mugil cephalus that had evidence of neurological disease	Aquatic Animal	Fish
+butter catfish pabda frz	Aquatic Animal	Fish
+channa striata	Aquatic Animal	Fish
+chitol chitala ornata	Aquatic Animal	Fish
+cod skin	Aquatic Animal	Fish
+cutaneous mucus of the long snouted seahorse hippocampus guttulatus	Aquatic Animal	Fish
+danio rerio	Aquatic Animal	Fish
+diseased atlantic salmon salmo salar	Aquatic Animal	Fish
+diseased fish rainbow trout oncorhynchus mykiss	Aquatic Animal	Fish
+distal intestine of european perch perca fluviatilis	Aquatic Animal	Fish
+dried fish charral	Aquatic Animal	Fish
+dried threadfin fish	Aquatic Animal	Fish
+dry minnow charal	Aquatic Animal	Fish
+epidermal mucus of anguilla anguilla fishes in ebro delta fish metagenome	Aquatic Animal	Fish
+faeces of wild long snouted seahorses hippocampus guttulatus	Aquatic Animal	Fish
+filefish dried seasoned	Aquatic Animal	Fish
+fish eggs	Aquatic Animal	Fish
+fish gut japanese horse mackerel trachurus japonicus	Aquatic Animal	Fish
+fish host body	Aquatic Animal	Fish
+fish mill	Aquatic Animal	Fish
+fish part slab sold as snakehead toman muscle	Aquatic Animal	Fish
+fish patties dried	Aquatic Animal	Fish
+fish blood	Aquatic Animal	Fish
+fish kidney of adult cutthroat trout salmo clarki	Aquatic Animal	Fish
+fresh albacore tuna aka tombo	Aquatic Animal	Fish
+fresh water fish farm oncorhynchus tshawytscha	Aquatic Animal	Fish
+frozen blue runner	Aquatic Animal	Fish
+frozen escolar steak iqf iwp wild	Aquatic Animal	Fish
+frozen golden threadfin bream	Aquatic Animal	Fish
+frozen mahi strips skinless boneless	Aquatic Animal	Fish
+frozen rainbow trout	Aquatic Animal	Fish
+frozen seasoned dried file fish	Aquatic Animal	Fish
+frozen stripped mullet fish	Aquatic Animal	Fish
+frozen tuna strip meat tuna nakaochi	Aquatic Animal	Fish
+frozen whole indo pacific mackerel	Aquatic Animal	Fish
+frz bangamary filet	Aquatic Animal	Fish
+frz farm raised tuna	Aquatic Animal	Fish
+frz pangasuis fish maws	Aquatic Animal	Fish
+frz roter fusilier iqf	Aquatic Animal	Fish
+frz slice swai fish	Aquatic Animal	Fish
+frz tuna loins	Aquatic Animal	Fish
+frz tuna steaks	Aquatic Animal	Fish
+frz wild caught scad	Aquatic Animal	Fish
+frz yellowfin tuna nakaochi scrape	Aquatic Animal	Fish
+gills of diseased fish oncorhynchus mykiss	Aquatic Animal	Fish
+goby fish	Aquatic Animal	Fish
+golden corvina fillet	Aquatic Animal	Fish
+gourami fish gutted	Aquatic Animal	Fish
+gut of an abalone haliotis discus hannai collected from the sea around jeju island	Aquatic Animal	Fish
+head kidney of sea bream sparus aurata	Aquatic Animal	Fish
+herring fillet holland style	Aquatic Animal	Fish
+hilsa tenualosa ilisha	Aquatic Animal	Fish
+indian mackerel hasa hasa	Aquatic Animal	Fish
+intestine of crayfish orconectes limosus	Aquatic Animal	Fish
+iqf raw whole round large mouth bass bulk pack	Aquatic Animal	Fish
+kidney nile tilapia	Aquatic Animal	Fish
+kidney of moribund coho salmon oncorhyncus kisutch	Aquatic Animal	Fish
+ladyfish headless gutted	Aquatic Animal	Fish
+light organ of teleostean fish leiognathus equula	Aquatic Animal	Fish
+liver tissue from diseased trout mykiss	Aquatic Animal	Fish
+mackerel vp wild frz whole	Aquatic Animal	Fish
+marinated boneless milkfish	Aquatic Animal	Fish
+mix for lahori fish	Aquatic Animal	Fish
+mud carp	Aquatic Animal	Fish
+mullet gut	Aquatic Animal	Fish
+oncorhynchus mykiss fish hatchery fresh water	Aquatic Animal	Fish
+paralichthys olivaceus	Aquatic Animal	Fish
+product raw intact siluriformes ictaluridae catfish	Aquatic Animal	Fish
+rainbow trout ocorhynchus mykiss	Aquatic Animal	Fish
+raw tuna	Aquatic Animal	Fish
+ruditapes decussatus shellfish hatchery	Aquatic Animal	Fish
+salmo salar smolt producing farm	Aquatic Animal	Fish
+salmon graved norwegian	Aquatic Animal	Fish
+salt water fish not available to be reported later	Aquatic Animal	Fish
+scomberomorus cavalla	Aquatic Animal	Fish
+seasoned flying fish roe	Aquatic Animal	Fish
+shoil dried	Aquatic Animal	Fish
+silver smelt butterfly cut	Aquatic Animal	Fish
+skin of anguilla japonica	Aquatic Animal	Fish
+sliced fish sold as wolf herring muscle	Aquatic Animal	Fish
+snapper fillet frozen co treated goldband	Aquatic Animal	Fish
+spleen of spotted rose snapper lutjanus guttatus	Aquatic Animal	Fish
+surface swab of rainbow trout	Aquatic Animal	Fish
+three line grunt parapristipoma trilineatum	Aquatic Animal	Fish
+tilapia whole frz	Aquatic Animal	Fish
+trout eggs oncorhynchus mykiss	Aquatic Animal	Fish
+tuna albacore yellowfin bluefin skipjack etc vacuum or modified atmosphere packaging	Aquatic Animal	Fish
+tuna ground meat scrape	Aquatic Animal	Fish
+tuna sandwiches	Aquatic Animal	Fish
+tuna sushi	Aquatic Animal	Fish
+ulcer rutilus rutilus	Aquatic Animal	Fish
+whisker sheatfish	Aquatic Animal	Fish
+whole live fish sold as snakehead haruan muscle	Aquatic Animal	Fish
+yellowfin tuna loin frozen	Aquatic Animal	Fish
+young scomberomorus niphonius pelagic fish	Aquatic Animal	Fish
+cold smoked slamon	Food	Fish
+featherback paste	Food	Fish
+fermented fish sauce	Food	Fish
+fish snack seasoning yellow strip	Food	Fish
+food salmon salmo salar	Food	Fish
+frozsen hot smoked cleans bream	Food	Fish
+herring fillet in oil with mustard seeds	Food	Fish
+norwegian smoked salmon	Food	Fish
+salmon oz loins cold smoked	Food	Fish
+salted cod fish	Food	Fish
+shirasu food poisened victim	Food	Fish
+smoked fish nova lox bits	Food	Fish
+smoked round scad	Food	Fish
+tilapia gutted and hot smoked	Food	Fish
+year old girl with mycobacterial lymphodermitis	Human	Human
+month old healthy touareg girl	Human	Human
+child with cervical lymphadentitis	Human	Human
+acne lesion in human facial skin	Human	Human
+age gender female homo sapiens schoolteacher admitted because of fever abdominal pain chills stiffness in neck and headache human blood urine csf and fluid obtained from the anterior chamber of the eye	Human	Human
+age homo sapiens fatal septicaemia and septic arthritis in month old american indian girl who had no risk factors associated with health care	Human	Human
+age not given gender male human penis urethra	Human	Human
+age years gender female homo sapiens patient admitted to the orthopedics service urine	Human	Human
+aneurysm sac homo sapiens	Human	Human
+asymptomatic human carriage	Human	Human
+blood culture cardiac surgery male years	Human	Human
+blood culture of endocarditis patient	Human	Human
+blood humane	Human	Human
+blood of an year old male patient	Human	Human
+breast milk healthy woman	Human	Human
+brooke army medical center fort sam houston tx human	Human	Human
+cervical swab	Human	Human
+china the first affiliated hospital of zhejiang university patient	Human	Human
+clinical isolate minus ciprofloxacin min	Human	Human
+clinical setting	Human	Human
+clover sprout outbreak	Human	Human
+derived from human gut metagenome	Human	Human
+disassociation of strain that had been isolated from human lung	Human	Human
+drainage from hip	Human	Human
+elderly male urine host	Human	Human
+faecal material of month old autistic child from the rushs childrens hospital	Human	Human
+faeces from healthy japanese male	Human	Human
+faeces of human infant	Human	Human
+fatal case of human pulmonary streptothricosis	Human	Human
+feces human gut human gut	Human	Human
+feces of healthy japanese adult	Human	Human
+female kidney abscess host	Human	Human
+freshly voided faecal samples obtained from one member of traditional peruvian community	Human	Human
+genitourinary tract of woman	Human	Human
+hamster inoculated with human dental plaque	Human	Human
+healthy human subgingival dental plaque	Human	Human
+homo sapiens anal swab from female month old infant host age months host sex female host	Human	Human
+homo sapiens aspirate biliary drain	Human	Human
+homo sapiens blood sample taken during an outbreak of pneumonic plague in trujillo	Human	Human
+homo sapiens buttocks abcess	Human	Human
+homo sapiens child living in mn vanadium nickel contaminated area polluted by metallurgical factory	Human	Human
+homo sapiens deep wound at the right gluteal region human host	Human	Human
+homo sapiens endotracheal aspirate host	Human	Human
+homo sapiens fascia from patient following surgery host age host sex female host	Human	Human
+homo sapiens feces host age host	Human	Human
+homo sapiens hepatic abscesses host	Human	Human
+homo sapiens human descending colon biopsy	Human	Human
+homo sapiens human perineal skin host	Human	Human
+homo sapiens human terminal ileum biopsy	Human	Human
+homo sapiens ileum mucosa biopsy host age host sex female host	Human	Human
+homo sapiens lungs of cystic fibrosis patient host	Human	Human
+homo sapiens pleural effusion host	Human	Human
+homo sapiens respiratory sample	Human	Human
+homo sapiens solid stool clinical human homo sapiens animal feces host age host sex female host	Human	Human
+homo sapiens stool sample feces host	Human	Human
+homo sapiens stool sample of individual with bacteremia	Human	Human
+homo sapiens taxid cerebrospinal fluid envo human associated habitat envo terrestrial biome envo	Human	Human
+homo sapiens urethral swab from young heterosexual male from denmark	Human	Human
+homo sapiens urine from individual host	Human	Human
+homo sapiens vibrio vulnificus cells grown in lbs to of	Human	Human
+homo sapiens year old patient with severe cdad in	Human	Human
+host human intestinal microflora derivative of strain mm except the mutated alleles reca and gyra	Human	Human
+human mouth	Human	Human
+human cken	Human	Human
+human leverhilus	Human	Human
+human yr old female	Human	Human
+human recovered under microaerophilic conditions	Human	Human
+human abdomen wound and peritoneal fluid	Human	Human
+human abdomen yr old woman	Human	Human
+human abdomen yr old man	Human	Human
+human abdomen abscess	Human	Human
+human abdominal abscess yr old female	Human	Human
+human abdominal fluid or yr old male	Human	Human
+human aborted fetus	Human	Human
+human abscess after heart surgery	Human	Human
+human abscess following dental extraction	Human	Human
+human abscess yr old male	Human	Human
+human abscess yr old man paravertebral	Human	Human
+human abscess yr old man jaw	Human	Human
+human abscess yr old woman	Human	Human
+human abscess yr old woman	Human	Human
+human abscess yr old man	Human	Human
+human abscess yr old man	Human	Human
+human abscess yr old patient	Human	Human
+human abscess yr old man lung	Human	Human
+human abscess yr old woman cheek	Human	Human
+human abscess yr old male	Human	Human
+human abscess abdominal	Human	Human
+human abscess brain isolated in out of bottles	Human	Human
+human abscess chronic osteomyelitis	Human	Human
+human abscess finger lymphangitis sheep farmer	Human	Human
+human abscess hand multiple rheumatic noduli	Human	Human
+human abscess labia major	Human	Human
+human abscess mandibular	Human	Human
+human abscess oral infection	Human	Human
+human abscess parapharyngeal yr old man	Human	Human
+human abscess recidivous parotitis purulent	Human	Human
+human abscess skin ulcus	Human	Human
+human abscess tibia	Human	Human
+human abscess vulva yr old woman	Human	Human
+human acne	Human	Human
+human acute lymphatic leukaemia	Human	Human
+human age infant host	Human	Human
+human amniotic fluid	Human	Human
+human amniotic membrane yr old woman	Human	Human
+human angular chelitis	Human	Human
+human aorta fragment yr old woman	Human	Human
+human appendicitis	Human	Human
+human appendix yr old woman	Human	Human
+human arm abscess yr old man tsunami victim	Human	Human
+human ascites yr old man	Human	Human
+human ascitic fluid yr old woman	Human	Human
+human ascitic fluid yr old woman	Human	Human
+human aspirate yr old girl	Human	Human
+human aspirate yr old man knee	Human	Human
+human aspirate hip	Human	Human
+human aspirate submandibular yr old man	Human	Human
+human aspiration yr old female sinusitis	Human	Human
+human atypical gingivitis	Human	Human
+human axillary abscess yr old woman	Human	Human
+human bartholin cyst	Human	Human
+human bile yr old man	Human	Human
+human biopsy	Human	Human
+human biopsy duodenal ulcus	Human	Human
+human blister newborn pemp neonatorum	Human	Human
+human blood cdk yr old woman dialysis patient	Human	Human
+human blood and cerebrospinal fluid	Human	Human
+human blood and leg joint yr old woman	Human	Human
+human blood cultures	Human	Human
+human blood of year old man	Human	Human
+human blood sample month old child	Human	Human
+human blood yr old male	Human	Human
+human blood years old male	Human	Human
+human blood yr old man	Human	Human
+human blood myelocytic leukemia	Human	Human
+human blood yr old male	Human	Human
+human blood yr old female	Human	Human
+human blood yr old female	Human	Human
+human blood yr old female	Human	Human
+human blood yr old female dramatic infection	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old male	Human	Human
+human blood yr old boy	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old man purulent pericarditis	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman pregnant	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old woman sepsis	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr old woman	Human	Human
+human blood month old male acute illness fever	Human	Human
+human blood yr old boy acute lymphatic leukaemia	Human	Human
+human blood yr old girl meningitis	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr morbus beh et multiple isol	Human	Human
+human blood yr old male testis tumor	Human	Human
+human blood yr old man lung disease	Human	Human
+human blood yr old female	Human	Human
+human blood year old male	Human	Human
+human blood yr old man endocarditis	Human	Human
+human blood yr old woman cat bite fever	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old man pleuropneumonia	Human	Human
+human blood yr old boy leukaemia downs syndrome	Human	Human
+human blood bottles out of	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old male	Human	Human
+human blood yr old male	Human	Human
+human blood yr old man central venous catheter	Human	Human
+human blood yr old female	Human	Human
+human blood yr old man fever	Human	Human
+human blood yr old female	Human	Human
+human blood yr old male	Human	Human
+human blood yr old man	Human	Human
+human blood mnth old boy	Human	Human
+human blood yr old boy	Human	Human
+human blood yr old female	Human	Human
+human blood yr old man heart valve surgery	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old man endocarditis	Human	Human
+human blood yr old female	Human	Human
+human blood yr old man dog bite meningitis	Human	Human
+human blood yr old man	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old man	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old woman liver transplanted	Human	Human
+human blood yr old man	Human	Human
+human blood yr old male	Human	Human
+human blood yr old boy	Human	Human
+human blood yr old man endocarditis suspected	Human	Human
+human blood yr old man endocarditis	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man endocarditis	Human	Human
+human blood yr old male	Human	Human
+human blood yr old man oncology patient	Human	Human
+human blood yr old male	Human	Human
+human blood yr old man fever after heart attack	Human	Human
+human blood yr old woman leukaemia	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman leukemia	Human	Human
+human blood yr old man assumed endocarditis	Human	Human
+human blood year old man with sepsis	Human	Human
+human blood yr old man chills diabetes	Human	Human
+human blood yr old female	Human	Human
+human blood yr old man fatal sepsis	Human	Human
+human blood yr old man pneumonia	Human	Human
+human blood yr old man	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old boy endocarditis op fallot	Human	Human
+human blood year old man with lungcancer cold	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old man	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old man with cad	Human	Human
+human blood yr old woman clinical endocarditis	Human	Human
+human blood yr old male	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old woman septicemia myeloma	Human	Human
+human blood yr old man fatal septicemia	Human	Human
+human blood yr old woman leukaemia	Human	Human
+human blood yr old male	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old man	Human	Human
+human blood yr old female	Human	Human
+human blood yr old man colon cancer pneumonia	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old man	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old epiglotitis	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old male septicemia	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old male pneumonia	Human	Human
+human blood yr old man sacral decubitus abscess	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman abdominal pain	Human	Human
+human blood yr old male	Human	Human
+human blood yr old woman fever ut infection	Human	Human
+human blood year old female	Human	Human
+human blood yr old man fatal infection	Human	Human
+human blood yr old woman	Human	Human
+human blood yr old woman rectum resection	Human	Human
+human blood yr old patient	Human	Human
+human blood yr old boy skin flora	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood yr old man	Human	Human
+human blood abdominal pain vomitting diarrhoea	Human	Human
+human blood agranulo	Human	Human
+human blood aorta stenosis endocarditis	Human	Human
+human blood autopsy of stillborn	Human	Human
+human blood before valve replacement	Human	Human
+human blood cancer patient yr old man	Human	Human
+human blood cattle rancher	Human	Human
+human blood central venous catheter yr old man	Human	Human
+human blood central venous catheter myeloma	Human	Human
+human blood chills	Human	Human
+human blood cholecystitis operation	Human	Human
+human blood compromised patient	Human	Human
+human blood crescent nephritis	Human	Human
+human blood deceased foetus	Human	Human
+human blood diarrhoea	Human	Human
+human blood dog bite yr old man	Human	Human
+human blood dog bite yr old man fatal infection	Human	Human
+human blood dog bite yr old woman	Human	Human
+human blood emphysema	Human	Human
+human blood endocarditis after valve replacement	Human	Human
+human blood endocarditis yr old male	Human	Human
+human blood endocarditis yr old boy	Human	Human
+human blood endocarditis spondylitis	Human	Human
+human blood febril	Human	Human
+human blood female born	Human	Human
+human blood fever icteric	Human	Human
+human blood fever kidney transplant	Human	Human
+human blood fever chills hodgkin	Human	Human
+human blood fistel betw intestine urine bladder	Human	Human
+human blood found in blood culture bottles	Human	Human
+human blood gastroenteritis yr old male	Human	Human
+human blood heart operated	Human	Human
+human blood high crp kidney transplanted patient	Human	Human
+human blood high fever pneumonia stroke	Human	Human
+human blood hodkin lymphoma found haemocult	Human	Human
+human blood immunosuppressed patient	Human	Human
+human blood isolate in consecutive samples	Human	Human
+human blood isolated in bottles	Human	Human
+human blood isolated several times in same patient	Human	Human
+human blood leucopenic patient	Human	Human
+human blood leukemia yr old woman	Human	Human
+human blood liver transplant	Human	Human
+human blood lymphoma neutropenia	Human	Human
+human blood meningitis	Human	Human
+human blood myeloma	Human	Human
+human blood neutropenic	Human	Human
+human blood newborn boy premature sepsis	Human	Human
+human blood one year old boy	Human	Human
+human blood pancreatitis chills high fever	Human	Human
+human blood patient with chronic leg wound	Human	Human
+human blood patient with liver abscess	Human	Human
+human blood pneumonia	Human	Human
+human blood pneumonia drug abuse diabetes	Human	Human
+human blood pneumonia patient alcohol abuser	Human	Human
+human blood post operative patient	Human	Human
+human blood proven endocarditis	Human	Human
+human blood scull fracture patient diseased	Human	Human
+human blood sepsis in vomitting patient	Human	Human
+human blood sepsis pneumonia	Human	Human
+human blood splenectomized	Human	Human
+human blood surgery without prophylaxis	Human	Human
+human blood suspected endocarditis found	Human	Human
+human blood suspected pyelonephritis	Human	Human
+human blood thorax infiltrate	Human	Human
+human blood urosepsis yr old male	Human	Human
+human blood valve op	Human	Human
+human blood woman born	Human	Human
+human lymphoblastoid cell line hcc bl	Human	Human
+human bone fragment tibia	Human	Human
+human bone marrow yr old man	Human	Human
+human bone marrow spondylodiskitis yr old boy	Human	Human
+human bone yr old woman	Human	Human
+human bone ear yr old female	Human	Human
+human brain abscess or contamination	Human	Human
+human brain abscess post operative	Human	Human
+human brain abscess	Human	Human
+human breast fluid	Human	Human
+human brochi yr old man	Human	Human
+human bronchi skrapt fr borstprov	Human	Human
+human bronchial alveolar lavage yr pneumonia	Human	Human
+human bronchial alveolar lavage yr old man	Human	Human
+human bronchial alveolar lavage yr old woman	Human	Human
+human bronchial alveolar lavage yr old woman	Human	Human
+human bronchial alveolar lavage yr old woman	Human	Human
+human bronchial alveolar lavage cystic fibrosis	Human	Human
+human bronchial brush yr old man	Human	Human
+human bronchial lavage alveolar	Human	Human
+human bronchial secretion brush yr old woman	Human	Human
+human bronchial washings	Human	Human
+human bronchus brush yr old woman	Human	Human
+human bronchus brush cystic fibrosis yr old pat	Human	Human
+human bronchus yr old man	Human	Human
+human bronchus yr old woman	Human	Human
+human bronchus yr old woman	Human	Human
+human bronchus yr old woman	Human	Human
+human bronchus yr old man	Human	Human
+human brush suspected lung disease infiltration	Human	Human
+human bucca healthy young man	Human	Human
+human burn	Human	Human
+human bursitis yr old man	Human	Human
+human capd	Human	Human
+human caput femoris	Human	Human
+human carious free dental plaque	Human	Human
+human cerebral abscess yr old girl	Human	Human
+human cerebrospinal fluid and joint	Human	Human
+human cerebrospinal fluid month old meningitis	Human	Human
+human cerebrospinal fluid yr old boy	Human	Human
+human cerebrospinal fluid months old male	Human	Human
+human cerebrospinal fluid yr old man	Human	Human
+human cerebrospinal fluid yr old man	Human	Human
+human cerebrospinal fluid yr old woman	Human	Human
+human cerebrospinal fluid yr old woman	Human	Human
+human cerebrospinal fluid mnth old girl	Human	Human
+human cerebrospinal fluid yr old man	Human	Human
+human cerebrospinal fluid brain abscess	Human	Human
+human cerebrospinal fluid yr old woman	Human	Human
+human cerebrospinal fluid yr old man	Human	Human
+human cerebrospinal fluid yr old man	Human	Human
+human cerebrospinal fluid clinical meningitis	Human	Human
+human cerebrospinal fluid infant	Human	Human
+human cerebrospinal fluid meningitis yr old man	Human	Human
+human cerebrospinal fluid patient	Human	Human
+human cerebrospinal fluid patient	Human	Human
+human cerebrospinal fluid spondylitis	Human	Human
+human cerebrovascular fluid yr old female	Human	Human
+human cervix secretion pregnant in week	Human	Human
+human cervix yr old woman	Human	Human
+human cervix yr old woman	Human	Human
+human cervix yr old patient	Human	Human
+human cervix yr old patient	Human	Human
+human cervix abnormal vaginal discharges for	Human	Human
+human cervix partus	Human	Human
+human cervix two times premature delivery	Human	Human
+human chancroid kigali	Human	Human
+human chancroid thailand bangkok	Human	Human
+human chancroid yr old male	Human	Human
+human chancroid yr old male	Human	Human
+human cheek mucosa	Human	Human
+human chin dog bite	Human	Human
+human chronic otitis media	Human	Human
+human clinical diphtheria	Human	Human
+human clinical sample axillary swab from year old man	Human	Human
+human clinical sample yr old woman	Human	Human
+human clinical specimen yr old woman	Human	Human
+human clinical specimens	Human	Human
+human conjunctiva yr old woman	Human	Human
+human conjunctival secretion	Human	Human
+human contact lens yr old man	Human	Human
+human cornea yr old man conjunctivitis	Human	Human
+human cornea yr old man	Human	Human
+human cornea yr old woman	Human	Human
+human corneal ulcus yr old male	Human	Human
+human csf yr old female	Human	Human
+human cvc yr old man	Human	Human
+human cyst year old patient	Human	Human
+human cyst pancreas	Human	Human
+human cystic fibrosis yr old male	Human	Human
+human dacryocystitis left eye yr old patient	Human	Human
+human deep tissue infection upper leg yr old	Human	Human
+human dental plaque	Human	Human
+human dental root canal	Human	Human
+human dialysis fluid yr old woman	Human	Human
+human diarrhea	Human	Human
+human drain	Human	Human
+human drain yr old male	Human	Human
+human drain yr old man	Human	Human
+human drain joint aspirate yr old girl	Human	Human
+human drainage fluid yr old male	Human	Human
+human drainage yr old man thorax	Human	Human
+human duodenal aspirate child	Human	Human
+human duodenum ulcer	Human	Human
+human ear discharge	Human	Human
+human ear infection	Human	Human
+human ear yr old male	Human	Human
+human ear yr old swimming pool male patient	Human	Human
+human ear yr old woman	Human	Human
+human ear yr old boy	Human	Human
+human ear yr old woman chronic otitis	Human	Human
+human ear yr old woman	Human	Human
+human ear year old girl external otitis	Human	Human
+human ear extern otitis	Human	Human
+human ear newborn deceased	Human	Human
+human ear otitis yr old female	Human	Human
+human ejaculate	Human	Human
+human electrode	Human	Human
+human endometrium iucd	Human	Human
+human epiglottis swab	Human	Human
+human excised aortic aneurysm yr old male	Human	Human
+human extensive lymphadenitis colli yr old boy	Human	Human
+human eye	Human	Human
+human eye secretion	Human	Human
+human eye year old man	Human	Human
+human eye yr old woman conjunctivitis	Human	Human
+human eye yr old woman	Human	Human
+human eye month old girl	Human	Human
+human eye yr old male	Human	Human
+human eye old man keratoconjunctivitis	Human	Human
+human eye yr old man conjunctival secretion	Human	Human
+human eye baby	Human	Human
+human eye conjunctival secretion	Human	Human
+human eye cornea keratitis	Human	Human
+human eye endophthalmitis	Human	Human
+human eye newborn	Human	Human
+human eye ugly keratitis yr old woman	Human	Human
+human facial sinus	Human	Human
+human faeces healthy japanese adult male	Human	Human
+human faeces of healthy volunteer	Human	Human
+human faeces	Human	Human
+human faeces healthy men	Human	Human
+human faeces yr old female	Human	Human
+human faeces yr old female contracted ceylon	Human	Human
+human faeces yr old patient case of pmc	Human	Human
+human faeces yr old female contracted in ceylon	Human	Human
+human faeces contracted in turkey	Human	Human
+human faeces diarrhoea contracted in turkey	Human	Human
+human fecal flora of healthy patient	Human	Human
+human feces bulgaria	Human	Human
+human feces italy	Human	Human
+human feces asia	Human	Human
+human feces tunisia	Human	Human
+human feces from healthy year old male volunteer patient	Human	Human
+human feces human gut	Human	Human
+human feces of year old healthy man	Human	Human
+human feces of healthy patient	Human	Human
+human feces year old obese man	Human	Human
+human feces year old woman with multidrug resistant tuberculosis	Human	Human
+human feces yr old boy	Human	Human
+human feces month old girl diarrhea	Human	Human
+human feces yr old patient	Human	Human
+human feces yr old patient	Human	Human
+human feces yr old patient	Human	Human
+human feces yr old male	Human	Human
+human feces yr old patient diarrea	Human	Human
+human feces yr old healthy woman	Human	Human
+human feces yr old man contracted in sweden	Human	Human
+human feces yr old woman diarrhea	Human	Human
+human feces yr old woman contr in south america	Human	Human
+human feces yr old woman	Human	Human
+human feces yr old male	Human	Human
+human feces yr old female leukemia	Human	Human
+human feces yr old man homosexual diarroea	Human	Human
+human feces yr old man	Human	Human
+human feces yr old woman symptomfree	Human	Human
+human feces yr old healthy man	Human	Human
+human feces yr old woman	Human	Human
+human feces yr old man	Human	Human
+human feces month old girl diarrhea for	Human	Human
+human feces yr old man	Human	Human
+human feces yr old man	Human	Human
+human feces yr old woman emphysema diarrhea	Human	Human
+human feces yr old female	Human	Human
+human feces acute diarrhoeae	Human	Human
+human feces child diarrhoea	Human	Human
+human feces compromised patient	Human	Human
+human feces contracted in teneriffa	Human	Human
+human feces diarrhea	Human	Human
+human feces diarrheic patient	Human	Human
+human feces emigrant turkey	Human	Human
+human feces healthy yr old man	Human	Human
+human feces healthy person	Human	Human
+human feces male omnivore chemostat enrichment	Human	Human
+human feces profuse watery diarroea	Human	Human
+human feces visiting canary islands in february	Human	Human
+human feces young male domistically acquired inf	Human	Human
+human femur year old man soft tissue	Human	Human
+human fetus deceased	Human	Human
+human fistle mandibular osteitis yr old man	Human	Human
+human fistula yr old man	Human	Human
+human fistula colon and urine bladder yr old	Human	Human
+human fluid yr old female subcutaneous	Human	Human
+human foot phlegmon yr old woman diabetes	Human	Human
+human foot joint arthritis yr old girl	Human	Human
+human gall	Human	Human
+human gall yr old woman	Human	Human
+human gall drain after blood transfusion	Human	Human
+human gallbladder	Human	Human
+human gangrene yr old man	Human	Human
+human gastric antral mucosa yr old woman cam	Human	Human
+human gastric fistula	Human	Human
+human genital ulcer	Human	Human
+human gingival crevice healthy person	Human	Human
+human gingivitis	Human	Human
+human gland jaw yr old	Human	Human
+human graft groin yr old woman	Human	Human
+human gut stool human gut stool metagenome	Human	Human
+human hand yr old male	Human	Human
+human heart blood autopsy pneumonia	Human	Human
+human heart pacemaker endocarditis	Human	Human
+human hemoculture recovered in bottles	Human	Human
+human hip aspirate yr old man	Human	Human
+human hip prosthesis yr old chronic infection	Human	Human
+human hip tissue	Human	Human
+human hip yr old man	Human	Human
+human homograft valve	Human	Human
+human hus	Human	Human
+human infected wound	Human	Human
+human infection yr old female	Human	Human
+human infection yr old man	Human	Human
+human infection yr old woman	Human	Human
+human infection yr old woman	Human	Human
+human infection yr old man	Human	Human
+human infection yr old man	Human	Human
+human infection yr old man	Human	Human
+human infection yr old woman	Human	Human
+human infection yr old woman	Human	Human
+human infection yr old woman	Human	Human
+human infection yr old woman	Human	Human
+human infection dog bite	Human	Human
+human infection nosocomial	Human	Human
+human initial dental plaque	Human	Human
+human intestinal mucosa yr old patient	Human	Human
+human intestine biopsy colon flexur	Human	Human
+human intra uterine conceptive device	Human	Human
+human intra uterine contraceptive device yr old	Human	Human
+human iucd	Human	Human
+human jaw lymph aspirate	Human	Human
+human jaw osteitis peritonsillar swelling	Human	Human
+human joint aspirate knee prosthesis	Human	Human
+human joint fluid yr old woman	Human	Human
+human joint fluid yr old woman	Human	Human
+human joint fluid knee prosthesis	Human	Human
+human joint yr old girl	Human	Human
+human joint hip	Human	Human
+human kidney abscess	Human	Human
+human kidney yr old man	Human	Human
+human knee aspirate yr old girl	Human	Human
+human knee prosthesis yr old man	Human	Human
+human knee yr old woman septic artritis	Human	Human
+human labial abscess	Human	Human
+human lage ischio rectal abscess	Human	Human
+human larynx yr old patient	Human	Human
+human leg fracture yr old man	Human	Human
+human leg yr old man fascitis fatal infection	Human	Human
+human lesion exudate	Human	Human
+human liver	Human	Human
+human liver lobe	Human	Human
+human lung abscess yr old man	Human	Human
+human lung human lung metagenome	Human	Human
+human lung tissue autopsy	Human	Human
+human lung yr old girl actinomycosis	Human	Human
+human lung fatal infection heart surgery case	Human	Human
+human lungs yr old woman pneumonia	Human	Human
+human lymphatic node	Human	Human
+human mammary abscess yr old woman	Human	Human
+human marrow nail yr old man	Human	Human
+human maxillary abscess	Human	Human
+human microabscess kidney	Human	Human
+human mitralis valve of year old man	Human	Human
+human mouth yr old man	Human	Human
+human mucosa yr old man cheek	Human	Human
+human nares	Human	Human
+human nasopharynx and throat yr old boy	Human	Human
+human nasopharynx month old male	Human	Human
+human nasopharynx yr old female	Human	Human
+human nasopharynx yr old female	Human	Human
+human nasopharynx mth old female	Human	Human
+human nasopharynx yr old woman acute otitis	Human	Human
+human nasopharynx yr old whooping cough specimen	Human	Human
+human nasopharynx month old male	Human	Human
+human nasopharynx yr old girl	Human	Human
+human nasopharynx yr old woman	Human	Human
+human nasopharynx yr old female	Human	Human
+human nasopharynx month old boy	Human	Human
+human nasopharynx yr old boy	Human	Human
+human nasopharynx yr old boy	Human	Human
+human nasopharynx yr old boy	Human	Human
+human nasopharynx boy born	Human	Human
+human nasopharynx girl born	Human	Human
+human nasopharynx one yr old female	Human	Human
+human nasopharynx sinusitis	Human	Human
+human neck cyst	Human	Human
+human newborn liver autopsy sepsis	Human	Human
+human nose and nasopharynx	Human	Human
+human nose week old infant	Human	Human
+human nose chronic sinusitis	Human	Human
+human nph yr old male	Human	Human
+human olecranon bursitis yr old man rat bite	Human	Human
+human oral abscess	Human	Human
+human oral cavity exodontic infection	Human	Human
+human oral cavity yr old man	Human	Human
+human oral cavity gingival crevice of adult patient with periodontitis	Human	Human
+human oral mucosa yr old male	Human	Human
+human oral squamous cell carcinoma tissue	Human	Human
+human osteitis after amputation yr old man	Human	Human
+human osteitis patient with kidney transplant	Human	Human
+human otitis	Human	Human
+human otitis yr old boy	Human	Human
+human pancreas adenocarcinoma cell line kci moh	Human	Human
+human parodontitis	Human	Human
+human patient blood culture	Human	Human
+human pd catheter	Human	Human
+human perforated appendix yr old boy	Human	Human
+human periapical osteitis woman yr old	Human	Human
+human pericardial fluid	Human	Human
+human perineal abscess	Human	Human
+human perineum yr old man	Human	Human
+human periodontal abscess	Human	Human
+human periodontal pockett	Human	Human
+human periodontitis patient oral cavity subgingival plaque mm periodontal pocket	Human	Human
+human peritoneal dialysis fluid	Human	Human
+human peritoneal dialysis fluid yr old man	Human	Human
+human peritoneal dialysis fluid peritonitis	Human	Human
+human peritoneal dialysis yr old woman	Human	Human
+human peritoneal pac yr old man	Human	Human
+human peritonitis	Human	Human
+human pharyngeal mucosa coronary sclerosis	Human	Human
+human pharynx yr old female pharynx bronchiost	Human	Human
+human pharynx yr old woman clinical diphtheria	Human	Human
+human pharynx healthy pharyngeal mucosa	Human	Human
+human pharynx tonsillitis yr old drug abuser	Human	Human
+human placenta	Human	Human
+human plaque healthy yr old woman	Human	Human
+human plaque healthy young man	Human	Human
+human pleura yr old male	Human	Human
+human pleura empyema	Human	Human
+human pleural effusion aids patient cough dyspnoea	Human	Human
+human pleural fluid yr old woman	Human	Human
+human pleural fluid yr old man	Human	Human
+human pleural fluid yr old woman	Human	Human
+human pleural fluid yr old man	Human	Human
+human pleural fluid yr old man	Human	Human
+human pleural fluid empyema yr old man	Human	Human
+human pleural fluid pneumonia purulent pleuritis	Human	Human
+human pneumonia yr old man	Human	Human
+human pre auricular sinus year old patient	Human	Human
+human prostate	Human	Human
+human prosthesis infection	Human	Human
+human prosthesis tissue yr old man	Human	Human
+human prothesis leg yr old man	Human	Human
+human punction mitral valve yr old woman	Human	Human
+human purulent skin lesion	Human	Human
+human pus yr old man	Human	Human
+human pustules cat scratch	Human	Human
+human recidivous otitis yr old boy	Human	Human
+human rectum	Human	Human
+human renal abscess yr old female	Human	Human
+human respiratory tract yr old man	Human	Human
+human respiratory tract cystic fibrosis yr old	Human	Human
+human sacral decubitus ulcer	Human	Human
+human saliva young child	Human	Human
+human scrotal abscess yr old man	Human	Human
+human secretion abdomen	Human	Human
+human secretion cervix yr old female patient	Human	Human
+human sepsis	Human	Human
+human septic episodes of pneumology patients	Human	Human
+human shunt	Human	Human
+human sinus	Human	Human
+human sinus maxillaris yr old woman	Human	Human
+human sinus yr old woman	Human	Human
+human sinus dental empyema jaw	Human	Human
+human skin biopsy yr old man	Human	Human
+human skin lesions	Human	Human
+human skin yr old patient	Human	Human
+human skin upper arm of an exp infected subject	Human	Human
+human soft tissue elbow	Human	Human
+human sperms infertility	Human	Human
+human spondylodiscitis yr old man	Human	Human
+human sporadic homo sapiens	Human	Human
+human sputum yr old boy	Human	Human
+human sputum from cystic fibrosis patient	Human	Human
+human sputum of cystic fibrosis patient	Human	Human
+human sputum year old cystic fibrosis patient female	Human	Human
+human sputum cystic fibrosis patient	Human	Human
+human sputum yr old male cystic fibrosis	Human	Human
+human sputum yr old boy cystic fibrosis	Human	Human
+human sputum yr old male cystic fibrosis	Human	Human
+human sputum yr old male cystic fibrosis pat	Human	Human
+human sputum yr man boy cystic fibrosis	Human	Human
+human sputum yr old female cystic fibrosis	Human	Human
+human sputum yr old boy cystic fibrosis	Human	Human
+human sputum yr old female cystic fibrosis	Human	Human
+human sputum yr old patient cystic fibrosis	Human	Human
+human sputum yr old man cystic fibrosis	Human	Human
+human sputum year old woman cystic fibrosis	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old woman cystic fibrosis	Human	Human
+human sputum yr old woman cystic fibrosis	Human	Human
+human sputum yr old man cystic fibrosis patient	Human	Human
+human sputum year old woman cystic fibrosis	Human	Human
+human sputum yr old cystic fibrosis patient	Human	Human
+human sputum yr old woman cystic fibrosis	Human	Human
+human sputum yr old man cystic fibrosis	Human	Human
+human sputum yr old woman cystic fibrosis	Human	Human
+human sputum yr old man	Human	Human
+human sputum yr old girl cystic fibrosis	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old man	Human	Human
+human sputum yr old patient	Human	Human
+human sputum yr old female respiratory distress	Human	Human
+human sputum yr old female japanese	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old boy	Human	Human
+human sputum yr old man cystic fibrosis	Human	Human
+human sputum yr old man asthmatic patient	Human	Human
+human sputum yr old woman cystic fibrosis	Human	Human
+human sputum yr old female	Human	Human
+human sputum yr old woman chronic	Human	Human
+human sputum yr old man	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old male	Human	Human
+human sputum yr old patient	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old woman	Human	Human
+human sputum yr old man	Human	Human
+human sputum yr old female	Human	Human
+human sputum yr old woman	Human	Human
+human sputum amyotrophic lateral sclerosis als	Human	Human
+human sputum chronic lung disease alveolitis	Human	Human
+human sputum cystic fibrosis	Human	Human
+human sputum cystic fibrosis yr old man	Human	Human
+human sputum cystic fibrosis yr old male	Human	Human
+human sputum cystic fibrosis yr old patient	Human	Human
+human sputum cystic fibrosis yr old woman	Human	Human
+human sputum cystic fibrosis yr old male	Human	Human
+human sputum cystic fibrosis yr old female	Human	Human
+human sputum cystic fibrosis yr old female	Human	Human
+human sputum cystic fibrosis yr old male	Human	Human
+human sputum cystic fibrosis yr old girl	Human	Human
+human sputum cystic fibrosis yr old boy	Human	Human
+human sputum cystic fibrosis chronic carrier	Human	Human
+human sputum dominating organism in astmatic pat	Human	Human
+human sputum immunedeficiency	Human	Human
+human sputum male patient cystic fibrosis	Human	Human
+human sputum purulent yr old woman	Human	Human
+human sputum trachea yr old man	Human	Human
+human sternum section	Human	Human
+human stool	Human	Human
+human stool of year old woman who underwent bariatric surgery for obesity	Human	Human
+human stool specimen from year old obese patient	Human	Human
+human stool specimen healthy tuareg boy	Human	Human
+human stool yr old man	Human	Human
+human stool enteritis	Human	Human
+human stool preventive examination	Human	Human
+human subcutaneous abscess	Human	Human
+human subgingival plaque gingival crevice	Human	Human
+human subgingival pockett juvenil periodontitis	Human	Human
+human subhepatic abscess yr old woman operation	Human	Human
+human supragingival plaque healthy man	Human	Human
+human surgical wound	Human	Human
+human synnovial fluid yr old man	Human	Human
+human synovial fluid	Human	Human
+human synovial fluid yr old male	Human	Human
+human synovial fluid yr old woman	Human	Human
+human synovial fluid knee yr old woman	Human	Human
+human tendon	Human	Human
+human throat of healthy carrier	Human	Human
+human throat yr old male	Human	Human
+human throat yr old woman	Human	Human
+human throat yr old man fatal infection	Human	Human
+human throat yr old woman healthy carrier	Human	Human
+human throat yr old man transplantation case	Human	Human
+human throat yr old person	Human	Human
+human throat child symptoms of diphtheria	Human	Human
+human throat normal	Human	Human
+human throat tonsillitis yr old woman	Human	Human
+human tibia yr old man	Human	Human
+human tissue	Human	Human
+human tissue fragment osteitis yr old man	Human	Human
+human tissue yr old woman	Human	Human
+human tissue yr old woman	Human	Human
+human tissue yr old woman hip	Human	Human
+human tissue yr old woman	Human	Human
+human tissue yr old man	Human	Human
+human tissue yr old woman shoulder	Human	Human
+human tissue femur	Human	Human
+human tissue hip yr old man	Human	Human
+human tissue septic arthritis	Human	Human
+human tissue toe	Human	Human
+human tongue	Human	Human
+human tongue healthy young man	Human	Human
+human tonsillitis yr old female	Human	Human
+human tooth root infection	Human	Human
+human tooth isolated from years girl	Human	Human
+human trachea aspirate year old female	Human	Human
+human trachea aspirate year old male	Human	Human
+human trachea aspirate female	Human	Human
+human trachea mth old male	Human	Human
+human trachea yr old man	Human	Human
+human trachea yr old man pancreatitis	Human	Human
+human trachea yr old man	Human	Human
+human trachea yr old man	Human	Human
+human trachea yr old woman	Human	Human
+human trachea yr old man	Human	Human
+human trachea yr old man	Human	Human
+human tracheal aspiration	Human	Human
+human transport fluid yr old woman	Human	Human
+human tuboovarial cyst yr old patient	Human	Human
+human ulcer duodenitis	Human	Human
+human umbilican cord blood	Human	Human
+human urethra yr old girl	Human	Human
+human urethra yr old patient	Human	Human
+human urethral meatus	Human	Human
+human urinary tract	Human	Human
+human urinary tract yr old female	Human	Human
+human urine	Human	Human
+human urine years old female with cystitis	Human	Human
+human urine yr old boy	Human	Human
+human urine year old female kidney transplanted	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine months old boy	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old patient with urinary stones	Human	Human
+human urine yr old female	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman heart transplanted	Human	Human
+human urine yr old man	Human	Human
+human urine mth old female	Human	Human
+human urine yr old woman ml	Human	Human
+human urine yr old patient	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman bladder punction	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old female	Human	Human
+human urine yr old male	Human	Human
+human urine yr old girl	Human	Human
+human urine yr old woman pyuria	Human	Human
+human urine yr old man	Human	Human
+human urine yr old man	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine yr old woman	Human	Human
+human urine asymptomatic bacteriuria	Human	Human
+human urine child	Human	Human
+human urine dipslide yr old woman	Human	Human
+human urine hospitalised patient	Human	Human
+human urine kidney malfunction fever	Human	Human
+human urine newborn reduced kidney function	Human	Human
+human urine pyelonephritis	Human	Human
+human urine surgery of urethra valve	Human	Human
+human urogenital flora year old woman	Human	Human
+human vagina	Human	Human
+human vagina yr old woman	Human	Human
+human vagina yr old woman	Human	Human
+human vagina fornix yr old healthy subject	Human	Human
+human vagina fornix yr old healthy subject	Human	Human
+human vagina fornix healthy	Human	Human
+human vagina fornix suspected bacterial vaginosis	Human	Human
+human vagina posterior fornix healthy patients	Human	Human
+human vaginal discharge yr old woman	Human	Human
+human vaginal leucorrhea yr old woman	Human	Human
+human vaginal secretion healthy individual	Human	Human
+human valve yr old woman graft endocarditis	Human	Human
+human ventricle	Human	Human
+human ventrikelasp	Human	Human
+human vestibular mucosa healthy subject	Human	Human
+human vitreous body suspected endophthalmitis	Human	Human
+human vulva relapse yr old female	Human	Human
+human would	Human	Human
+human wound	Human	Human
+human wound foot	Human	Human
+human wound penis yr old patient	Human	Human
+human wound swab mixed infection of year old female patient	Human	Human
+human wound yr old boy back	Human	Human
+human wound yr old boy nose burn	Human	Human
+human wound yr old man automobile accident	Human	Human
+human wound yr old woman	Human	Human
+human wound yr old man	Human	Human
+human wound yr old man atheroma	Human	Human
+human wound yr old woman wild cat bite	Human	Human
+human wound yr old patient	Human	Human
+human wound yr old female	Human	Human
+human wound yr old woman	Human	Human
+human wound yr old male	Human	Human
+human wound yr old man groin	Human	Human
+human wound yr old woman oral wound	Human	Human
+human wound yr old man dog bite	Human	Human
+human wound yr old woman finger dog bite	Human	Human
+human wound yr old man with clinical tss	Human	Human
+human wound yr old female dog bite	Human	Human
+human wound yr old man tsunami victim	Human	Human
+human wound yr old man dog bite	Human	Human
+human wound yr old man mouth	Human	Human
+human wound yr old man	Human	Human
+human wound yr old man	Human	Human
+human wound yr old man	Human	Human
+human wound yr old male soft tissue infection	Human	Human
+human wound yr old man abdominal surgery	Human	Human
+human wound yr old woman hip prothesis	Human	Human
+human wound yr old man	Human	Human
+human wound yr old female armpit	Human	Human
+human wound yr old woman leg difficult healing	Human	Human
+human wound yr old woman amputation	Human	Human
+human wound yr old woman	Human	Human
+human wound abscess	Human	Human
+human wound amputation yr old woman	Human	Human
+human wound arm cat bite	Human	Human
+human wound below left eye	Human	Human
+human wound chest yr old patient	Human	Human
+human wound dialysis patient	Human	Human
+human wound dog bite yr old girl	Human	Human
+human wound dog bite yr old man	Human	Human
+human wound dog bite	Human	Human
+human wound drain	Human	Human
+human wound face dog bite	Human	Human
+human wound finger yr old man	Human	Human
+human wound finger meat industry worker	Human	Human
+human wound fistule treated for lung cancer	Human	Human
+human wound foot yr old woman	Human	Human
+human wound foot diabetes patient born	Human	Human
+human wound haematoma crista	Human	Human
+human wound hand yr old man diseased	Human	Human
+human wound hand dogbite	Human	Human
+human wound heel yr old woman	Human	Human
+human wound hip yr old woman prothesis	Human	Human
+human wound kinkajou bite yr old zoo worker	Human	Human
+human wound laparotomi	Human	Human
+human wound leg yr old man	Human	Human
+human wound male born	Human	Human
+human wound nose	Human	Human
+human wound pediatric	Human	Human
+human wound penis yr old male	Human	Human
+human wound penis yr old male singapore	Human	Human
+human wound post op	Human	Human
+human wound prosthetic hip with fistula yr old	Human	Human
+human wound rabbit bite	Human	Human
+human wound severe foot injury	Human	Human
+human wound surgery yr old female	Human	Human
+human wound toe	Human	Human
+human wound toe chronic osteitis yr old woman	Human	Human
+human wound woman born	Human	Human
+human blood	Human	Human
+human cutaneous abscess	Human	Human
+human infected wound	Human	Human
+human periodontal pocket	Human	Human
+human wound groin	Human	Human
+human yr old woman	Human	Human
+human yr old man	Human	Human
+human yr old patient	Human	Human
+human yr old woman	Human	Human
+human yr old patient	Human	Human
+human yr old woman electrode	Human	Human
+human yr old woman recurrent infections	Human	Human
+human blood	Human	Human
+human child age month	Human	Human
+human contracted in bangkok	Human	Human
+human cystic fibrosis patient	Human	Human
+human dialysis fluid	Human	Human
+human ear discharge	Human	Human
+human fixture	Human	Human
+human infection close to nail in femur	Human	Human
+human mitrofanoff reservoir yr old woman	Human	Human
+human no clinical information available	Human	Human
+human operation wound yr old woman	Human	Human
+human perfusion fluid yr old woman	Human	Human
+human probably oral	Human	Human
+human rectal swab homosexual man	Human	Human
+human shepherd	Human	Human
+human suspected cholangitis or cholecystitis	Human	Human
+human woman born	Human	Human
+humane swab peritoneal	Human	Human
+industry probably human source	Human	Human
+infected human wound following dog bite on finger	Human	Human
+knee aspirate of year old man	Human	Human
+neisseria gonorrhoeae strains fa and adherent primary human neutrophils alone and after co culture over time	Human	Human
+oral cavity of healthy people	Human	Human
+patient blood homo sapiens	Human	Human
+patient with acute pyelonephritis homo sapiens	Human	Human
+patient with urinary tract infection homo sapiens host	Human	Human
+peritonitis	Human	Human
+pulmonary tuberculosis human	Human	Human
+pyogenic disease conditions in many species of domestic animals and in humans	Human	Human
+serous fluid from wound on the hand of year old human	Human	Human
+sputum and gastric lavage specimens from human	Human	Human
+sputum of an year old woman with lung tuberculosis	Human	Human
+stool from hospitalized patient homo sapiens host	Human	Human
+stool host age to homo sapiens host	Human	Human
+stool of healthy person	Human	Human
+stool sample from year old woman from hamburg who presented with bloody diarrhea and did not develop hemolytic uremic syndrome hus host	Human	Human
+stool specimen of healthy african infant	Human	Human
+student with atypical pneumonia	Human	Human
+swab human heel diabetic foot	Human	Human
+taxid cerebrospinal fluid envo environment migs mims mimarks human associated human human associated habitat envo terrestrial biome envo	Human	Human
+tissue specimen of year old woman suffering from peritoneal carcinomatosis following carcinome of the colon	Human	Human
+ts media with erythromycin following hr outgrowth in human blood th sample	Human	Human
+urine cathether host sex female host age homo sapiens host	Human	Human
+urine of swedish school girl	Human	Human
+vaginal fluid of year old korean female	Human	Human
+frozen cooked snail meat sea snails	Food	Invertebrate
+adult americanum tick	Wild Animal	Invertebrate
+anopheles gambiae arabiensis stomach	Wild Animal	Invertebrate
+apple snail	Wild Animal	Invertebrate
+bees or beehives	Wild Animal	Invertebrate
+blood sucking bug triatome	Wild Animal	Invertebrate
+bumblebee gut	Wild Animal	Invertebrate
+elegans appeared as contaminant	Wild Animal	Invertebrate
+chironomid nonbiting midges egg mass	Wild Animal	Invertebrate
+contents of termite hindgut reticulitermes flavipes	Wild Animal	Invertebrate
+crop of bumblebee bombus lapidarius	Wild Animal	Invertebrate
+dead honeybee larvae apis mellifera	Wild Animal	Invertebrate
+digestive tract of laboratory reared bumblebee queen bombus terrestris	Wild Animal	Invertebrate
+diseased bees or near beehives	Wild Animal	Invertebrate
+diseased pectinophora gossypiella from mass rearing culture	Wild Animal	Invertebrate
+earthworm aporectodea caliginosa gut	Wild Animal	Invertebrate
+entomopathogenic nematode heterorhabditis sp strain	Wild Animal	Invertebrate
+entomopathogenic nematodes heterorhabdi tis baujardi from thailand	Wild Animal	Invertebrate
+fall webworm hyphantria cunea	Wild Animal	Invertebrate
+fly body surface stomoxys calcitrans	Wild Animal	Invertebrate
+fresh faeces of broad winged katydids collected in jinan gun jeollabuk do the republic of korea	Wild Animal	Invertebrate
+grasshopper	Wild Animal	Invertebrate
+gut of camel cricket diestrammena coreana	Wild Animal	Invertebrate
+gut of wood eating cockroach cryptocercus punctulatus scudder from the rann of kutch gujarat india	Wild Animal	Invertebrate
+gut of an insect diestrammena apicalis	Wild Animal	Invertebrate
+gut of hairy long horned toad beetles moechotypa diphysis pascoe	Wild Animal	Invertebrate
+gut of fuscidentalis	Wild Animal	Invertebrate
+gut of the camel cricket diestrammena coreana	Wild Animal	Invertebrate
+gut of the termite thoracotermes macrothorax sj stedt section	Wild Animal	Invertebrate
+gut soil feeding termite cubitermes sp	Wild Animal	Invertebrate
+haemaphysalis sulcata ticks	Wild Animal	Invertebrate
+head of an ant camponotus japonicus mayr	Wild Animal	Invertebrate
+hemocoel of heliothis virescens larvae	Wild Animal	Invertebrate
+heterorhabditis species	Wild Animal	Invertebrate
+hindgut of pachnoda marginata larvae	Wild Animal	Invertebrate
+hindgut of termite reticulitermes flavipes	Wild Animal	Invertebrate
+hindgut of the termite heterotermes indicola	Wild Animal	Invertebrate
+hindgut termite nasutitermes lujae	Wild Animal	Invertebrate
+honey bee apis mellifera hive	Wild Animal	Invertebrate
+honey stomach of honey bee apis mellifera mellifera	Wild Animal	Invertebrate
+honeybee apis mellifera	Wild Animal	Invertebrate
+infective nematode juveniles of steinernema aciari	Wild Animal	Invertebrate
+insect teleogryllus occipitalis captured from deserted cropland in chengdu china	Wild Animal	Invertebrate
+intestinal tract of an earthworm eisenia fetida	Wild Animal	Invertebrate
+intestine of angleworm	Wild Animal	Invertebrate
+ixodes ricinus	Wild Animal	Invertebrate
+larvae of satin moth	Wild Animal	Invertebrate
+leafhopper hordnia circellata	Wild Animal	Invertebrate
+mantis cocoon sang piao xiao	Wild Animal	Invertebrate
+megachile centuncularis gut	Wild Animal	Invertebrate
+midgut of anopheles gambiae	Wild Animal	Invertebrate
+millipede	Wild Animal	Invertebrate
+mosquito culex annulus	Wild Animal	Invertebrate
+nematode heterorhabditis georgiana	Wild Animal	Invertebrate
+nematode steinernema bicornutum	Wild Animal	Invertebrate
+nematode steinernema scapterisci	Wild Animal	Invertebrate
+nephridia of the earthworm aporrectodea tuberculata	Wild Animal	Invertebrate
+ovaries of lyreman cicada tibicen linnei	Wild Animal	Invertebrate
+periostracum cicadae herb from cicada	Wild Animal	Invertebrate
+retivulitermis flavipes termite hindgut	Wild Animal	Invertebrate
+siphonaptera host	Wild Animal	Invertebrate
+skin of the medical leech hirudo medicinalis	Wild Animal	Invertebrate
+soil with faeces of insects and plant material	Wild Animal	Invertebrate
+steinernema arenarium anomalae	Wild Animal	Invertebrate
+steinernema riobrave	Wild Animal	Invertebrate
+stomach of anopheles gambiae	Wild Animal	Invertebrate
+surface of juvenile medicinal leech hirudo medicinalis	Wild Animal	Invertebrate
+termite reticulitermes flavipes	Wild Animal	Invertebrate
+termite trinervitermes trinervoides	Wild Animal	Invertebrate
+the gut of termites collected from decayed bamboo tree located	Wild Animal	Invertebrate
+the head of fuliginosus collected from northeast agriculture university	Wild Animal	Invertebrate
+ticks	Wild Animal	Invertebrate
+wood feeding termite nasutitermes lujae	Wild Animal	Invertebrate
+adapted to butanol sample host	Laboratory	Laboratory
+ale yeast brewery	Laboratory	Laboratory
+ale yeast brewery	Laboratory	Laboratory
+atcc strain	Laboratory	Laboratory
+bacterial cells body site bacterial cells	Laboratory	Laboratory
+body site cells grown on sporulation plates sige cells grown on sporulation plates	Laboratory	Laboratory
+broth culture of bovis bcg wt ambient co shaking days washed and resuspended in pbs for	Laboratory	Laboratory
+cells at stationary phase od nm in glucose media	Laboratory	Laboratory
+coli cells hs min	Laboratory	Laboratory
+competence min body site cultured monoclonal bacteria	Laboratory	Laboratory
+crpmutant fis me input	Laboratory	Laboratory
+delta rnr mutant anoxic no glycerol	Laboratory	Laboratory
+derived from existing strain	Laboratory	Laboratory
+engineered variant of escherichia coli bl de	Laboratory	Laboratory
+escherichia coli min strep rif	Laboratory	Laboratory
+fismutant crp me chipseq	Laboratory	Laboratory
+generation fluctuating replicate	Laboratory	Laboratory
+grown to exponential phase in bhi	Laboratory	Laboratory
+homo sapiens in vitro experiment ec tn mutants selected after incubation in lb mg ctx replicate	Laboratory	Laboratory
+immunoprecipitated rna for biological replicate in the absence of tungstate	Laboratory	Laboratory
+in vitro host	Laboratory	Laboratory
+industrial lactic acid starter	Laboratory	Laboratory
+janos kiss laboratory	Laboratory	Laboratory
+lab grown strain	Laboratory	Laboratory
+laboratory culture	Laboratory	Laboratory
+laboratory laboratory	Laboratory	Laboratory
+laboratory plate rich medium	Laboratory	Laboratory
+lb media exponential growth	Laboratory	Laboratory
+marinum mvu whib mutant body site marinum mvu whib mutant	Laboratory	Laboratory
+mg with and gate gene circuit in plasmid psb replicate	Laboratory	Laboratory
+mh agar mg kanamycin clone	Laboratory	Laboratory
+mix of extracted dna from cultured bacteria paracoccus aminophilus strain jcm bacillus amyloliquefaciens strain fzb alteromenas macleodii strain atcc and escherichia coli strain mg	Laboratory	Laboratory
+multiple auxotroph requires phenylalanine tyrosine tryptophan and guanine derived from strain atcc	Laboratory	Laboratory
+mutant rpos double mutation	Laboratory	Laboratory
+nickels lab collection	Laboratory	Laboratory
+parent strain ru evolved under selective conditions bhi evolved gen population gs	Laboratory	Laboratory
+phage stock escherichia coli	Laboratory	Laboratory
+quality control strain for mic testing	Laboratory	Laboratory
+rea type bi isolate from phase clinical trial	Laboratory	Laboratory
+rich media drug free cultures	Laboratory	Laboratory
+rna from salmonella typhimurium harboring pbad which contains mgtc leader	Laboratory	Laboratory
+rv rep tss non converted	Laboratory	Laboratory
+salmonella genetic stock centre university of calgary	Laboratory	Laboratory
+smo morbidostat	Laboratory	Laboratory
+staphylococcus aureus nctc	Laboratory	Laboratory
+strain lb was obtained by transduction of strain tk epstein et al into strain lb stumpe and bakker then kdpd was deleted	Laboratory	Laboratory
+thymol adapted replicate three	Laboratory	Laboratory
+tw chemostat	Laboratory	Laboratory
+uv mutagenesis of coli	Laboratory	Laboratory
+wild type strain with pribo plasmid cured of plasmid carrying wt rrna	Laboratory	Laboratory
+abscess liver ca sea lion	Aquatic Animal	Marine Mammal
+marine mammal marine mammal	Aquatic Animal	Marine Mammal
+sea otter enhydra	Aquatic Animal	Marine Mammal
+abscess of california sea lion californianus juvenile	Aquatic Animal	Marine Mammal
+common seal phoca vitulina	Aquatic Animal	Marine Mammal
+dolphin lung flasknosdelfin also found in brain	Aquatic Animal	Marine Mammal
+grey seal shot small intestine	Aquatic Animal	Marine Mammal
+grey seal brain same finding in kidney	Aquatic Animal	Marine Mammal
+harbour seal spleen phoca vitulina	Aquatic Animal	Marine Mammal
+marine mammal	Aquatic Animal	Marine Mammal
+oral swap from zalophus californianus californian sea lion	Aquatic Animal	Marine Mammal
+ringed seal dead phoca hispida	Aquatic Animal	Marine Mammal
+seal mouth swab female fur seal	Aquatic Animal	Marine Mammal
+skin of porpoise	Aquatic Animal	Marine Mammal
+viscera of porpoises phocoena phocoena	Aquatic Animal	Marine Mammal
+didelphis virginiana oconee river basin opossum fecal sample	Wild Animal	Marsupial
+macropus kangaroo intestine	Wild Animal	Marsupial
+opposum didelphis virginiana with suppurative dermatitis and hepatic fibrosis	Wild Animal	Marsupial
+ground lamb dog food	Animal Feed	Ovine/Goat (Caprinae)
+vakuum packed lamb	Food	Ovine/Goat (Caprinae)
+abscess in young sheep	Livestock	Ovine/Goat (Caprinae)
+brain of sheep fetus	Livestock	Ovine/Goat (Caprinae)
+caprine ibex alpine rectum	Livestock	Ovine/Goat (Caprinae)
+duodenum ovis aries	Livestock	Ovine/Goat (Caprinae)
+faeces of goat with soil	Livestock	Ovine/Goat (Caprinae)
+faeces of sheep freshly dropped	Livestock	Ovine/Goat (Caprinae)
+feces ovis aries	Livestock	Ovine/Goat (Caprinae)
+goat brain stem	Livestock	Ovine/Goat (Caprinae)
+goat nasal cavity healthy animal	Livestock	Ovine/Goat (Caprinae)
+goat pleuropneumonia	Livestock	Ovine/Goat (Caprinae)
+joint fluid of an alpine ibex capra ibex	Livestock	Ovine/Goat (Caprinae)
+leg joint abscess of goat	Livestock	Ovine/Goat (Caprinae)
+lymph capra aegagrus	Livestock	Ovine/Goat (Caprinae)
+nasal mucosa of goat	Livestock	Ovine/Goat (Caprinae)
+oral cavity timed pregnant sheep with litter dead	Livestock	Ovine/Goat (Caprinae)
+ovine abscess	Livestock	Ovine/Goat (Caprinae)
+ovine epididymitis	Livestock	Ovine/Goat (Caprinae)
+ovine gangrenous mastitis	Livestock	Ovine/Goat (Caprinae)
+ovine lung abscess	Livestock	Ovine/Goat (Caprinae)
+ovine lung diseased sheep	Livestock	Ovine/Goat (Caprinae)
+ovine navel ill	Livestock	Ovine/Goat (Caprinae)
+ovine respiratory tract	Livestock	Ovine/Goat (Caprinae)
+ovine septicaemia	Livestock	Ovine/Goat (Caprinae)
+ovine superficial abscess on skin year old ewe	Livestock	Ovine/Goat (Caprinae)
+ovine fatal lung abscess of month old lamb	Livestock	Ovine/Goat (Caprinae)
+ovis aries placenta	Livestock	Ovine/Goat (Caprinae)
+rumen of hay fed sheep	Livestock	Ovine/Goat (Caprinae)
+rumen of suckling lamb	Livestock	Ovine/Goat (Caprinae)
+semen ram	Livestock	Ovine/Goat (Caprinae)
+sheep bile	Livestock	Ovine/Goat (Caprinae)
+sheep goat middle pasture	Livestock	Ovine/Goat (Caprinae)
+sheep lung liver and spleen adult male post mortem	Livestock	Ovine/Goat (Caprinae)
+sheep saliva	Livestock	Ovine/Goat (Caprinae)
+suffolk breed of sheep with johne disease sheep	Livestock	Ovine/Goat (Caprinae)
+udder of goat	Livestock	Ovine/Goat (Caprinae)
+rectum ammotragus lervia	Wild Animal	Ovine/Goat (Caprinae)
+animal feed distiller dry grain cake	Animal Feed	Plant
+animal feed wheat millrun	Animal Feed	Plant
+pet treat pb amp apple stuffed	Animal Feed	Plant
+maize leaf in taiwan	Environment	Plant
+agarwood chips	Environment	Plant
+alfalfa sprouts	Environment	Plant
+alga fucus evanescens	Environment	Plant
+almond dust	Environment	Plant
+alnus glutinosa	Environment	Plant
+amorphophallus rivieri cv konjaci	Environment	Plant
+anis seed	Environment	Plant
+apple cores rinse	Environment	Plant
+arbus precatorius root nodule	Environment	Plant
+ascochyta rabiei infected chick pea cicer arietinum	Environment	Plant
+avocado fresh pulp	Environment	Plant
+avocado leaves	Environment	Plant
+avocado whole pit fruit	Environment	Plant
+bagged spinach	Environment	Plant
+banana fruits	Environment	Plant
+bark and rotting wood	Environment	Plant
+bark canker in persian english walnut tree	Environment	Plant
+bark from living tree covered by algae and lichens	Environment	Plant
+bark from living celtis sp covered by algae and lichens	Environment	Plant
+bark of diseased ficus tree	Environment	Plant
+bark of ceratonia siliqua	Environment	Plant
+bark of living populus nigra with lichens	Environment	Plant
+bark of polyanthia longifolia	Environment	Plant
+bark of tamarisk bush	Environment	Plant
+bark pieces	Environment	Plant
+bark with lichens and moss	Environment	Plant
+barquiron with cashew nuts	Environment	Plant
+basil albahaca	Environment	Plant
+basil loose	Environment	Plant
+basil sweet basil ground cracked	Environment	Plant
+begonia sp leaf spots	Environment	Plant
+bird nest fern asplenium nidus	Environment	Plant
+black natural sesame seed	Environment	Plant
+black tea extract heated at	Environment	Plant
+boiled hay	Environment	Plant
+brassica oleracea var botrytis	Environment	Plant
+brassica oleracea var sabauda	Environment	Plant
+broccosprout blend	Environment	Plant
+brown alga chorda filum	Environment	Plant
+brown algae reservoir	Environment	Plant
+bushwood	Environment	Plant
+callistemon citrinus rhizosphere	Environment	Plant
+canker bark of populus euramericana	Environment	Plant
+canna flower canna hybrida	Environment	Plant
+cantaloupes	Environment	Plant
+cardamom seeds ground	Environment	Plant
+carrot gall daucus carota	Environment	Plant
+casuarina equisetifolia	Environment	Plant
+chaparral leaf	Environment	Plant
+chia seeds	Environment	Plant
+china berry melia azedarach	Environment	Plant
+cilantro	Environment	Plant
+coastal water during massive green algae enteromorpha prolifera bloom	Environment	Plant
+colletia crucita	Environment	Plant
+coriander powder dhania	Environment	Plant
+corylus maxima	Environment	Plant
+crunchy sprout blend	Environment	Plant
+cucumis sativus	Environment	Plant
+curley parsley	Environment	Plant
+cypripedium orchid	Environment	Plant
+decayed tree ulmus nigra sawdust	Environment	Plant
+decaying bark of mimosa tree	Environment	Plant
+decaying plant material litter layer	Environment	Plant
+decaying wood	Environment	Plant
+decomposing algal scum	Environment	Plant
+dianthus caryophyllus	Environment	Plant
+dieffenbachia sp	Environment	Plant
+discolored tissue in living oak tree	Environment	Plant
+dried bay leaves laurel leaves	Environment	Plant
+dried chilli	Environment	Plant
+dried herbs	Environment	Plant
+dried lotus seed	Environment	Plant
+dried noodle	Environment	Plant
+dried pasilla peppers	Environment	Plant
+dried sweet basil	Environment	Plant
+dry bark	Environment	Plant
+ear of setaria viridis	Environment	Plant
+effective nodule of vigna unguiculata cowpea	Environment	Plant
+effective root nodules of astragalus luteolus	Environment	Plant
+eggplant rind	Environment	Plant
+endophyte of surface sterilized leaf tissue of jatropha curcas	Environment	Plant
+environmental forests	Environment	Plant
+epiphytic community of marine macroalga ulva sp	Environment	Plant
+eucalyptus leaves	Environment	Plant
+euphorbia pulcherrima	Environment	Plant
+fallen leaves	Environment	Plant
+feces dirt from tomato field	Environment	Plant
+field org wild arugula	Environment	Plant
+finish prep chop iceberg lettuce	Environment	Plant
+finished sweet kale salad	Environment	Plant
+floral nectar of the plant species muscari comosum	Environment	Plant
+flower nectar from healthy plants of citrus paradisi grapefruit	Environment	Plant
+foliaceous lichen	Environment	Plant
+fresh basil	Environment	Plant
+fresh curly parsley	Environment	Plant
+fresh long green peppers	Environment	Plant
+fresh pineapple	Environment	Plant
+fresh squeezed grapefruit juice	Environment	Plant
+from brown algae fucus evanescens	Environment	Plant
+frozen dok kae vegetable	Environment	Plant
+frozen wild organic blueberries	Environment	Plant
+fruit powder	Environment	Plant
+frz avocado pulp	Environment	Plant
+garden american cucumber	Environment	Plant
+germinating seedlingd psychotria bacteriophila	Environment	Plant
+grape marc	Environment	Plant
+grass silage	Environment	Plant
+green alga acrosiphonia sonderi collected in troitsa bay gulf of peter the great east sea	Environment	Plant
+green pepper	Environment	Plant
+ground egusi melon seeds	Environment	Plant
+hass green avocados	Environment	Plant
+hazlnuts farm shelled	Environment	Plant
+healthy internal stem tissue of post harvest cotton plant gossypium hirsutum cultivar des	Environment	Plant
+healthy surface sterilized leaves of traditional chinese medicinal plant maytenus austroyunnanensis	Environment	Plant
+herbage	Environment	Plant
+honey dew of rye ear	Environment	Plant
+humulus lupulus	Environment	Plant
+impatiens balsamina	Environment	Plant
+infected leaves zea mays var praecox	Environment	Plant
+inner bark of quercus petraea displaying acute oak decline	Environment	Plant
+internal root tissue of rosa rugosa thunb ex murray	Environment	Plant
+isolated from marine red alga	Environment	Plant
+jalapeno peppers fresh	Environment	Plant
+khoshkpak peel of pistachio	Environment	Plant
+lactuca sativa	Environment	Plant
+large green avocado	Environment	Plant
+leaf litters	Environment	Plant
+leaf of cerastium holosteoides	Environment	Plant
+leaf of wild type arabidopsis thaliana	Environment	Plant
+leaf seagrass	Environment	Plant
+leaf surface trifolium repens	Environment	Plant
+leafs with scorch symptoms of the pear cultivar pyrus pyrifolia cv hengshan	Environment	Plant
+leaves from eelgrass zostera sp collected on the coast of northwest zealand denmark	Environment	Plant
+leaves of infected plants of solanum tuberosum cultivar spunta	Environment	Plant
+leaves of watercress	Environment	Plant
+lemon	Environment	Plant
+lichen flacoparmelia sp growing on the bark of buchanania latifolia roxb	Environment	Plant
+litoral hydrothermal sample	Environment	Plant
+lotononis angolensis nitrogen fixing nodule	Environment	Plant
+lycopersicon esculentum	Environment	Plant
+macadamia nuts clusters	Environment	Plant
+macrocystis pyrifera tissue host	Environment	Plant
+maize white graines after days of steeping	Environment	Plant
+malus domestica james grieve	Environment	Plant
+mangifera indica	Environment	Plant
+marine alga phaeocystis globosa	Environment	Plant
+marine plant laurencia sp	Environment	Plant
+mesona chinensis root	Environment	Plant
+milletia japonica	Environment	Plant
+miscanthus sinensis cv giganteus	Environment	Plant
+moss ctenidium molluscum	Environment	Plant
+mosses lichens aulacomnium palustre	Environment	Plant
+mountains ash berries	Environment	Plant
+mung bean sprouts fresh raw	Environment	Plant
+mycorhizosphere of tylophilus felleus	Environment	Plant
+natural rubber	Environment	Plant
+nepenthes digestive fluid	Environment	Plant
+nitrogen fixing effective root nodules of common bean phaseolus vulgaris in mexico	Environment	Plant
+nodules of astragalus mongholicus elevation	Environment	Plant
+noni morinda citrifolia inner tissue of healthy branches as endophyte	Environment	Plant
+ocimum basilicum clinical host	Environment	Plant
+onion clover sprouts	Environment	Plant
+orchardgrass dactylis glomerata silage	Environment	Plant
+organic dark sweet cherries	Environment	Plant
+organic stevia leaf	Environment	Plant
+oryza sativa	Environment	Plant
+palm oil digester	Environment	Plant
+pavetta zimmermannia	Environment	Plant
+pear pyris communis	Environment	Plant
+pear waste fermenter	Environment	Plant
+pelargonium zonale stem	Environment	Plant
+pepper delights	Environment	Plant
+phaseolus vulgaris	Environment	Plant
+phloem tissue of black oak quercus kelloggii exhibiting decline symptoms	Environment	Plant
+phyllospere of medicago truncatula	Environment	Plant
+phyllosphere of arrow bamboo japonica	Environment	Plant
+phyllosphere of cynara cardunculus var sylvestris lamk fiori wild cardoon	Environment	Plant
+phyllosphere of potato plants leaves	Environment	Plant
+phyllosphere of transgenic potato plants	Environment	Plant
+pine nuts turkish pine nuts	Environment	Plant
+pistacia vera	Environment	Plant
+planktonic seaweed from coastal seawater	Environment	Plant
+plant leaves	Environment	Plant
+plant rhizosphere peucedanum japanicum	Environment	Plant
+plant root ophiopogon japonicus	Environment	Plant
+plant phylloid of funaria hygrometrica	Environment	Plant
+poplar bark	Environment	Plant
+potato	Environment	Plant
+potato plant	Environment	Plant
+potato plants elvira with symptoms of blackleg	Environment	Plant
+potato waste on storage room floor potato waste on storage room floor	Environment	Plant
+prunus rsb rstr	Environment	Plant
+psychotria nairobiensis	Environment	Plant
+pyrus communis alexander lucas	Environment	Plant
+radish root	Environment	Plant
+raw almonds	Environment	Plant
+raw humus and rotting fruits collected from trunk of eucalyptus tree	Environment	Plant
+raw humus with sand and plant residues from rain forest	Environment	Plant
+raw organic tango lettuce	Environment	Plant
+raw plant based powder	Environment	Plant
+red alga delesseria sanguinea	Environment	Plant
+red oak leaf lettuce	Environment	Plant
+red brown leaf stripe in sorghum bicolor	Environment	Plant
+rhizophere of platycodon grandiflorum	Environment	Plant
+rhizoplane of field grown sweet corn zea mays	Environment	Plant
+rhizoplane of wheat triticum aestivum	Environment	Plant
+rhizosphere of cliff associated plant peucedanum japonicum thunb	Environment	Plant
+rhizosphere of wild strawberry plant located on gyeryong mountain daejeon republic of korea	Environment	Plant
+rhizosphere of barley hordeum vulgare	Environment	Plant
+rhizosphere of cicer arietinum	Environment	Plant
+rhizosphere of grasses	Environment	Plant
+rhizosphere of mangrove associated wild rice	Environment	Plant
+rhizosphere of organic olive grove	Environment	Plant
+rhizosphere of pinus densiflora	Environment	Plant
+rhizosphere of rumex acetosa	Environment	Plant
+rhizosphere of spartina alterniflora	Environment	Plant
+rhizosphere of tomato lycopersicon esculentum	Environment	Plant
+rhizosphere of typha angustiflora	Environment	Plant
+rhizosphere ofzea mays var avantis	Environment	Plant
+rhyzoplane of nymphaea rubra	Environment	Plant
+rice root tilling stage of rice	Environment	Plant
+rice seeds surface	Environment	Plant
+rizosphere of zea mays	Environment	Plant
+root nitrogen fixing nodules of calliandra grandiflora	Environment	Plant
+root nodule of amorpha fruticosa	Environment	Plant
+root nodule of elaeagnus umbellata thumb	Environment	Plant
+root nodule of machaerium lunatum	Environment	Plant
+root nodule of robinia pseudoacacia	Environment	Plant
+root nodule surface of soybean glycine max merrill cultivar zhonghuang	Environment	Plant
+root nodules of latifolia	Environment	Plant
+root nodules of astragalus sinicus	Environment	Plant
+root nodules of coriaria sp	Environment	Plant
+root nodules of herb legumes astragalus membranaceus	Environment	Plant
+root nodules of lupinus angustifolius	Environment	Plant
+root nodules of periandra mediterranea	Environment	Plant
+root nodules of prosopis chilensis	Environment	Plant
+root nodules of sophora longicarinata from an alluvial limestone river terrace	Environment	Plant
+root nodules of the thai medicinal plant pueraria candollei var candollei grown at the faculty of pharmacy mahidol university	Environment	Plant
+root of mondo grass	Environment	Plant
+root of carex scabrifolia steud halophytic plant	Environment	Plant
+root of juncus roemerianus	Environment	Plant
+root of snap bean phaseolus vulgaris	Environment	Plant
+root of the mangrove avicennia marina	Environment	Plant
+root of viola philippica car	Environment	Plant
+root surface of soybean glycine max merr	Environment	Plant
+root saccharum officinarum	Environment	Plant
+roots of wild tree alnus nepalensis	Environment	Plant
+roots of arabidopsis thaliana ecotype columbia	Environment	Plant
+roots of arabidopsis thaliana ecotype shakdara sha	Environment	Plant
+roots of fresh rice plants oryza sativa	Environment	Plant
+roots of hyparrhenia rufa	Environment	Plant
+roots of leptochloa fusca kunth grown on saline sodic soils	Environment	Plant
+roots of perilla frutescens	Environment	Plant
+roots of rumex acetosa	Environment	Plant
+roots of sugar beet beta vulgaris affected by tumour like deformations	Environment	Plant
+rosa sp	Environment	Plant
+rotted and dry fruit of opuntia ficus indica	Environment	Plant
+rotten zirzak fruit	Environment	Plant
+rotting bark of tamarindus indica with molds	Environment	Plant
+rotting plant residues	Environment	Plant
+rotting saguaro cactus carnegiea gigantea	Environment	Plant
+rotting wood	Environment	Plant
+rotting wood and twigs	Environment	Plant
+rotting wood of baryan tree	Environment	Plant
+rusty feather moss brachythecium plumosum	Environment	Plant
+salix alba caerulae	Environment	Plant
+sap drawn from the acer pictum from mount halla jeju republic of korea	Environment	Plant
+sawdust of ulmus nigra	Environment	Plant
+scot pine needle like leaves	Environment	Plant
+seagrass	Environment	Plant
+seaweed digenea simplex	Environment	Plant
+seed of pisum sativum cv cesar	Environment	Plant
+serrano peppers	Environment	Plant
+sesame seeds hulled	Environment	Plant
+setcreasea pallida rose	Environment	Plant
+siamese sal shorea obtusa tree bark collected from mahasarakham province in the north east of thailand	Environment	Plant
+sliced skinless apples	Environment	Plant
+soil with raw humus leaves and twiggs	Environment	Plant
+solanum tuberosum blackleg of potato stem	Environment	Plant
+sorghum sp leafstreak	Environment	Plant
+soybean glycine max	Environment	Plant
+soybean root nodule	Environment	Plant
+sphagnum	Environment	Plant
+sphagnum peat	Environment	Plant
+spicy sprout blend	Environment	Plant
+standing corn stalks and leaves	Environment	Plant
+stem of healthy halophyte sample of anabasis eliator mey schischk	Environment	Plant
+stem of sugar cane plant cultivar gt	Environment	Plant
+stems of haloxylon ammodendron from kumtag desert xinjiang	Environment	Plant
+strawberry	Environment	Plant
+sugar beet juice from extraction installations	Environment	Plant
+sugar cane bagasse	Environment	Plant
+sugarcane	Environment	Plant
+surface of blade of carex species	Environment	Plant
+surface of leaves of seagrass zostera marina	Environment	Plant
+surface of the marine green alga ulva australis collected from rocky intertidal zone	Environment	Plant
+surface sterilized leaf of pittosporum angustifolium native apricot tree	Environment	Plant
+surface sterilized root of eucalyptus microcarpa	Environment	Plant
+surface sterilized root of the halophyte tamarix chinensis lour healthy plant tissue	Environment	Plant
+surface sterilized roots of sea purslane halimione portulacoides	Environment	Plant
+surface sterilized stem tissue of jatropha curcas	Environment	Plant
+surface disinfected moss polytrichastrum formosum	Environment	Plant
+surface sterilized bark of mangrove plant aegiceras corniculatum in cotai ecological zones macao china	Environment	Plant
+surface sterilized healthy root of dysophylla stellata lour benth	Environment	Plant
+surface sterilized healthy stem of tamarix taklamakanensis	Environment	Plant
+surface sterilized leaf of maytenus austroyunnanensis collected from tropical rainforest	Environment	Plant
+surface sterilized leaves of maytenus austroyunnanensis from tropical rainforest	Environment	Plant
+surface sterilized root nodules of casuarina glauca filao	Environment	Plant
+surface sterilized root of medicinal plant huperzia serrata thunb collected from low brush hongya county sichuan province south west china	Environment	Plant
+surface sterilized root of ginkgo biloba	Environment	Plant
+surface sterilized root of the halophyte suaeda maritima	Environment	Plant
+surface sterilized root tissue of maize planted in the fangshan district of beijing china	Environment	Plant
+surface sterilized roots of artemisia annua	Environment	Plant
+surface sterilized roots of perilla frutescens britt var frutescens	Environment	Plant
+surface sterilized roots of the marine macrophyte zostera marina	Environment	Plant
+surface sterilized stem of grey box tree eucalyptus microcarpa	Environment	Plant
+surface sterilized stem of the medicinal plant sterculiae lychnophorae	Environment	Plant
+surface sterilized stems of coastal halophyte tamarix chinensis lour	Environment	Plant
+surface sterilized tobacco	Environment	Plant
+surface sterilzied stem of gloriosa superba	Environment	Plant
+symptomatic bark of populus euramericana	Environment	Plant
+symptomatic watermelon plant	Environment	Plant
+tabaco root samples	Environment	Plant
+thalli of marine red alga	Environment	Plant
+the leaf of kaempferia larsenii	Environment	Plant
+the rhizosphere of the halophyte arthrocnemum macrostachyum	Environment	Plant
+tissue culture of scots pine pinus sylvestris	Environment	Plant
+tobacco whole leaf	Environment	Plant
+tomato pulp	Environment	Plant
+trema orientalis	Environment	Plant
+trunk surface of japanese oak quercus crispula	Environment	Plant
+tubers of yam bean legume	Environment	Plant
+umbilicus	Environment	Plant
+vegetative plant debris	Environment	Plant
+vine ripe red tomatoes	Environment	Plant
+watche leaves spice	Environment	Plant
+wetwood eastern cotton wood tree	Environment	Plant
+wheat seedling plants	Environment	Plant
+white potato	Environment	Plant
+whole cumin seeds	Environment	Plant
+wild relative of rice porteresia coarctata from mangrove ecosystem	Environment	Plant
+witloof chicory	Environment	Plant
+wood dust and rotting wood collected from branch of ficus mysoriensis	Environment	Plant
+wood fall in seawater	Environment	Plant
+wood from rotting stem from rain forest	Environment	Plant
+zantedeschia aethiopica	Environment	Plant
+zea mays roots	Environment	Plant
+ainse seed ground steamed	Food	Plant
+almond butter	Food	Plant
+assorted herbs	Food	Plant
+beer contaminant	Food	Plant
+brine from spanish style green olive fermenters at the first two weeks of fermentation	Food	Plant
+cabbage ecological end of natural fermentation	Food	Plant
+cassava sour starch fermentation	Food	Plant
+chia powder	Food	Plant
+chili lime flavored corn snacks	Food	Plant
+chilli powder regular	Food	Plant
+choclate powder enrichment	Food	Plant
+cider final industrial product	Food	Plant
+coarse rice stabilized bran	Food	Plant
+composting material of distilled shochun residue	Food	Plant
+corn steep liquor	Food	Plant
+creamy soy nut butter	Food	Plant
+cumin powder	Food	Plant
+dark red paprika powder	Food	Plant
+dhanajiru powder curry	Food	Plant
+dried arnica flower for teas	Food	Plant
+dry cereal	Food	Plant
+extraction juices of beet sugar factory	Food	Plant
+fermented beverage	Food	Plant
+fermented cane molasses at alcohol plants	Food	Plant
+fermented grass silage used as cattle forage	Food	Plant
+fermented rice grains	Food	Plant
+finished dry roasted pumpkin seeds	Food	Plant
+food celery	Food	Plant
+food lettuce romaine	Food	Plant
+food spinach	Food	Plant
+from traditional acetic acid fermentation culture of cereal vinegars	Food	Plant
+garam masla mixed spices	Food	Plant
+grapevine	Food	Plant
+ground cumin	Food	Plant
+halawa plain sugar free	Food	Plant
+helianthus camade herbal tea	Food	Plant
+herbal tea en forma	Food	Plant
+industrial cider vinegar fermentation	Food	Plant
+isolate rice bran	Food	Plant
+kaju mix cashew mix	Food	Plant
+kimchi fermented vegetable food in korea	Food	Plant
+klaunji powder mashoq habbe sauda	Food	Plant
+lemon grass tea	Food	Plant
+maggi seasoning powder regular flavor	Food	Plant
+mixed spice powder rasam	Food	Plant
+moto starter of sake	Food	Plant
+nonmeat other	Food	Plant
+orange lemonade	Food	Plant
+paprika raw imported material	Food	Plant
+peanut butter	Food	Plant
+pennywort juice frz	Food	Plant
+piper sanctum hoja santa herbal tea leaves	Food	Plant
+plant dreived foodstuff	Food	Plant
+porcini mushrooms	Food	Plant
+pu er tea tea plant camellia sinensis	Food	Plant
+red chili dried	Food	Plant
+red mellow bush rooibus herbal tea	Food	Plant
+ripened pu er tea	Food	Plant
+roasted salted pistachios	Food	Plant
+sake spoiled	Food	Plant
+saw palmetto ground powder	Food	Plant
+soil or fermented soybean	Food	Plant
+soy bean hull pellets	Food	Plant
+spanish bobal grape must	Food	Plant
+spicy chananuts	Food	Plant
+spoiled ciders	Food	Plant
+spoiled red wine	Food	Plant
+spontaneously fermented cocoa bean heaps	Food	Plant
+sunki japanese traditional fermented vegetable	Food	Plant
+tempoyak	Food	Plant
+tops cerasee tea	Food	Plant
+tulsi basil powder	Food	Plant
+unsweetened puffed rice cereal	Food	Plant
+vegetarian instant rice noodle	Food	Plant
+vinegar	Food	Plant
+white pepper powder	Food	Plant
+animal facility room bloody stool callithrix jacchus	Wild Animal	Primate
+dental plaque of monkey	Wild Animal	Primate
+faeces of year old ring tailed lemur lemur catta	Wild Animal	Primate
+faeces of an adult cotton top tamarin saguinus oedipus	Wild Animal	Primate
+faeces callithrix pygmaea	Wild Animal	Primate
+feces of wild western lowland gorilla gorilla gorilla gorilla	Wild Animal	Primate
+gastric mucosa of pigtailed macaque	Wild Animal	Primate
+heart of cotton topped tamarin saguinus oedipus	Wild Animal	Primate
+lung of female monkey callithrix geoffroyi with pneumonitis and pneumonia	Wild Animal	Primate
+marmoset feces	Wild Animal	Primate
+monkey dental plaque male long tailed macaques years old	Wild Animal	Primate
+nasal swab from red tailed monkey cercopithecus ascanius within after the death of the animal	Wild Animal	Primate
+periodontal pocket of stumptailed macaque macaca arctoides	Wild Animal	Primate
+spider monkey or sooty mangabey	Wild Animal	Primate
+brown hare	Wild Animal	Rabbit/Hare
+faeces of hare collected from snow	Wild Animal	Rabbit/Hare
+faeces of rabbit rotting plant material and top soil beach forest	Wild Animal	Rabbit/Hare
+hare lung tissue wild animal	Wild Animal	Rabbit/Hare
+host rabbit	Wild Animal	Rabbit/Hare
+liver spleen rabbit	Wild Animal	Rabbit/Hare
+oryctolagus cuniculus	Wild Animal	Rabbit/Hare
+rabbit dom lampine	Wild Animal	Rabbit/Hare
+rabbit meat cut	Wild Animal	Rabbit/Hare
+rabbit nose healthy animal	Wild Animal	Rabbit/Hare
+rabbit whole skinless bone in	Wild Animal	Rabbit/Hare
+rectum of rabbit	Wild Animal	Rabbit/Hare
+rattlesnake powder food supplement	Food	Reptile
+animal reptile spleen reptilia	Wild Animal	Reptile
+boa int swab boa constrictor	Wild Animal	Reptile
+chlamydosaurus kingii frilled lizard	Wild Animal	Reptile
+crocodylus meat	Wild Animal	Reptile
+faecal material of the timber rattlesnake	Wild Animal	Reptile
+feces dermatemys mawii	Wild Animal	Reptile
+gekko gecko linnaeus lizard	Wild Animal	Reptile
+iguana	Wild Animal	Reptile
+iguana meat frz	Wild Animal	Reptile
+java rock python	Wild Animal	Reptile
+liver tortoise	Wild Animal	Reptile
+morelia spilota non venomous reptile body site post mortem tissues	Wild Animal	Reptile
+oral cavity of healthy captive eastern long necked turtle chelodina longicollis	Wild Animal	Reptile
+python oral python sp	Wild Animal	Reptile
+reptile eggsac reptilia	Wild Animal	Reptile
+reptile skink necropsy	Wild Animal	Reptile
+snake cloaca	Wild Animal	Reptile
+snake oral tigerpyton svalg	Wild Animal	Reptile
+soft shelled turtle	Wild Animal	Reptile
+stomach crotalus viridis	Wild Animal	Reptile
+tortoise	Wild Animal	Reptile
+tortoise shell	Wild Animal	Reptile
+tropical snake	Wild Animal	Reptile
+urinary bladder of galapagos turtle	Wild Animal	Reptile
+caecal content tnf sup deltaare sup bl mouse mouse treated with ampicillin	Wild Animal	Rodent
+are mouse caecum	Wild Animal	Rodent
+black rat host	Wild Animal	Rodent
+blood of apodemus speciosus mice	Wild Animal	Rodent
+blood of microtus agrestis	Wild Animal	Rodent
+bodily fluid rodentia	Wild Animal	Rodent
+caecal content bl wildtype mouse	Wild Animal	Rodent
+caecitis of syrian hamster mesocricetus auratus	Wild Animal	Rodent
+cardiac lesion gender female rattus norvegicus septic recently found dead gravid long evans female rat	Wild Animal	Rodent
+cecal content of obese mouse	Wild Animal	Rodent
+citellus pygmaeus	Wild Animal	Rodent
+colonic mucosa tnf sup deltaare sup bl mouse	Wild Animal	Rodent
+cynomys spleen host	Wild Animal	Rodent
+early infection non rrna depleted mouse	Wild Animal	Rodent
+faeces of guinea pigs cavia porcellus	Wild Animal	Rodent
+faeces cricetus cricetus	Wild Animal	Rodent
+fetus gender female rattus norvegicus septic recently found dead gravid long evans female rat body site fetus	Wild Animal	Rodent
+frozen pinkie feeder mice mouse	Wild Animal	Rodent
+guinea pig	Wild Animal	Rodent
+guinea pig mesenteric lymph node	Wild Animal	Rodent
+guinea pigs with tuberculosis arrested by chemotherapy	Wild Animal	Rodent
+gut rodent	Wild Animal	Rodent
+hamster dental plaque	Wild Animal	Rodent
+high fat diet mouse mus musculus bl	Wild Animal	Rodent
+house mouse host	Wild Animal	Rodent
+intestinal content wildtype bl mouse	Wild Animal	Rodent
+kidney chinchilla lanigera	Wild Animal	Rodent
+liver of woodchuck infected with whv	Wild Animal	Rodent
+liver or cecum of the african rodent mastomys natalensis	Wild Animal	Rodent
+lung of diseased guinea pig	Wild Animal	Rodent
+lung of mouse born in mpi pl	Wild Animal	Rodent
+marmota	Wild Animal	Rodent
+microtus agrestis blood	Wild Animal	Rodent
+mouse preputium	Wild Animal	Rodent
+mouse conjunctivitis	Wild Animal	Rodent
+mouse eye conjunctivitis	Wild Animal	Rodent
+mouse gut	Wild Animal	Rodent
+mouse joint arthritis	Wild Animal	Rodent
+mouse liver	Wild Animal	Rodent
+mouse nose healthy animal	Wild Animal	Rodent
+mouse prepuce	Wild Animal	Rodent
+mouse stomach	Wild Animal	Rodent
+mouse vagina healthy animal	Wild Animal	Rodent
+mouth of guinea pig	Wild Animal	Rodent
+murine nose	Wild Animal	Rodent
+mus musculus balb strain university of arizona tucson arizona eeuu host	Wild Animal	Rodent
+myodes glareolus nasopharynx bank voles	Wild Animal	Rodent
+norway rat	Wild Animal	Rodent
+oral cavity of healthy wild caught house mouse mus musculus domesticus	Wild Animal	Rodent
+origine unknown	Wild Animal	Rodent
+persistent infection non rrna depleted mouse	Wild Animal	Rodent
+rat	Wild Animal	Rodent
+rat eye	Wild Animal	Rodent
+rat joint rattus norvegicus	Wild Animal	Rodent
+rat nose health check up	Wild Animal	Rodent
+rat samples	Wild Animal	Rodent
+rat tooth surface of laboratory rat	Wild Animal	Rodent
+rattus flavipectus viscera host	Wild Animal	Rodent
+respiratory tract of wild marmot marmota himalayana	Wild Animal	Rodent
+rodent necropsy chipmunk lung	Wild Animal	Rodent
+skin of squirrel	Wild Animal	Rodent
+streifenh rnchen	Wild Animal	Rodent
+wild mouse	Wild Animal	Rodent
+baby octopus frz	Aquatic Animal	Shellfish
+black tiger shrimp iqf raw	Aquatic Animal	Shellfish
+blue mussel	Aquatic Animal	Shellfish
+chinese shrimps raw penaeus chinensis	Aquatic Animal	Shellfish
+crab claws frz cut	Aquatic Animal	Shellfish
+crab in shell	Aquatic Animal	Shellfish
+crassostrea gigas japanese oyster larvae	Aquatic Animal	Shellfish
+crayfish	Aquatic Animal	Shellfish
+cuttlefish roll	Aquatic Animal	Shellfish
+decaying crab carapace	Aquatic Animal	Shellfish
+digestive tract of japanese prawn marsupenaeus japonicus	Aquatic Animal	Shellfish
+dried shrimp skin red	Aquatic Animal	Shellfish
+eastern oyster marine larvae	Aquatic Animal	Shellfish
+ez peel farmed vannamei shrimp	Aquatic Animal	Shellfish
+fresh water shrimp	Aquatic Animal	Shellfish
+frozen fresh water hlso shrimp	Aquatic Animal	Shellfish
+frozen iqf raw peeled tiger shrimp	Aquatic Animal	Shellfish
+frozen prawns	Aquatic Animal	Shellfish
+frozen seasoned squid	Aquatic Animal	Shellfish
+frozen whole cleaned octopus wild caught size	Aquatic Animal	Shellfish
+frz crab cakes	Aquatic Animal	Shellfish
+frz farm raised raw shrimp	Aquatic Animal	Shellfish
+frz octopus whole cleaned	Aquatic Animal	Shellfish
+frz raw tiger shrimp	Aquatic Animal	Shellfish
+frz shrimp	Aquatic Animal	Shellfish
+frz tropical rock lobster tails	Aquatic Animal	Shellfish
+gut of daphnia magna	Aquatic Animal	Shellfish
+hemolymph of healthy spider crab maja brachydactyla	Aquatic Animal	Shellfish
+intestinal tract of the common pill woodlouse armadillidium vulgare	Aquatic Animal	Shellfish
+king crab legs and claws	Aquatic Animal	Shellfish
+lobster claw and knuckle meat	Aquatic Animal	Shellfish
+mussel mytilus edulis	Aquatic Animal	Shellfish
+oyster meat frz	Aquatic Animal	Shellfish
+penaeus vannamei body site hepatopancrease shrimp	Aquatic Animal	Shellfish
+prawn chinese raw frozen	Aquatic Animal	Shellfish
+raw whole crabs	Aquatic Animal	Shellfish
+scrimps	Aquatic Animal	Shellfish
+shellfish monitoring program	Aquatic Animal	Shellfish
+shrimp bacon wrapped re packaged in the restaurant	Aquatic Animal	Shellfish
+shrimp frz aquacultured	Aquatic Animal	Shellfish
+shrimp size	Aquatic Animal	Shellfish
+slit cut cuttlefish	Aquatic Animal	Shellfish
+soft crabs	Aquatic Animal	Shellfish
+squid raw sliced	Aquatic Animal	Shellfish
+stomach specimen of antarctic krill euphausia superba	Aquatic Animal	Shellfish
+vibrio fischeri minimal medium containing mm glycerol vfmg media non crab	Aquatic Animal	Shellfish
+abdominal epidermis of sea cucumber	Aquatic Animal	Shellfish
+alvinella pompejana deep sea hydrothermal vent polychaete	Aquatic Animal	Shellfish
+aplysina aerophoba sponges	Aquatic Animal	Shellfish
+ascidian sea squirt	Aquatic Animal	Shellfish
+australian abalone gut haliotis laevigata	Aquatic Animal	Shellfish
+bivalve larvae nodipecten nodosus	Aquatic Animal	Shellfish
+bryozoan schizobrachiella sanguinea	Aquatic Animal	Shellfish
+cockles cardium sp	Aquatic Animal	Shellfish
+coral mucus fungia granulosa	Aquatic Animal	Shellfish
+coral palithoa sp	Aquatic Animal	Shellfish
+cultivated oyster	Aquatic Animal	Shellfish
+deep water marine hexactinellid sponge	Aquatic Animal	Shellfish
+diseased coral pocillopora damicornis	Aquatic Animal	Shellfish
+excreted faeces of abalone haliotis discus hannai from abalone breeding base jinjing town jinjiang county fujian province	Aquatic Animal	Shellfish
+gastrointestinal tract of the mollusk sea slug elysia ornata	Aquatic Animal	Shellfish
+gills of deep sea hydrothermal mussel bathymodiolus brevior water depth	Aquatic Animal	Shellfish
+gorgonian coral menella praelonga	Aquatic Animal	Shellfish
+gut of abalone haliotis discus discus	Aquatic Animal	Shellfish
+gut of an abalone haliotis discus hannai	Aquatic Animal	Shellfish
+gut of the abalone haliotis discus hannai	Aquatic Animal	Shellfish
+healthy manila clam venerupis philippinarum	Aquatic Animal	Shellfish
+homogenates of surface sterilized sea anemone anthopleura xanthogrammica collected from tidal flat	Aquatic Animal	Shellfish
+hydrothermally influenced sediment composed of tiny coral granules	Aquatic Animal	Shellfish
+internal tissue of the sponge amphilectus digitatus	Aquatic Animal	Shellfish
+intestinal tract of japanese flying squid	Aquatic Animal	Shellfish
+intestine of adult abalone diversicolor	Aquatic Animal	Shellfish
+isolated from abalone	Aquatic Animal	Shellfish
+kidney of brown shark carcharhinus plumbeus	Aquatic Animal	Shellfish
+liquor of ascidian halocynthia aurantium	Aquatic Animal	Shellfish
+marine ascidium didemnum sp	Aquatic Animal	Shellfish
+marine sponge	Aquatic Animal	Shellfish
+marine sponge from depth of near the komandorskiye islands	Aquatic Animal	Shellfish
+marine sponge haliclona simulans	Aquatic Animal	Shellfish
+marine sponge leucosolenia sp	Aquatic Animal	Shellfish
+marine sponge suberites carnosus	Aquatic Animal	Shellfish
+mediterranean sponge axinella polypoides	Aquatic Animal	Shellfish
+mucus of the coral favia veroni	Aquatic Animal	Shellfish
+mucus taken from diseased colony of the coral montispora capitata in kane ohe bay	Aquatic Animal	Shellfish
+mussel cultured mytilus sp	Aquatic Animal	Shellfish
+octocoral	Aquatic Animal	Shellfish
+oyster avelsostron	Aquatic Animal	Shellfish
+phakellia ventilabrum sponge	Aquatic Animal	Shellfish
+purified oyster	Aquatic Animal	Shellfish
+putrid infusion of freshwater shellfish	Aquatic Animal	Shellfish
+reef building coral isopora palifera	Aquatic Animal	Shellfish
+sea anemone	Aquatic Animal	Shellfish
+sea cucumber holothuria edulis	Aquatic Animal	Shellfish
+sea squirt polycitor proliferus	Aquatic Animal	Shellfish
+sea urchin hemicentrotus pulcherrimus	Aquatic Animal	Shellfish
+seawater surrounding the hard coral galaxea fascicularis	Aquatic Animal	Shellfish
+soft coral growing below sea surface	Aquatic Animal	Shellfish
+sponge pachastrella sp	Aquatic Animal	Shellfish
+starfish	Aquatic Animal	Shellfish
+tapes philippinarum clam	Aquatic Animal	Shellfish
+the intestine of abalone discus hannai	Aquatic Animal	Shellfish
+torch coral euphyllia glabrescens	Aquatic Animal	Shellfish
+water extract of bleached merulina ampliata	Aquatic Animal	Shellfish
+crab meat frz pasteurized cooked	Food	Shellfish
+crayfish cooked and pasteurised	Food	Shellfish
+fermented shrimp paste ka pi produced in thailand	Food	Shellfish
+food raw mussel	Food	Shellfish
+frozen cooked shrimp	Food	Shellfish
+frzn cooked lobster claw meat	Food	Shellfish
+jeotgal traditional korean fermented seafood	Food	Shellfish
+jogae jeotgal traditional korean fermented seafood	Food	Shellfish
+oyster meat	Food	Shellfish
+precooked lake crab lump	Food	Shellfish
+salted turban shell traditional fermented seafood	Food	Shellfish
+seafood seafood	Food	Shellfish
+shrimp iqf cooked peeled deveined	Food	Shellfish
+solid food food fish and seafood products salted or acidified salted octopus ready to eat rte	Food	Shellfish
+tenderized squid roll	Food	Shellfish
+traditional korean fermented seafood jeotgal	Food	Shellfish
+sediment of chahannao soda lake	Environment	Soil/Dust
+year old strictly anaerobic naphthalene degrading sulfate reducing enrichment culture enriched from soil sample	Environment	Soil/Dust
+dark reddish latosol under natural vegetation cover cerrado savanna vegetation	Environment	Soil/Dust
+hypersaline soil sample collected from the lop nur salt lake	Environment	Soil/Dust
+methanogenic long chain paraffin degrading cosortium enriched from marine sediments of san diego bay	Environment	Soil/Dust
+riparian woodland soil collected from south of the okavango river abover sea level	Environment	Soil/Dust
+salt water beach	Environment	Soil/Dust
+sediment sample from the ol khovka river	Environment	Soil/Dust
+soil sample collected from lawn	Environment	Soil/Dust
+soil sample of natural cave in jeju collected at distance of mm from the entrance of the cave	Environment	Soil/Dust
+abyssal sediment	Environment	Soil/Dust
+acidic dune grassland soil	Environment	Soil/Dust
+acidic soil at sulfur stockpile	Environment	Soil/Dust
+activated sludge bendigo waste water treatment	Environment	Soil/Dust
+activated sludge foams	Environment	Soil/Dust
+activated sludge from an industrial wastewater treatment plant	Environment	Soil/Dust
+activated sludge from water treatment system	Environment	Soil/Dust
+activated sludge of bacillus dominated wastewater treatment system	Environment	Soil/Dust
+activated sludge of sewage purification system of the baikal paper mill	Environment	Soil/Dust
+activated sludge of an aerobic pyrethroid contaminated wastewater	Environment	Soil/Dust
+activated sludge of industrial sewage plant	Environment	Soil/Dust
+activated sludge of the municipal wastewater treatment plant nchen	Environment	Soil/Dust
+activated sludge reactor showing enhanced biological phosphorous removal activity	Environment	Soil/Dust
+activated sludge taken from wastewater treatment plant	Environment	Soil/Dust
+activated sludge herbicide manufacturing wastewater treatment facility	Environment	Soil/Dust
+activated sludge wastewater treatment bioreactor	Environment	Soil/Dust
+active layer soil from moist acidic tussock tundra	Environment	Soil/Dust
+adobe garden soil	Environment	Soil/Dust
+aerobic surface sediment samples of the mangrove forests at nayband bay	Environment	Soil/Dust
+agricultural soil potato root solanum tuberosum cv romina root	Environment	Soil/Dust
+air above grass pasture	Environment	Soil/Dust
+air of medical practice	Environment	Soil/Dust
+air dried soil collected from the sakaerat environmental research station thailand institute of scientific and technological research nakhon ratchasima province thailand	Environment	Soil/Dust
+alkaline mud oil exploration drilling site	Environment	Soil/Dust
+alkaline wastewater drainage sludge beverage industry	Environment	Soil/Dust
+alpine meadow soil	Environment	Soil/Dust
+an acidic soil sample collected from the forest of dinghushan biosphere reserve	Environment	Soil/Dust
+anaerobic black mud from waste water ditch	Environment	Soil/Dust
+anaerobic estuarine sediment	Environment	Soil/Dust
+anaerobic granular sludge thermophilic uasb reactor	Environment	Soil/Dust
+anaerobic methanogenic granular sludge	Environment	Soil/Dust
+anaerobic mud sewage plant	Environment	Soil/Dust
+anaerobic sediment of alkaline hypersaline lake	Environment	Soil/Dust
+anaerobic sewage digestor sludge	Environment	Soil/Dust
+anaerobic sludge of lab scale uasb reactor treating the petrochemical wastewater of purified terephthalic acid plant	Environment	Soil/Dust
+anaerobic thermophilic granular sludge	Environment	Soil/Dust
+ancient salt sediment from of salt mine	Environment	Soil/Dust
+anoxic creek sediment	Environment	Soil/Dust
+anoxic hypersaline brine sediment interface	Environment	Soil/Dust
+anoxic mud	Environment	Soil/Dust
+anoxic rice paddy soil	Environment	Soil/Dust
+anoxic sediment of tidal shallows	Environment	Soil/Dust
+anoxic sludge oil refinery waste water treatment facility	Environment	Soil/Dust
+antarctic soil upper top soil layer	Environment	Soil/Dust
+arable layer cm of heavy metal polluted paddy soil mine	Environment	Soil/Dust
+arid composite australian soil	Environment	Soil/Dust
+arid dry sand sample collected at depth of cm next to highway near jeddah saudi arabia	Environment	Soil/Dust
+arsenic contaminated freshwater sediments	Environment	Soil/Dust
+baikal sediment	Environment	Soil/Dust
+bamboo sasa borealis rizosphere soil	Environment	Soil/Dust
+bank side soil	Environment	Soil/Dust
+barley rhizosphere in pot experiment with agricultural soil	Environment	Soil/Dust
+beach sand	Environment	Soil/Dust
+beach soil sample	Environment	Soil/Dust
+beech leaf matter in waldstreu faithful forest	Environment	Soil/Dust
+biofilm of tufa deposit in hardwater creek	Environment	Soil/Dust
+biological soil crusts	Environment	Soil/Dust
+black anoxic marine sediment	Environment	Soil/Dust
+black mud of solar lake	Environment	Soil/Dust
+black sand originating from black volcanic basalt rock	Environment	Soil/Dust
+black anoxic river sediments downstream of an agricultural and residential area	Environment	Soil/Dust
+bootsock great harwood soil	Environment	Soil/Dust
+bottom mud from lake magadi	Environment	Soil/Dust
+bottom sediment sample	Environment	Soil/Dust
+bottom sediments of low mineralization soda lake	Environment	Soil/Dust
+brackish mud	Environment	Soil/Dust
+brown mud	Environment	Soil/Dust
+bulk soil of temperate orchard	Environment	Soil/Dust
+calcarenite nae	Environment	Soil/Dust
+carrara marble sample	Environment	Soil/Dust
+cave soil between rocks	Environment	Soil/Dust
+chaff cut plant material with little soil	Environment	Soil/Dust
+chernozem soil	Environment	Soil/Dust
+city soil park	Environment	Soil/Dust
+clay sample	Environment	Soil/Dust
+clay soil of grassland	Environment	Soil/Dust
+coal mine soil ph from coal mine site nalaikh province ulaanbataar mongolia	Environment	Soil/Dust
+coal waste	Environment	Soil/Dust
+coastal aquifer sediment	Environment	Soil/Dust
+coastal mud	Environment	Soil/Dust
+coastal sediment	Environment	Soil/Dust
+coastal sediment beach sand soil of the yellow sea in sindu ri	Environment	Soil/Dust
+composite mangrove soil sample	Environment	Soil/Dust
+composted soil	Environment	Soil/Dust
+contaminated airport soil	Environment	Soil/Dust
+contaminated soil	Environment	Soil/Dust
+contaminated soil from military training ground cm depth	Environment	Soil/Dust
+contaminated surface sediment	Environment	Soil/Dust
+copper polluted sediments mg kg cu from drainage channel	Environment	Soil/Dust
+corn field soil	Environment	Soil/Dust
+creek mud	Environment	Soil/Dust
+crossostephium chinense rhizosphere soil sample	Environment	Soil/Dust
+crystal bog	Environment	Soil/Dust
+cyanobacterial mat mud and water	Environment	Soil/Dust
+dashao pine forest soil	Environment	Soil/Dust
+deep aquifer sediments	Environment	Soil/Dust
+deep sea sediment	Environment	Soil/Dust
+deep sea sediment depth	Environment	Soil/Dust
+deep sedimentary aquifers filled with ancient seawater in natural gas field	Environment	Soil/Dust
+deep sea sediment sample	Environment	Soil/Dust
+deep sea sediment depth of	Environment	Soil/Dust
+deep sea sediment at about depth	Environment	Soil/Dust
+deep sea sediment of the chagos trench indian ocean	Environment	Soil/Dust
+deep sea sediment sample of the west pacific ocean at depth of	Environment	Soil/Dust
+deep sea surface sediment depth	Environment	Soil/Dust
+dense forest soil of western ghat	Environment	Soil/Dust
+desert sand	Environment	Soil/Dust
+desert soil crust	Environment	Soil/Dust
+desert varnish	Environment	Soil/Dust
+digested anaerobic sludge sewage plant	Environment	Soil/Dust
+ditch	Environment	Soil/Dust
+dolomitic marble	Environment	Soil/Dust
+dried philippine soil with decayed plant material from the landsweiler reden collection saarland germany	Environment	Soil/Dust
+drilling core from tufa at karst water creek	Environment	Soil/Dust
+dry evergreen forest soil	Environment	Soil/Dust
+dry leaves of bamboo with soil	Environment	Soil/Dust
+dumpsite hexachlorocyclohexane hch contaminated pond soil	Environment	Soil/Dust
+dust sample	Environment	Soil/Dust
+enrichment culture from soil	Environment	Soil/Dust
+entomopathogenic nematode heterorhabditis zealandica from undisturbed soil	Environment	Soil/Dust
+environmental food contact surface	Environment	Soil/Dust
+environmental swab production facility	Environment	Soil/Dust
+estuarine mud	Environment	Soil/Dust
+estuarine sediments polluted with petrols	Environment	Soil/Dust
+extreme hyper arid desert soil	Environment	Soil/Dust
+farm land soil	Environment	Soil/Dust
+farmlan soil near lead zinc mine	Environment	Soil/Dust
+feengrotten rock wall	Environment	Soil/Dust
+horizon of picea sitchensis forest soil	Environment	Soil/Dust
+field soil enrichment with chloridazon	Environment	Soil/Dust
+filtration substrate made from volcanic rock	Environment	Soil/Dust
+floor swab	Environment	Soil/Dust
+foam on the surface of aeration tanks in an activated sludge sewage treatment plant	Environment	Soil/Dust
+forest humus	Environment	Soil/Dust
+forest soil collected in klo benstein ritten at above sea level	Environment	Soil/Dust
+forest soil near lammi biological station	Environment	Soil/Dust
+forest soil samples collected from the dinghushan biosphere reserve	Environment	Soil/Dust
+forest topsoil on kyonggi university campus in suwon gyeonggi do south korea	Environment	Soil/Dust
+fragments of hydrothermal sulfide deposits depth	Environment	Soil/Dust
+fresh water environmental sediments	Environment	Soil/Dust
+freshwater pond sediment	Environment	Soil/Dust
+freshwater sediment from littoral zone	Environment	Soil/Dust
+freshwater sulfide rich mud	Environment	Soil/Dust
+frozen compost soil	Environment	Soil/Dust
+full scale activated sludge plant treating domestic waste	Environment	Soil/Dust
+garden soil in california	Environment	Soil/Dust
+garden soil with plant residues	Environment	Soil/Dust
+geothermal sandy soil	Environment	Soil/Dust
+geothermally heated marine sediment	Environment	Soil/Dust
+geothermally heated soil	Environment	Soil/Dust
+geothermally heated soils	Environment	Soil/Dust
+glacier mud collected in the inlet admiralty bay	Environment	Soil/Dust
+goat dung soil and rotting plant material	Environment	Soil/Dust
+granular sludge in thermophilic upflow anaerobic sludge blanket reactor	Environment	Soil/Dust
+granule sludge	Environment	Soil/Dust
+grass soil	Environment	Soil/Dust
+green house soil	Environment	Soil/Dust
+greenhouse soil in the yangpyeong region	Environment	Soil/Dust
+guatemala soil	Environment	Soil/Dust
+halophyte tamarix chinensis was collected from the seashore saline soil	Environment	Soil/Dust
+hch contaminated soil	Environment	Soil/Dust
+hexachlorocyclohexane contaminated dumpsite soil	Environment	Soil/Dust
+hexachlorocyclohexane contaminated dumpsite in ummari village	Environment	Soil/Dust
+high arctic tundra near the settlement ny lesund	Environment	Soil/Dust
+high temperature well pipeline sediment sample	Environment	Soil/Dust
+hot marine sediment at the beach of vulcano island	Environment	Soil/Dust
+hot spring mixture of water and mud	Environment	Soil/Dust
+hot springs and soil of the uzon caldera	Environment	Soil/Dust
+humic soil over shell lime stone	Environment	Soil/Dust
+humus soil	Environment	Soil/Dust
+hydrocarbon polluted soil	Environment	Soil/Dust
+hydrothermal sediments	Environment	Soil/Dust
+hypersaline coastal sediment of crater lake	Environment	Soil/Dust
+hypersaline sediment sample	Environment	Soil/Dust
+hypersaline soil bordering solar saltern	Environment	Soil/Dust
+hyporheic sediments	Environment	Soil/Dust
+industrial raw product	Environment	Soil/Dust
+industry raw materiel powdered	Environment	Soil/Dust
+intertidal mud	Environment	Soil/Dust
+intertidal sediment at depth of cm	Environment	Soil/Dust
+iron ore contaminated soil	Environment	Soil/Dust
+isolated from oil contaminated soil of biratnagar	Environment	Soil/Dust
+kaolin prepared for the ceramic industry	Environment	Soil/Dust
+kimmeridge clay	Environment	Soil/Dust
+kitchen unused sink	Environment	Soil/Dust
+laboratory scale activated sludge system treating coke plant effluents	Environment	Soil/Dust
+lagoon sediments ph	Environment	Soil/Dust
+lake washington sediment	Environment	Soil/Dust
+lateritic soil	Environment	Soil/Dust
+lead zinc ore from an abandoned lead zinc mine	Environment	Soil/Dust
+lichen and soil sample	Environment	Soil/Dust
+limestone	Environment	Soil/Dust
+limnetic lake sediment	Environment	Soil/Dust
+loam and soil with plant residues	Environment	Soil/Dust
+loamy sand	Environment	Soil/Dust
+loamy soil from garden	Environment	Soil/Dust
+loamy soil with plant residues from garden	Environment	Soil/Dust
+loess plateau soil aggregate	Environment	Soil/Dust
+maize rhizosphere soil	Environment	Soil/Dust
+mangrove forest soil	Environment	Soil/Dust
+mangrove soil near seashore	Environment	Soil/Dust
+marble rock	Environment	Soil/Dust
+marine beach sediment	Environment	Soil/Dust
+marine intertidal mud	Environment	Soil/Dust
+marine muds	Environment	Soil/Dust
+marine sediment depth	Environment	Soil/Dust
+marine sediment core of an undersea caldera	Environment	Soil/Dust
+marine sediment of emerald basin in meter deep	Environment	Soil/Dust
+marine sediment sample collected in pacmanus hydrothermal field manus basin papua new guinea at depth of	Environment	Soil/Dust
+marine sediment below sea floor	Environment	Soil/Dust
+marine sediments at water depth of	Environment	Soil/Dust
+marine soil	Environment	Soil/Dust
+marine subsurface sediment at depth of	Environment	Soil/Dust
+marine surface sediment	Environment	Soil/Dust
+marsh soil from nopporo forest park	Environment	Soil/Dust
+mesophilic granular sludge of an upflow anaerobic sludge blanket reactor treating high strength organic wastewater from sugar production processes	Environment	Soil/Dust
+methanogenic granular sludge	Environment	Soil/Dust
+methanogenic sludge of cellulose degrading bioreactor	Environment	Soil/Dust
+mid littoral mud	Environment	Soil/Dust
+mineral layer of spruce forest soil	Environment	Soil/Dust
+mixed sample of sand hydrothermal fluid thermal water and dissolved gases and seawater collected at shallow submarine hydrothermal vent kunashir island kurils russia	Environment	Soil/Dust
+mixed water and sediment sample containing salt crust	Environment	Soil/Dust
+mixture of sewage sludge and river sediment	Environment	Soil/Dust
+mixture of sulfides about grey sediment and black magmatic rock glass at water depth of	Environment	Soil/Dust
+monsoon evergreen broad leaved forest soil	Environment	Soil/Dust
+moss with soil	Environment	Soil/Dust
+mountain soil collected in chungju si chungcheongbuk do south korea	Environment	Soil/Dust
+mud meters underground	Environment	Soil/Dust
+mud and sand from beach	Environment	Soil/Dust
+mud boiler geyser hydrothermal system	Environment	Soil/Dust
+mud from reed bed	Environment	Soil/Dust
+mud from an estuarine marsh	Environment	Soil/Dust
+mud from hot spring	Environment	Soil/Dust
+mud from salt lagoon	Environment	Soil/Dust
+mud of hypersaline lake	Environment	Soil/Dust
+mud of lake sivash	Environment	Soil/Dust
+mud sample from pond in forest cm under water surface	Environment	Soil/Dust
+mud surface of eutrophic holomictic lake	Environment	Soil/Dust
+mud volcano soil sample	Environment	Soil/Dust
+mud forest pond	Environment	Soil/Dust
+mud sippewissett salt marsh	Environment	Soil/Dust
+muddy sediment	Environment	Soil/Dust
+muddy soil from stream base	Environment	Soil/Dust
+municipal sewage sludge	Environment	Soil/Dust
+natural bacterial endosymbiont of an acanthamoeba sp isolated from freshwater pond sediment	Environment	Soil/Dust
+nematode suppressive soil	Environment	Soil/Dust
+non rhizosphere clay soil	Environment	Soil/Dust
+north sea sediment	Environment	Soil/Dust
+ocean sediment from depth	Environment	Soil/Dust
+oil contaminated soil collected from the noonmati oil refinery	Environment	Soil/Dust
+oil contaminated beach sand	Environment	Soil/Dust
+oil contaminated soil near an oil refinery	Environment	Soil/Dust
+oil polluted estuarine sediment	Environment	Soil/Dust
+oilseed rape roots and rhizosphere soil	Environment	Soil/Dust
+onion bulb root	Environment	Soil/Dust
+oxic layer of sediment	Environment	Soil/Dust
+paddy field soil	Environment	Soil/Dust
+pah contaminated site spontaneous rifamp mutant	Environment	Soil/Dust
+paper sludge	Environment	Soil/Dust
+pastured poultry farms including feces soil ceca and whole carcass rinses	Environment	Soil/Dust
+peat	Environment	Soil/Dust
+peat sample	Environment	Soil/Dust
+peat swamp forest soil	Environment	Soil/Dust
+permafrost sediment cores	Environment	Soil/Dust
+permanently cold fjord sediment	Environment	Soil/Dust
+pesticide contaminated soil from gamma hch lindane manufacturing industrial site	Environment	Soil/Dust
+petroleum contaminated soil	Environment	Soil/Dust
+phenol contaminated soil	Environment	Soil/Dust
+photoheterotrophic enrichments of soil sample saltern	Environment	Soil/Dust
+pine forest soil cm deep horizon of partially decomposed but recognisable needles	Environment	Soil/Dust
+pit mud of the chinese luzhou flavor liquor manufacturer	Environment	Soil/Dust
+plant residue in irrigated rice field soil	Environment	Soil/Dust
+plant pathogen infested soil and its organic material	Environment	Soil/Dust
+polluted farmland soil	Environment	Soil/Dust
+polluted soil	Environment	Soil/Dust
+polychlorinated dioxin contaminated soil	Environment	Soil/Dust
+port crew quarters bump out exterior aft wall of international space station	Environment	Soil/Dust
+pre flight to international space station hardware surface sample steel built environment space craft	Environment	Soil/Dust
+profundal anoxic lake sediment meter water depth	Environment	Soil/Dust
+xylene degarding sulfate reducing enrichment culture established from petroleum contaminated marine sediments of shuaiba kuwait	Environment	Soil/Dust
+radiation contaminated soil	Environment	Soil/Dust
+raw humus	Environment	Soil/Dust
+raw humus with white sand	Environment	Soil/Dust
+reclaimed grassland	Environment	Soil/Dust
+reclaimed land mud	Environment	Soil/Dust
+red soil on basalt	Environment	Soil/Dust
+rhizospere soil of chloris ciliata	Environment	Soil/Dust
+rhizosphere sediment sample from polluted site	Environment	Soil/Dust
+rhizosphere soil from rice plant	Environment	Soil/Dust
+rhizosphere soil of flowering tree ceiba speciosa	Environment	Soil/Dust
+rhizosphere soil of mugunghwa flower hibiscus syriacus collected from kyung hee university yongin south korea	Environment	Soil/Dust
+rhizosphere soil of an ornament plant lantana camara	Environment	Soil/Dust
+rhizosphere soil of banana musa paradisiaca	Environment	Soil/Dust
+rhizosphere soil of caragana kansuensis pojark	Environment	Soil/Dust
+rhizosphere soil of chinese cabbage brassica campestris	Environment	Soil/Dust
+rhizosphere soil of cultivated watermelon citrullus lanatus collected from hefei	Environment	Soil/Dust
+rhizosphere soil of groundnut arachis hypogaea from experimental plots	Environment	Soil/Dust
+rhizosphere soil of mangrove bruguiera gymnorhiza	Environment	Soil/Dust
+rhizosphere soil of ophiopogon japonicus	Environment	Soil/Dust
+rhizosphere soil of peucedanum japonicum thunb	Environment	Soil/Dust
+rhizosphere soil of radix ophiopogonis	Environment	Soil/Dust
+rhizosphere soil of sugar cane saccharum officinarum	Environment	Soil/Dust
+rhizosphere soil of the mangrove bruguiera sexangula	Environment	Soil/Dust
+rhizosphere soil of tomato plants grown in greenhouse in yecheon gun gyeongsangbuk do republic of korea	Environment	Soil/Dust
+rhizosphere soil opuntia fiscus indica var sanboten	Environment	Soil/Dust
+rhizosphere soils of fern pteridophyte plants	Environment	Soil/Dust
+rhizospheric soil of cistus ladanifer	Environment	Soil/Dust
+rhizospheric soil of rubber tree	Environment	Soil/Dust
+rice oryza sativa rhizosphere soil from no tillage field	Environment	Soil/Dust
+rice paddy soil under denitrification inducing conditions	Environment	Soil/Dust
+rice soil from chianat	Environment	Soil/Dust
+river bank soil	Environment	Soil/Dust
+river sediment derived anaerobic bioreactor community	Environment	Soil/Dust
+rock	Environment	Soil/Dust
+rock sample	Environment	Soil/Dust
+rocks from medieval alum slate mine	Environment	Soil/Dust
+root nodules of phaseolus vulgaris plants grown in soil from sierra da peneda	Environment	Soil/Dust
+rotted wood with little soil	Environment	Soil/Dust
+rotting peel of cocoa bean with little soil	Environment	Soil/Dust
+rotting wood and wood dust with little soil	Environment	Soil/Dust
+rusty orange coloured soil with plant residues	Environment	Soil/Dust
+saharan soil from berriane palm grove	Environment	Soil/Dust
+saline alkali soil	Environment	Soil/Dust
+saline and alkaline soils	Environment	Soil/Dust
+saline soil from salt lake	Environment	Soil/Dust
+saline soil sample around the chaerhan salt lakes	Environment	Soil/Dust
+saline alkali soil	Environment	Soil/Dust
+saline alkaline sediment solonetz	Environment	Soil/Dust
+saline alkaline soil collected from heilongjiang bayi agricultural university	Environment	Soil/Dust
+salt flat	Environment	Soil/Dust
+salt lake sediments	Environment	Soil/Dust
+salt marsh mud	Environment	Soil/Dust
+salt mine sediment from crystallizer pond	Environment	Soil/Dust
+salt water beach	Environment	Soil/Dust
+saltern soil	Environment	Soil/Dust
+salty hard clay	Environment	Soil/Dust
+samples collected from stone chambers of the takamatsuzuka and kitora tumuli	Environment	Soil/Dust
+sand collected at the beach	Environment	Soil/Dust
+sand from palm tree plantation	Environment	Soil/Dust
+sand sediment	Environment	Soil/Dust
+sandstone	Environment	Soil/Dust
+sandy desert soil	Environment	Soil/Dust
+sandy loam soil	Environment	Soil/Dust
+sandy mud of beach	Environment	Soil/Dust
+sandy sediment	Environment	Soil/Dust
+sandy soil at forest waterfall	Environment	Soil/Dust
+sandy soil from vineyard	Environment	Soil/Dust
+sandy soil with plant residues from forest	Environment	Soil/Dust
+sandy subtropical savannah soil at erichsfelde above sea level	Environment	Soil/Dust
+scrubland scrubland soil soil	Environment	Soil/Dust
+scumming activated sludge wastewater treatment plant	Environment	Soil/Dust
+sea sand depth	Environment	Soil/Dust
+sea water and marine mud	Environment	Soil/Dust
+sea sand	Environment	Soil/Dust
+seasonally frozen forest soil	Environment	Soil/Dust
+seawater sediment interface	Environment	Soil/Dust
+sediment and soil samples from different marine habitats of gujarat	Environment	Soil/Dust
+sediment brine of hypersaline lake	Environment	Soil/Dust
+sediment collected from benthic regions of the south china sea depth	Environment	Soil/Dust
+sediment cores taken from an uranium contaminated environment	Environment	Soil/Dust
+sediment from hot spring	Environment	Soil/Dust
+sediment from pink pond	Environment	Soil/Dust
+sediment from shallow freshwater eutrophic lake	Environment	Soil/Dust
+sediment from an alkaline saline lake	Environment	Soil/Dust
+sediment from guanting reservoir	Environment	Soil/Dust
+sediment from india	Environment	Soil/Dust
+sediment from the bottom of terrestrial hot spring	Environment	Soil/Dust
+sediment in sewage aeration tank	Environment	Soil/Dust
+sediment of brackish low temperature iron rich spring	Environment	Soil/Dust
+sediment of fishbowl	Environment	Soil/Dust
+sediment of hypersaline lake	Environment	Soil/Dust
+sediment of soda pond	Environment	Soil/Dust
+sediment of crystallizing pond sinui island shinan korea	Environment	Soil/Dust
+sediment of getbol the korean tidal flat	Environment	Soil/Dust
+sediment of mangrove tidal flat	Environment	Soil/Dust
+sediment of shallow hydrothermal vent orifice depth	Environment	Soil/Dust
+sediment of the indian ocean	Environment	Soil/Dust
+sediment on disused mining site ancient gold mine	Environment	Soil/Dust
+sediment sample collected from jinze hot spring	Environment	Soil/Dust
+sediment sample from marine lake	Environment	Soil/Dust
+sediment sample from the salt lake ai ding	Environment	Soil/Dust
+sediment sample of saltern	Environment	Soil/Dust
+sediment sample of getbol the korean tidal flat	Environment	Soil/Dust
+sediment sample dachaidamu salt lake in the qaidam basin	Environment	Soil/Dust
+sediment samples from depth	Environment	Soil/Dust
+sediment soil of crater lake baekrokdam hallasan jeju	Environment	Soil/Dust
+sediment ardley cove	Environment	Soil/Dust
+sediment river qijiang	Environment	Soil/Dust
+sediment yellow sea	Environment	Soil/Dust
+sediments from hypersaline lake	Environment	Soil/Dust
+sediments from hypersaline soda lakes	Environment	Soil/Dust
+sediments from the five highly alkaline soda lakes of kenya	Environment	Soil/Dust
+sediments of an active shallow water vent	Environment	Soil/Dust
+sediments of hypersaline lake	Environment	Soil/Dust
+sediments of retba lake pink hypersaline lake	Environment	Soil/Dust
+sediments with decaying cladophora	Environment	Soil/Dust
+semi arid old flood plain fallow soil	Environment	Soil/Dust
+sewage plant sludge	Environment	Soil/Dust
+sewage sludge digestor	Environment	Soil/Dust
+sewage sludge from sewage treatment plant of ciudad real	Environment	Soil/Dust
+sewage containing gas works effluent	Environment	Soil/Dust
+shallow sediment sample	Environment	Soil/Dust
+shoal mud	Environment	Soil/Dust
+siberian permafrost	Environment	Soil/Dust
+silt sample	Environment	Soil/Dust
+sling mud	Environment	Soil/Dust
+sludge enrichment	Environment	Soil/Dust
+sludge from garden pond	Environment	Soil/Dust
+sludge from an anaerobic bioreactor treating paper mill wastewater	Environment	Soil/Dust
+sludge from communal sewage treatment plant	Environment	Soil/Dust
+sludge from waste generated by the recycling of discarded motor oils	Environment	Soil/Dust
+sludge in mesophilic uasb reactor in sugar manufacturing wastewater	Environment	Soil/Dust
+sludge of domestic wastewater	Environment	Soil/Dust
+sludge of monitoring well at tar oil contaminated aquifer	Environment	Soil/Dust
+sludge of aerobic digester treating municipal solid waste and sewage	Environment	Soil/Dust
+sludge of ecovision biofilm reactor applied for toxic wastewater treatment from industrial facilities	Environment	Soil/Dust
+sludge of wastewater treatment plant	Environment	Soil/Dust
+sludge sample of sewage disposal plant	Environment	Soil/Dust
+sludge anaerobic sewage digester	Environment	Soil/Dust
+sludge uasb digestor	Environment	Soil/Dust
+sludge paper industry sweden	Environment	Soil/Dust
+small stones	Environment	Soil/Dust
+soda lake sediments of meteorite impact lake	Environment	Soil/Dust
+soda solonchak soils	Environment	Soil/Dust
+soil calcic meadow cambisol	Environment	Soil/Dust
+soil mata atlantica forest	Environment	Soil/Dust
+soil cm on linnaeus terrace	Environment	Soil/Dust
+soil amp surface debris	Environment	Soil/Dust
+soil and faeces of elk	Environment	Soil/Dust
+soil and groundwater	Environment	Soil/Dust
+soil and river water	Environment	Soil/Dust
+soil and vegetables	Environment	Soil/Dust
+soil and wood dust beneath lime tree	Environment	Soil/Dust
+soil around roots of tagetes minuta	Environment	Soil/Dust
+soil associated with quercus lobator	Environment	Soil/Dust
+soil at edge of hot spring thermopolis hot springs	Environment	Soil/Dust
+soil beneath clove tree syzygium aromaticum	Environment	Soil/Dust
+soil beneath banyan tree	Environment	Soil/Dust
+soil beneath mangrove	Environment	Soil/Dust
+soil beneath palm tree	Environment	Soil/Dust
+soil besides road	Environment	Soil/Dust
+soil by enrichmend on hexamethylenetetramine	Environment	Soil/Dust
+soil collected among roots	Environment	Soil/Dust
+soil collected from hill evergreen forest	Environment	Soil/Dust
+soil collected in mountain forest	Environment	Soil/Dust
+soil collection	Environment	Soil/Dust
+soil contaminated with crude oil	Environment	Soil/Dust
+soil contaminated with hydrocarbon compounds	Environment	Soil/Dust
+soil contaminated with nitroaromatic compounds	Environment	Soil/Dust
+soil contaminated with toluene	Environment	Soil/Dust
+soil crusts	Environment	Soil/Dust
+soil enriched with dead dry tubercle bacilli strain	Environment	Soil/Dust
+soil enrichment with pantothenate	Environment	Soil/Dust
+soil from brookside	Environment	Soil/Dust
+soil from creek bank	Environment	Soil/Dust
+soil from dry hot river valley	Environment	Soil/Dust
+soil from gasification site	Environment	Soil/Dust
+soil from hypersaline mine	Environment	Soil/Dust
+soil from palm grove	Environment	Soil/Dust
+soil from rice field	Environment	Soil/Dust
+soil from salt field	Environment	Soil/Dust
+soil from suburban garden	Environment	Soil/Dust
+soil from wild karst cave	Environment	Soil/Dust
+soil from an alkaline salt water meteorite lake	Environment	Soil/Dust
+soil from an urban area	Environment	Soil/Dust
+soil from barley field	Environment	Soil/Dust
+soil from cotton rhizosphere	Environment	Soil/Dust
+soil from ditch in forest	Environment	Soil/Dust
+soil from excavation work	Environment	Soil/Dust
+soil from forest on malm stone	Environment	Soil/Dust
+soil from ginseng field	Environment	Soil/Dust
+soil from herbicide spill site	Environment	Soil/Dust
+soil from macchia	Environment	Soil/Dust
+soil from mixed woodland	Environment	Soil/Dust
+soil from nishiyama oil field	Environment	Soil/Dust
+soil from palm oil refinery	Environment	Soil/Dust
+soil from plant container	Environment	Soil/Dust
+soil from pre fresh heifer pasture	Environment	Soil/Dust
+soil from rice field	Environment	Soil/Dust
+soil from roadside	Environment	Soil/Dust
+soil from stable	Environment	Soil/Dust
+soil from territory of salt mine	Environment	Soil/Dust
+soil from the rhizophere of cephalotaxus fortunei	Environment	Soil/Dust
+soil from the surface of rock collected from the peak of volcanic cone	Environment	Soil/Dust
+soil from vineyard	Environment	Soil/Dust
+soil highly contaminated with hexachlorocyclohexane hch	Environment	Soil/Dust
+soil in evolution canyon iii in the southern negev desert	Environment	Soil/Dust
+soil in hypersaline habitats	Environment	Soil/Dust
+soil in pond filled with copper mine waste	Environment	Soil/Dust
+soil inside snail shell	Environment	Soil/Dust
+soil litter close to arum sp	Environment	Soil/Dust
+soil naturally containing boron minerals	Environment	Soil/Dust
+soil near glue factory	Environment	Soil/Dust
+soil near wastewater treatment facilities of an electroplating plant	Environment	Soil/Dust
+soil of cornus fruit field	Environment	Soil/Dust
+soil of ginseng farm	Environment	Soil/Dust
+soil of hot spring soil	Environment	Soil/Dust
+soil of production plant	Environment	Soil/Dust
+soil of tea plantation	Environment	Soil/Dust
+soil of an old munition plant enrichment with aminosalicylate	Environment	Soil/Dust
+soil of cliff	Environment	Soil/Dust
+soil of field	Environment	Soil/Dust
+soil of gold mine cave	Environment	Soil/Dust
+soil of industrial area	Environment	Soil/Dust
+soil of mangrove	Environment	Soil/Dust
+soil of paddy field	Environment	Soil/Dust
+soil of rhizosphere of tomato plant	Environment	Soil/Dust
+soil of riverbank	Environment	Soil/Dust
+soil of seaside	Environment	Soil/Dust
+soil of tenglong cave	Environment	Soil/Dust
+soil of the xixi wetland	Environment	Soil/Dust
+soil or lowland marsh	Environment	Soil/Dust
+soil polluted by crude oil	Environment	Soil/Dust
+soil sample cm of linnaeus terrace	Environment	Soil/Dust
+soil sample collected at an altitude of approximately	Environment	Soil/Dust
+soil sample collected from great wall station in the fildes	Environment	Soil/Dust
+soil sample collected from the surface of limestone of shenxian cave	Environment	Soil/Dust
+soil sample collected in jiulianchen nur dried salt lake	Environment	Soil/Dust
+soil sample from decaying forest area	Environment	Soil/Dust
+soil sample from pesticide factory	Environment	Soil/Dust
+soil sample from barkol lake	Environment	Soil/Dust
+soil sample from hypersaline habitat	Environment	Soil/Dust
+soil sample from peat swamp forest	Environment	Soil/Dust
+soil sample from tropic zone of ecorium of the national institute of ecology	Environment	Soil/Dust
+soil sample mollisol rendolls upper cm of ah horizon above sea level sample soil temperature grad celcius	Environment	Soil/Dust
+soil sample of reidholz forest between the cities denswil and richterswil switzerland	Environment	Soil/Dust
+soil sample that was collected from the rhizosphere of xanthium sibiricum	Environment	Soil/Dust
+soil samples	Environment	Soil/Dust
+soil samples from waste dump	Environment	Soil/Dust
+soil sediment of salt lake	Environment	Soil/Dust
+soil surrounding migratory bird colonies	Environment	Soil/Dust
+soil that naturally contains boron	Environment	Soil/Dust
+soil under grass	Environment	Soil/Dust
+soil using lettuce seedlings as bait	Environment	Soil/Dust
+soil with cassava waste water	Environment	Soil/Dust
+soil with faeces of donkey and horse	Environment	Soil/Dust
+soil with faeces of goates wood and other plant residues	Environment	Soil/Dust
+soil with high salt content	Environment	Soil/Dust
+soil with lime and organic residues	Environment	Soil/Dust
+soil with lime pebbles and plant material	Environment	Soil/Dust
+soil with lime pebbles and root residues from wheat site	Environment	Soil/Dust
+soil with moss	Environment	Soil/Dust
+soil with plant residues	Environment	Soil/Dust
+soil with plant residues and faeces of cow and horse	Environment	Soil/Dust
+soil with plant residues and lime pebbles	Environment	Soil/Dust
+soil with plant residues and raw humus	Environment	Soil/Dust
+soil with plant residues and wood from garden	Environment	Soil/Dust
+soil with plant residues beneath genista etnensis	Environment	Soil/Dust
+soil with plant residues beneath sequoia sempervirens	Environment	Soil/Dust
+soil with plant residues from apple tree terrain	Environment	Soil/Dust
+soil with plant residues from clover field	Environment	Soil/Dust
+soil with plant residues from forest	Environment	Soil/Dust
+soil with plant residues from heathland	Environment	Soil/Dust
+soil with plant residues from palm tree garden	Environment	Soil/Dust
+soil with plant residues from rhizosphere from cropped wheat field	Environment	Soil/Dust
+soil with plant residues from stone pine forest	Environment	Soil/Dust
+soil with plant residues inside snail shell	Environment	Soil/Dust
+soil with plant residues with faeces of goat	Environment	Soil/Dust
+soil with plant residues lyophilized	Environment	Soil/Dust
+soil with root residues	Environment	Soil/Dust
+soil with rotting plant material	Environment	Soil/Dust
+soil with rotting wood and raw humus	Environment	Soil/Dust
+soil with snail shells lime pebbles and plant residues	Environment	Soil/Dust
+soil with toluene as the sole source	Environment	Soil/Dust
+soil vineyard in the georgian	Environment	Soil/Dust
+soil arable	Environment	Soil/Dust
+soil coal mine	Environment	Soil/Dust
+soil coniferous wood	Environment	Soil/Dust
+soil desciduous wood	Environment	Soil/Dust
+soil enriched with dead dry tubercule bacilli	Environment	Soil/Dust
+soil enrichment with naphthalene	Environment	Soil/Dust
+soil farmland	Environment	Soil/Dust
+soil ghardaia algeria	Environment	Soil/Dust
+soil horse meadow	Environment	Soil/Dust
+soil mat from chinese hot spring long pu	Environment	Soil/Dust
+soil near hot water effluent	Environment	Soil/Dust
+soil poly hydroxybutyrate enriched	Environment	Soil/Dust
+soil raw humus plant residues twigs	Environment	Soil/Dust
+soil rhizosphere of tomato plant	Environment	Soil/Dust
+soil salt lake	Environment	Soil/Dust
+soil solar saltern	Environment	Soil/Dust
+soil vegetable field	Environment	Soil/Dust
+soil woodland	Environment	Soil/Dust
+soil desert	Environment	Soil/Dust
+soil enrichment with phb as sole carbon source	Environment	Soil/Dust
+soil garden	Environment	Soil/Dust
+soil humic	Environment	Soil/Dust
+soil noncontaminated enrichment with dibenzofuran	Environment	Soil/Dust
+soil rice rhizosphere oryza sativa	Environment	Soil/Dust
+soil salt lake sebkha	Environment	Soil/Dust
+soil cm below an ice glacier above sea level	Environment	Soil/Dust
+soiled dishes	Environment	Soil/Dust
+solar salt marsh	Environment	Soil/Dust
+solar saltern republic of korea	Environment	Soil/Dust
+solfataric muds	Environment	Soil/Dust
+soybean curd waste sludge	Environment	Soil/Dust
+spring sediment	Environment	Soil/Dust
+storeroom of tianjin museum	Environment	Soil/Dust
+sub desert soil	Environment	Soil/Dust
+subsurface clay bedding	Environment	Soil/Dust
+subsurface saline soil	Environment	Soil/Dust
+subsurface sediment undergoing uranium bioremediation	Environment	Soil/Dust
+subsurface soil of metal mine with high concentrations of arsenic and other heavy metals	Environment	Soil/Dust
+subterranean forest sediment	Environment	Soil/Dust
+sugarcane field soil	Environment	Soil/Dust
+sulfidic sediment of hypersaline soda lake	Environment	Soil/Dust
+surface areas of deli equipment wash sink	Environment	Soil/Dust
+surface of sediment core sample collected at depth of	Environment	Soil/Dust
+surface of weathered potassic trachyte rock	Environment	Soil/Dust
+surface sediment from fresh water reservoir	Environment	Soil/Dust
+surface sediment samples collected at the waterline from the shore	Environment	Soil/Dust
+surface soil of ginseng field	Environment	Soil/Dust
+surficial sediments of permanently ice covered meromictic lake	Environment	Soil/Dust
+swampy meadow soil	Environment	Soil/Dust
+taxid thale cress greenhouse plant associated soil	Environment	Soil/Dust
+thal desert	Environment	Soil/Dust
+the muddy soil collected from river bank	Environment	Soil/Dust
+the soil of an iron mine	Environment	Soil/Dust
+thermophilic aerobic digestor of sewage sludge	Environment	Soil/Dust
+thermophilic digester of wastewater treatment sludge	Environment	Soil/Dust
+thermophilic sewage sludge decomposing organic solid wastes	Environment	Soil/Dust
+tidal and seawater pools located at sewage sludge disposal sites	Environment	Soil/Dust
+tidal flat sediment of muui do	Environment	Soil/Dust
+tidal flat sediment taean south korean peninsula	Environment	Soil/Dust
+tomato soil	Environment	Soil/Dust
+topsoil of temperate broadleaf forest	Environment	Soil/Dust
+tropical rainforest soil	Environment	Soil/Dust
+tundra wetland soil	Environment	Soil/Dust
+uncontaminated soil	Environment	Soil/Dust
+upflow anaerobic sludge blanket uasb reactor	Environment	Soil/Dust
+upper oxic layer of lichen dominated peatland tundra soils	Environment	Soil/Dust
+urban soil	Environment	Soil/Dust
+vertisol	Environment	Soil/Dust
+volcanic mudflow deposits derived from the eruption of mt pinatubo	Environment	Soil/Dust
+volcanic tuff	Environment	Soil/Dust
+washroom sink in hospital intensive care unit	Environment	Soil/Dust
+waste water treatment sludge	Environment	Soil/Dust
+wastewater activated sludge	Environment	Soil/Dust
+water and soil from waste water treatment plant associated with nitrobenzene production plant	Environment	Soil/Dust
+water reservoir sediment at depth of cm	Environment	Soil/Dust
+water sediment slurry from hot spring ph salinity	Environment	Soil/Dust
+weathered faeces of herbivore with soil	Environment	Soil/Dust
+wet soil samples garden soil	Environment	Soil/Dust
+wheat rhizosphere soil	Environment	Soil/Dust
+wood dust and other plant material with little soil	Environment	Soil/Dust
+yellow mineral powder in sphaerical sandstone concretion found on linnaeus terrace	Environment	Soil/Dust
+zoige wetland soil	Environment	Soil/Dust
+pet treat pig ear	Animal Feed	Swine
+smoked pork cartlidge pet treat	Animal Feed	Swine
+deli ham and american sandiwich	Food	Swine
+food caracass swab sus	Food	Swine
+food pig sus	Food	Swine
+food pork salami sus	Food	Swine
+ham not sliced	Food	Swine
+modified atmosphere packaged pork chop	Food	Swine
+porc meat	Food	Swine
+pork ham	Food	Swine
+processed meat for hotdog swine	Food	Swine
+salame sopressata	Food	Swine
+smoked boneless ham	Food	Swine
+sus food mett minced meat for raw consumption	Food	Swine
+vacuum packed ham bologna	Food	Swine
+aborted fotus of swine	Livestock	Swine
+age weeks sus scrofa tonsil scrape	Livestock	Swine
+animal swine market swine	Livestock	Swine
+bbq pork	Livestock	Swine
+brain of pig with meningitis	Livestock	Swine
+caecum fattening pig sus scrofa	Livestock	Swine
+colon of pig with dysentery	Livestock	Swine
+cystitis and pyelonephritis of pig	Livestock	Swine
+edema disease of swine	Livestock	Swine
+faeces feces pig piggery	Livestock	Swine
+feces market swine sus scrofa	Livestock	Swine
+feces sus scrofa host	Livestock	Swine
+feed of swine farm	Livestock	Swine
+ground pork	Livestock	Swine
+healthy pig tonsills	Livestock	Swine
+hemorrhagic colitis pig	Livestock	Swine
+ileum sus scrofa scrofa	Livestock	Swine
+intestine small sus scrofa	Livestock	Swine
+live pig swab	Livestock	Swine
+lynpe node pig	Livestock	Swine
+meat pork	Livestock	Swine
+minced pork	Livestock	Swine
+nasal cavity of healthy pig	Livestock	Swine
+nose swab pig	Livestock	Swine
+perciardial pig	Livestock	Swine
+pig articular liquid arthritis	Livestock	Swine
+pig caecum	Livestock	Swine
+pig colon mths old proliferating enteropathia	Livestock	Swine
+pig faeces	Livestock	Swine
+pig fetus abortion	Livestock	Swine
+pig ileocecal valve proliferative enteritis	Livestock	Swine
+pig isolated from deseased pig in yiyang city	Livestock	Swine
+pig joint deceased animal with arthritis	Livestock	Swine
+pig liver from slaughterhouse	Livestock	Swine
+pig manure	Livestock	Swine
+pig necrotic colitis pig	Livestock	Swine
+pig pig farm	Livestock	Swine
+pig placenta abortion	Livestock	Swine
+pig septicaemia	Livestock	Swine
+pig skin twists	Livestock	Swine
+pig stomach gastric biopsy	Livestock	Swine
+pig throat	Livestock	Swine
+pig vagina	Livestock	Swine
+pig cns symptoms	Livestock	Swine
+pig joint infection	Livestock	Swine
+pig synovial fluid	Livestock	Swine
+piglet	Livestock	Swine
+pig manure storage pond	Livestock	Swine
+porcine autopsy	Livestock	Swine
+porcine feces	Livestock	Swine
+porcine foetus spontaneous porcine abortion	Livestock	Swine
+porcine intestine porcine	Livestock	Swine
+porcine joint	Livestock	Swine
+porcine lung pneumonia	Livestock	Swine
+porcine pig	Livestock	Swine
+porcine semen environmental contaminant	Livestock	Swine
+porcine tongue	Livestock	Swine
+porcine vaginal	Livestock	Swine
+pork boudin	Livestock	Swine
+pork chops	Livestock	Swine
+pork liver	Livestock	Swine
+pork shoulder picnic	Livestock	Swine
+pre chill porcine carcass swab	Livestock	Swine
+raw liver from pig	Livestock	Swine
+raw pork sus sp	Livestock	Swine
+rolled pork skin	Livestock	Swine
+sick pig swine	Livestock	Swine
+sow urine	Livestock	Swine
+submandibular lymph node of an infected pig	Livestock	Swine
+sus scrofa animal	Livestock	Swine
+sus scrofa domesticus fattening pig caecal sample host	Livestock	Swine
+sus scrofa domestricus oral fluid	Livestock	Swine
+sus scrofa meat from pork	Livestock	Swine
+sus scrofa veterinary diagnostic	Livestock	Swine
+swab of pen on porcine farm	Livestock	Swine
+swine brain meningitis	Livestock	Swine
+swine dysentery	Livestock	Swine
+swine final chilled carcass swine final chilled carcass swab isolate abattoir	Livestock	Swine
+swine joint fluid	Livestock	Swine
+swine lymphnode	Livestock	Swine
+swine manure storage tank	Livestock	Swine
+swine preevisceration carcass swine preevisceration carcass swab swine preevisceration carcass swab isolate abattoir	Livestock	Swine
+swine manure storage pit	Livestock	Swine
+tissue pool porcine	Livestock	Swine
+weanling pig diarrhoea	Livestock	Swine
+gastric mucosa and caecal contents of three different wild boars sus scrofa	Wild Animal	Swine
+sus other meat wild pig	Wild Animal	Swine
+animal feed frozen adult mice	Animal Feed	Unspecified Meat
+bulk pet chew	Animal Feed	Unspecified Meat
+dried venison dog treats	Animal Feed	Unspecified Meat
+lb package of meat cat food	Animal Feed	Unspecified Meat
+pet treat rawhide chew bone	Animal Feed	Unspecified Meat
+rabbit ears dog treats	Animal Feed	Unspecified Meat
+assorted sub meats	Food	Unspecified Meat
+broiler meat packaged under modified atmosphere	Food	Poultry
+deli meat ham	Food	Unspecified Meat
+entrails meal	Food	Unspecified Meat
+fiambre bondiola	Food	Unspecified Meat
+fresh sausage production	Food	Unspecified Meat
+horse meat	Food	Unspecified Meat
+meat and bone meal	Food	Unspecified Meat
+meat ham	Food	Unspecified Meat
+meat skewers	Food	Unspecified Meat
+product rte fully cooked meat nonmeat combination combination species	Food	Unspecified Meat
+roast meat flavor	Food	Unspecified Meat
+sausage meat special kind of meat loaf leberkse	Food	Unspecified Meat
+solid food food ready to eat meat and poultry raw fermented semi dry sausage fermented	Food	Unspecified Meat
+venison sausage section	Food	Unspecified Meat
+hot spring on mt maquiling	Environment	Water/River
+water sample collected from the han river in seoul	Environment	Water/River
+acidic hot spring	Environment	Water/River
+aerobic granules bioremidation of phenolic wastewater	Environment	Water/River
+algal mat collected from sulfurous spring in the santa maria incaldana site	Environment	Water/River
+alkaline hot spring tsenher	Environment	Water/River
+anaerobic digester fed with olive mill wastewater	Environment	Water/River
+anaerobic large scale tank reactor treating sugar refinery wastewater	Environment	Water/River
+anaerobic wastewater reactor	Environment	Water/River
+aquifer contaminated water groundwater contaminated with cr vi thorn forest	Environment	Water/River
+bacterial mat of sulfide mineral spring	Environment	Water/River
+biofilm in methanol fed denitrification system treating seawater	Environment	Water/River
+biomass slugde of an anaerobic reactor treating cheese waste water	Environment	Water/River
+bleached kraft mill effluent	Environment	Water/River
+brackish water creek flowing into saltwater	Environment	Water/River
+brine spring	Environment	Water/River
+cedar spring	Environment	Water/River
+coastal hot spring	Environment	Water/River
+condensation water of the shenzhou spacecraft	Environment	Water/River
+cooking water of cork transformation industry	Environment	Water/River
+cow water source	Environment	Water/River
+dairy sewage	Environment	Water/River
+desert spring	Environment	Water/River
+distilled water industry	Environment	Water/River
+drainage creek peat bog	Environment	Water/River
+drinking water supply untreated water	Environment	Water/River
+effluent channel of nuclear power plant	Environment	Water/River
+effluent of fibre glass industry	Environment	Water/River
+environment farm running water	Environment	Water/River
+environmental streams	Environment	Water/River
+ferric deposits of terrestrial hydrothermal spring	Environment	Water/River
+food industry wastewater with high salinity	Environment	Water/River
+freshwater from river	Environment	Water/River
+freshwater spring contaminated with residential and agricultural wastewater	Environment	Water/River
+fungia danai sea coral mucus of coral water	Environment	Water/River
+geothermal spring	Environment	Water/River
+handwash basin drain	Environment	Water/River
+hospital water	Environment	Water/River
+hot spring terrestrial ph	Environment	Water/River
+hot spring run offs	Environment	Water/River
+hot springs	Environment	Water/River
+hypersaline brine spring	Environment	Water/River
+industrial sewage plant	Environment	Water/River
+industrial water	Environment	Water/River
+industry water ro quality	Environment	Water/River
+industry water ro quality	Environment	Water/River
+irrigation water site	Environment	Water/River
+lab scale denitrifying reactor treating landfill leachate	Environment	Water/River
+land hot spring	Environment	Water/River
+manatee springs water	Environment	Water/River
+marine oceanic pelagic zone sea water	Environment	Water/River
+microbial mat from jozankei hot spring	Environment	Water/River
+mixed sample of sediment water and biomass of hot spring	Environment	Water/River
+mud at the bank of freshwater stream	Environment	Water/River
+narugo hot spring	Environment	Water/River
+non tidal freshwater creek	Environment	Water/River
+olive mill wastewater	Environment	Water/River
+organic waste leachate	Environment	Water/River
+pasture mill creek on hargrove lake rd btw myers farm and dudley farm rds	Environment	Water/River
+polluted river water	Environment	Water/River
+pond water applied to tomato plants	Environment	Water/River
+probiotic dairy industry effluent	Environment	Water/River
+pulp and paper waste water	Environment	Water/River
+raw domestic sewage	Environment	Water/River
+river	Environment	Water/River
+river ganga	Environment	Water/River
+riverwater	Environment	Water/River
+rural area water buffalo farm salmonella enterica subsp enteritidis feces	Environment	Water/River
+salmonella enterica subsp enterica serovar enteritidis seawage water host	Environment	Water/River
+salted olive processing effluents from an evaporation pond	Environment	Water/River
+sample from sabancuy lagoon enriched in tcsb with nacl added water enriched culture in triptone casein soja medium environment migs mims mimarks water	Environment	Water/River
+sea water obtained off coast of oahu hawaii	Environment	Water/River
+seawater on puzol beach	Environment	Water/River
+sediment and water	Environment	Water/River
+sediment water mixture from terrestrial hot spring	Environment	Water/River
+sewage compost	Environment	Water/River
+sewage plant	Environment	Water/River
+sewage treatment plant	Environment	Water/River
+shrimp and halibut processing plant post processing water	Environment	Water/River
+small river qued ziz	Environment	Water/River
+spent irrigation water from rinse tank	Environment	Water/River
+strawboard waste water	Environment	Water/River
+sugar refinery wastewater	Environment	Water/River
+sulfur springs	Environment	Water/River
+sulphide spring	Environment	Water/River
+surface water and sediment from an acidic hot spring	Environment	Water/River
+tap water	Environment	Water/River
+terrestrial hot spring champagne pool in waiotapu	Environment	Water/River
+textile dyeing wastewater treatment pond	Environment	Water/River
+the zhuozhou wastewater treatment plant	Environment	Water/River
+thermal sulfur spring	Environment	Water/River
+thiodendron bacterial sulfur mat of mineral spring	Environment	Water/River
+treated wastewater from an urban wastewater treatment plant	Environment	Water/River
+underground thermal mineral water	Environment	Water/River
+uranium mine effluent	Environment	Water/River
+waistwater	Environment	Water/River
+warmspring water	Environment	Water/River
+waste water from aeration tank	Environment	Water/River
+waste water of bioreactor	Environment	Water/River
+waste water treatment plant	Environment	Water/River
+wastewater cnd number	Environment	Water/River
+wastewater of dyeworks	Environment	Water/River
+wastewater of sihwa lake	Environment	Water/River
+wastewater sample collected from the acidic water neutralisation facility of gwanyang steelworks	Environment	Water/River
+wastewater treatment plant	Environment	Water/River
+wastewater tannery	Environment	Water/River
+water agricultral irrigation ditch	Environment	Water/River
+water brine in permafrost	Environment	Water/River
+water column of geothermal spring	Environment	Water/River
+water flash ng pmole rep	Environment	Water/River
+water from mesothermic spring	Environment	Water/River
+water from terrestrial thermal spring	Environment	Water/River
+water from terrestrial hot spring	Environment	Water/River
+water ga pond bb	Environment	Water/River
+water ga pond rt	Environment	Water/River
+water in industry	Environment	Water/River
+water of saline hotspring	Environment	Water/River
+water of river elbe	Environment	Water/River
+water of the chaohu river	Environment	Water/River
+water pond cc	Environment	Water/River
+water pond sc	Environment	Water/River
+water sample from hot spring	Environment	Water/River
+water sample from spring	Environment	Water/River
+water samples from food factories	Environment	Water/River
+water supply of the la timone hospital centre	Environment	Water/River
+water with snail shells	Environment	Water/River
+water sand	Environment	Water/River
+water hospital	Environment	Water/River
+water hospital shower	Environment	Water/River
+water river	Environment	Water/River
+water warm spring	Environment	Water/River
+xx water ngs ng rep	Environment	Water/River
+enhydra otter specimen placenta	Wild Animal	Weasel/Badger (Mustelid)
+mammary gland supra mammary lymph node otter	Wild Animal	Weasel/Badger (Mustelid)
+mustelid mink feces	Wild Animal	Weasel/Badger (Mustelid)
+otter head abscess in mixed culture	Wild Animal	Weasel/Badger (Mustelid)
+otter wound after bite on an adult female animal	Wild Animal	Weasel/Badger (Mustelid)
+animal feed zoo diet feed	Animal Feed	Animal_Feed__(ND/Others)
+dog food patties	Animal Feed	Animal_Feed__(ND/Others)
+feed for rodents	Animal Feed	Animal_Feed__(ND/Others)
+ingredient pet food	Animal Feed	Animal_Feed__(ND/Others)
+pet toy knot rope and toy	Animal Feed	Animal_Feed__(ND/Others)
+tmr silage zennoh feed mills of the tohoku district miyagi japan stored in hachimantai iwate japan	Animal Feed	Animal_Feed__(ND/Others)
+agricultural	Environment	Environment__(ND/Others)
+environmental not available to be reported later	Environment	Environment__(ND/Others)
+badam lachha snack food	Food	Food__(ND/Others)
+bhelpuri chowpati	Food	Food__(ND/Others)
+breading mix	Food	Food__(ND/Others)
+canned soup	Food	Food__(ND/Others)
+chilled food display doors amp prep bench	Food	Food__(ND/Others)
+cooked turkey stuffed with mushroms and chestnuts pork in the meat	Food	Food__(ND/Others)
+curry white meat chicken salad with walnuts	Food	Food__(ND/Others)
+dried soup	Food	Food__(ND/Others)
+essential oils isolation	Food	Food__(ND/Others)
+food rize based after storage at for weeks	Food	Food__(ND/Others)
+food free living	Food	Food__(ND/Others)
+galactooligosaccharides used in manufacture of infant formula	Food	Food__(ND/Others)
+granola bar chocolate chip	Food	Food__(ND/Others)
+isolate from meal replacement	Food	Food__(ND/Others)
+khatta meetha food	Food	Food__(ND/Others)
+mashrouha marzipan	Food	Food__(ND/Others)
+mixture crispy indian snacks	Food	Food__(ND/Others)
+nehari masala mixed spices	Food	Food__(ND/Others)
+paneer butter masala spice mix	Food	Food__(ND/Others)
+ras malai instant food mix	Food	Food__(ND/Others)
+roast pork and duck mix	Food	Food__(ND/Others)
+salt fermented food	Food	Food__(ND/Others)
+shake mix powder	Food	Food__(ND/Others)
+snack punjabi mix	Food	Food__(ND/Others)
+spice mix paneer makhanwala	Food	Food__(ND/Others)
+turkey salad sandwich with almonds	Food	Food__(ND/Others)
+mixed fresh horse and swine manure	Livestock	Livestock__(ND/Others)
+age iptg induction at sex neuter host	ND	ND__(ND/Others)
+age tissue maternal side	ND	ND__(ND/Others)
+age weeks sex female host	ND	ND__(ND/Others)
+bovis tss seq	ND	ND__(ND/Others)
+coprocultive	ND	ND__(ND/Others)
+enrichment	ND	ND__(ND/Others)
+helen kaplan facility	ND	ND__(ND/Others)
+host age isolated organism host	ND	ND__(ND/Others)
+host age urine host	ND	ND__(ND/Others)
+monitor tissue composite	ND	ND__(ND/Others)
+salmonella enterica pool tex	ND	ND__(ND/Others)
+sex female age to host	ND	ND__(ND/Others)
+sex minus host	ND	ND__(ND/Others)
+stool host age host age oct host	ND	ND__(ND/Others)
+tsinghua university	ND	ND__(ND/Others)
+wild type body site ct tumor infected with typhimurium	ND	ND__(ND/Others)
+asian elephant	Wild Animal	Wild_Animal__(ND/Others)
+elephant oral cavity	Wild Animal	Wild_Animal__(ND/Others)
+faeces of elephas maximus	Wild Animal	Wild_Animal__(ND/Others)
+giraffa camelopardalis giraffe	Wild Animal	Wild_Animal__(ND/Others)
+liver tissue wildlife	Wild Animal	Wild_Animal__(ND/Others)
+oral cavity of healthy captive brown bear	Wild Animal	Wild_Animal__(ND/Others)
+saliva african elephant	Wild Animal	Wild_Animal__(ND/Others)
+tamandua mexicana feces	Wild Animal	Wild_Animal__(ND/Others)
+weathered faeces of donkey or camel	Wild Animal	Wild_Animal__(ND/Others)
+amphibian	Wild Animal	Amphibian
+atcc	Laboratory	Laboratory
+beef formula patties	Animal Feed	Bovine
+blood meal	Animal Feed	Unspecified Meat
+bullystick	Animal Feed	Bovine
+candy bar	Food	Food__(ND/Others)
+cheese	Food	Dairy
+chihuahua	Companion Animal	Canine
+cooked tuna	Food	Fish
+dairy feed	Animal Feed	Dairy
+dolphin	Aquatic Animal	Marine Mammal
+elk	Wild Animal	Deer (Cervidae)
+falcons	Wild Animal	Avian
+fish meal	Animal Feed	Fish
+glass	Environment	Plant
+ham	Food	Swine
+horse	Livestock	Equine
+insect	Wild Animal	Invertebrate
+kiang	Wild Animal	Equine
+livestock	Livestock	Livestock__(ND/Others)
+marten	Wild Animal	Weasel/Badger (Mustelid)
+mixed raw bones	Livestock	Livestock__(ND/Others)
+mule	Livestock	Equine
+ostrich	Wild Animal	Avian
+pastrami	Food	Bovine
+phytoplankton	Environment	Plant
+prairie dog	Wild Animal	Rodent
+reptile	Wild Animal	Reptile
+salamander	Wild Animal	Amphibian
+serial passage	Laboratory	Laboratory
+shellfish	Aquatic Animal	Shellfish
+soft drink	Food	Food__(ND/Others)
+steamed mussel	Food	Shellfish
+tree	Environment	Plant
+unknown	ND	ND__(ND/Others)
+weasel	Wild Animal	Weasel/Badger (Mustelid)
+yogurt	Food	Dairy

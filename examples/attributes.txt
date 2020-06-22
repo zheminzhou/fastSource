@@ -39,6 +39,7 @@ Animal Feed	Poultry
 Animal Feed	Fish
 Animal Feed	Plant
 Animal Feed	
+Animal Feed	Dairy
 Food	Plant
 Food	Dairy
 Food	Poultry

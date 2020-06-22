@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<!-- This site was created in Webflow. http://www.webflow.com -->
+<!-- Last Published: Fri Jun 19 2020 17:11:45 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="zhemins-blank-site.webflow.io" data-wf-page="5eecbc6554b702f75a1b2218" data-wf-site="5eecbc6554b702934d1b2217" data-wf-status="1">
+<head>
+	<meta charset="utf-8"/>
+	<title>
+	FastSource</title>
+	<meta content="width=device-width, initial-scale=1" name="viewport"/>
+
+	<link href="static/img/icon2.png" rel="shortcut icon" type="image/x-icon"/>
+	<link href="static/img/icon.png" rel="apple-touch-icon"/>
+
+	<link href="static/css/fastSource.css" rel="stylesheet" type="text/css"/>
+	<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
+	<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
+
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" crossorigin="anonymous"> </script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.js" crossorigin="anonymous"> </script>
+	<script type="text/javascript" src="static/js/fastSource.js"> </script>
+</head>
+<body>
+	<div>
+		<a href="https://github.com/zheminzhou/fastSource" target="_blank"> <img src="static/img/logo1.png" id="logo1" alt=""/> </a>
+		<a href="https://enterobase.warwick.ac.uk/" target="_blank"> <img src="static/img/logo2.png" id="logo2" alt=""/> </a>
+	</div>
+	<div data-duration-in="300" data-duration-out="100" class="tabs-2 w-tabs">
+		<div class='doc'> <b>FastSource</b> is an automatic classification pipeline for isolation sources of bacteria using <a href="https://fasttext.cc/" target="_blank"><b>FastText</b></a>. 
+		It can be applied on any pre-defined scheme, after training on a corresponding dataset (see the <a href="https://github.com/zheminzhou/fastSource" target="_blank">github documentation</a> for details). 
+		<br/>This implementation of <b>FastSource</b> is trained for the following scheme(s): </div>
+		<div class="w-tab-menu scheme-menu">
+		</div>
+		<div class='doc'>
+			Select a scheme, input raw, unformated isolation sources into the text box below, and click "Submit" to get their classification results. 
+		</div>
+		<div class="tabs-content w-tab-content">
+			<div class="tab-pane-tab-1 w-tab-pane w--tab-active">
+				<div class="w-row">
+					<div class="w-col w-col-4">
+						<div class="w-form">
+							<label id="heading">Raw isolation source: (maximum 1000 lines)</label>
+							<form id="raw-form" name="raw-form" data-name="Raw isolation source">
+								<textarea rows="19" cols="50" class="w-input raw-text" name="name" data-name="Name" placeholder="" id="name">bamboo</textarea>
+								<input type="submit" value="Submit" class="w-button submit-raw"/>
+							</form>
+							<div class="w-form-done">
+								<div>Thank you! Your submission has been received!</div>
+							</div>
+							<div class="w-form-fail">
+								<div>Oops! Something went wrong while submitting the form.</div>
+							</div>
+						</div>
+					</div>
+					<div class="w-col w-col-8">
+						<label id="heading">Results: (select and copy as text)</label>
+						<div id="jsGrid">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+</body>
+</html>
+
